@@ -43,7 +43,7 @@ hexo.extend.helper.register('cloudTags', function (options = {}) {
   })
 
   const length = sizes.length - 1
-  source.forEach(tag => {
+  source.sort('name').forEach(tag => {
     const ratio = length ? sizes.indexOf(tag.length) / length : 0
     const size = minfontsize + ((maxfontsize - minfontsize) * ratio)
     let style = `font-size: ${parseFloat(size.toFixed(2))}${unit};`
