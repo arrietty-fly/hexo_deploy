@@ -50,7 +50,7 @@ jobs:
       - name: 部署到Github
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          token: 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
+          token: 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
           repository-name: arrietty-fly/arrietty-fly.github.io
           branch: main
           folder: public
