@@ -5,6 +5,7 @@
 menu:
   Home:  /  || fas fa-home
   留言板: /comments/ || fas fa-envelope
+  Books: /Books/Books.html || calendar || fas fa-book
   # Home: / || fas fa-home
   # Archives: /archives/ || fas fa-archive
   # Tags: /tags/ || fas fa-tags
@@ -1016,3 +1017,6 @@ CDN:
     # prismjs_autoloader:
     # artalk_js:
     # artalk_css:
+
+
+

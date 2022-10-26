@@ -2,6 +2,9 @@ footer:
   framework: 框架
   theme: 主题
 
+Menu:
+ Books: 书籍
+
 copy:
   success: 复制成功
   error: 复制错误
