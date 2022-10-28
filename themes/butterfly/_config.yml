@@ -3,7 +3,6 @@
 # --------------------------------------
 
 menu:
-  Books: /Books/Books.html || calendar
   # Home: / || fas fa-home
   # Archives: /archives/ || fas fa-archive
   # Tags: /tags/ || fas fa-tags
