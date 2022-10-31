@@ -1,6 +1,7 @@
 ---
 title: 异世映像馆
 date: 2022-10-26 20:17:51
+aside: false
 typora-root-url: ..
 ---
 
