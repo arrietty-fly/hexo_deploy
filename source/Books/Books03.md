@@ -13,4 +13,6 @@ aside: false
 
 [![绽放的](https://s1.ax1x.com/2022/11/01/x7o10A.md.png)](https://imgse.com/i/x7o10A)
 
+[![魔女之旅](https://s1.ax1x.com/2022/11/01/x7ogpT.md.jpg)](https://imgse.com/i/x7ogpT)
+
 {% endgallery %}
