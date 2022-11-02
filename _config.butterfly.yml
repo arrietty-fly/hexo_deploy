@@ -86,7 +86,7 @@ favicon: /img/favicon.png
 
 # Avatar (头像)
 avatar:
-  img: https://s1.ax1x.com/2022/11/02/xHhlh8.png
+  img: https://s1.ax1x.com/2022/11/02/xHOVeO.png
   effect: false
 
 # Disable all banner image
@@ -140,7 +140,7 @@ error_img:
 error_404:
   enable: false
   subtitle: 'Page Not Found'
-  background: https://s1.ax1x.com/2022/11/02/xHhE1e.jpg
+  background: https://s1.ax1x.com/2022/11/02/xHOiS1.jpg
 
 post_meta:
   page: # Home Page
