@@ -84,9 +84,9 @@ katex:
 # Favicon（網站圖標）
 favicon: /img/favicon.png
 
-# Avatar (頭像)
+# Avatar (头像)
 avatar:
-  img: https://s1.ax1x.com/2022/10/26/xWj8Sg.jpg
+  img: https://s1.ax1x.com/2022/11/02/xHhlh8.png
   effect: false
 
 # Disable all banner image
@@ -140,7 +140,7 @@ error_img:
 error_404:
   enable: false
   subtitle: 'Page Not Found'
-  background: https://i.loli.net/2020/05/19/aKOcLiyPl2JQdFD.png
+  background: https://s1.ax1x.com/2022/11/02/xHhE1e.jpg
 
 post_meta:
   page: # Home Page
