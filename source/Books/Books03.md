@@ -6,8 +6,6 @@ aside: false
 
 {% gallery %}
 
-[![夏日重现](https://s1.ax1x.com/2022/11/02/xHNASS.md.png)](https://imgse.com/i/xHNASS)
-
 [![夏日重现](https://s1.ax1x.com/2022/11/02/xHNs6e.md.png)](https://imgse.com/i/xHNs6e)
 
 [<img src="https://s1.ax1x.com/2022/11/02/xHNxpT.md.png" alt="奇蛋物语"  />](https://imgse.com/i/xHNxpT)
@@ -23,6 +21,10 @@ aside: false
 [<img src="https://s1.ax1x.com/2022/11/02/xHUQHA.png" alt="紫罗兰永恒花园" style="zoom: 33%;" />](https://imgse.com/i/xHUQHA)
 
 [![紫罗兰永恒花园](https://s1.ax1x.com/2022/11/02/xHU3Nt.png)](https://imgse.com/i/xHU3Nt)
+
+[![紫罗兰永恒花园](https://s1.ax1x.com/2022/11/02/xHB3Sx.png)](https://imgse.com/i/xHB3Sx)
+
+[![电锯人](https://s1.ax1x.com/2022/11/02/xHBhhn.png)](https://imgse.com/i/xHBhhn)
 
 [![86不存在的战区](https://s1.ax1x.com/2022/11/02/xHdZOe.md.png)](https://imgse.com/i/xHdZOe)
 
