@@ -12,7 +12,7 @@ aside: false
 
 <img src="https://m1.im5i.com/2022/11/03/UVHZHC.png" alt="电锯人" style="zoom:33%;" />
 
-<img src="https://m1.im5i.com/2022/11/03/UVHkTH.png" alt="电锯人" style="zoom:150%;" />
+<img src="https://m1.im5i.com/2022/11/03/UVHkTH.png" alt="电锯人" style="zoom: 200%;" />
 
 <img src="https://m1.im5i.com/2022/11/03/UVHCea.png" alt="奇蛋物语" style="zoom:50%;" />
 
