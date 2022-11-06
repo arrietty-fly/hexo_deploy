@@ -26,7 +26,7 @@ aside: false
 
 ![紫罗兰永恒花园](https://m1.im5i.com/2022/11/03/UVH5xB.png)
 
-<img src="https://m1.im5i.com/2022/11/03/UVHG8z.png" alt="紫罗兰永恒花园" style="zoom:50%;" />
+![紫罗兰永恒花园](https://m1.im5i.com/2022/11/04/UWqp07.png)
 
 <img src="https://m1.im5i.com/2022/11/03/UVHbKs.png" alt="紫罗兰永恒花园" style="zoom:50%;" />
 
