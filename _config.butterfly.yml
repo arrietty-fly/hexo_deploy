@@ -918,7 +918,7 @@ wowjs:
 envelope_comment:
   enable: true #控制开关
   custom_pic:
-    cover: https://www.hualigs.cn/image/633d1e9f71271.jpg #信笺头部图片
+    cover: https://m1.im5i.com/2022/11/20/UWPR8h.jpg #信笺头部图片
     line: https://cdn.cbd.int/hexo-butterfly-envelope/lib/line.png #信笺底部图片
     beforeimg: https://cdn.cbd.int/hexo-butterfly-envelope/lib/before.png # 信封前半部分
     afterimg: https://cdn.cbd.int/hexo-butterfly-envelope/lib/after.png # 信封后半部分
