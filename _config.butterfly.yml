@@ -10,9 +10,9 @@ menu:
   # Tags: /tags/ || fas fa-tags
   # Categories: /categories/ || fas fa-folder-open
   异世相遇||fas fa-list:
-      异世之书: /Books/Books01.html || calendar || fas fa-book
-      异世旅志: /Books/异世旅志.html || calendar || fas fa-book
-      异世映像馆: /Books/Books02.html || calendar || fas fa-book
+      异世之书: /异世相遇/异世之书.html || calendar || fas fa-book
+      异世旅志: /异世相遇/异世旅志.html || calendar || fas fa-book
+      异世映像馆: /异世相遇/异世映像馆.html || calendar || fas fa-book
   # Link: /link/ || fas fa-link
   # About: /about/ || fas fa-heart
 
