@@ -6,13 +6,13 @@ aside: false
 
 
 
-| [海洋之都.「利姆萨·罗敏萨」](https://arrietty-fly.github.io/利姆萨·罗敏萨) | [森都.「格里达尼亚」](https://arrietty-fly.github.io/格里达尼亚) |
+| [海洋之都.「利姆萨·罗敏萨」](https://arrietty-fly.github.io/利姆萨·罗敏萨) | &emsp;[森都.「格里达尼亚」](https://arrietty-fly.github.io/格里达尼亚)&emsp; |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 
 
 
 
 
-| [风与牧歌之城.「蒙德」](https://arrietty-fly.github.io/蒙德) | [山巅雪国的记忆.「龙脊雪山」](https://arrietty-fly.github.io/龙脊雪山) |
+| &emsp;&emsp;[风与牧歌之城.「蒙德」](https://arrietty-fly.github.io/蒙德)&emsp;&emsp;&emsp; | [山巅雪国的记忆.「龙脊雪山」](https://arrietty-fly.github.io/龙脊雪山) |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 
