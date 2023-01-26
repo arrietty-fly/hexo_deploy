@@ -164,3 +164,8 @@ plugins:
 aplayer:
   meting: true
   asset_inject: false
+
+lazyload:
+  enable: true
+  onlypost: false
+  loadingImg: /images/loading.png
