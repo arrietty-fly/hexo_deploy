@@ -167,5 +167,5 @@ aplayer:
 
 lazyload:
   enable: true
-  onlypost: false
+  onlypost: true
   loadingImg: /images/loading.png
