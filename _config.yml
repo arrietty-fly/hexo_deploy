@@ -166,6 +166,6 @@ aplayer:
   asset_inject: false
 
 lazyload:
-  enable: true
+  enable: false
   onlypost: true
   loadingImg: /images/loading.png
