@@ -85,7 +85,7 @@ favicon: /img/favicon.png
 
 # Avatar (头像)
 avatar:
-  img: https://m1.im5i.com/2022/11/02/UVIRZa.png
+  img: https://files.catbox.moe/vo7c3m.png
   effect: false
 
 # Disable all banner image
@@ -519,7 +519,7 @@ tag_ui: # 留空或 index
 # Website Background (設置網站背景)
 # can set it to color or image (可設置圖片 或者 顔色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
-background: url(https://m1.im5i.com/2022/11/02/UVItrS.jpg)
+background: url(https://files.catbox.moe/gj5dx4.jpg)
 
 # Footer Background
 footer_bg: false
