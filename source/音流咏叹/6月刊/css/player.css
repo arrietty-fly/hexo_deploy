@@ -58,6 +58,19 @@
     overflow: hidden;
 }
 
+/* 播放器主体模糊背景 */
+.music-player__blur {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background: rgba(0, 0, 0, 0.8);
+    background-size: 100%;
+    left: 0;
+    top: 0;
+    z-index: -1;
+    -webkit-filter: blur(20px);
+    filter: blur(20px);
+}
 
 /* 播放器唱片效果 */
 .music-player__disc {
