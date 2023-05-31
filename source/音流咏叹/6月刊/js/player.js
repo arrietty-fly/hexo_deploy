@@ -29,14 +29,14 @@ class Musics {
                 title: '乱春',
                 singer: 'Plave-YEJUN',
                 songUrl: 'https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBa3h5TDcxY0FlT2lobjNqVXF4c0hmNnYtR1JEP2U9VHVuTEp5.mp3',
-                imageUrl: 'https://www.hualigs.cn/image/6477327b406c2.jpg'
+                imageUrl: 'https://www.hualigs.cn/image/6477463fede77.jpg'
             },
             {
                 id: 2,
                 title: 'Love Poem',
                 singer: 'IU',
                 songUrl: 'https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBa3h5TDcxY0FlT2lod09WV28yZ1JTZHRHMXBNP2U9SWV2UmJR.mp3',
-                imageUrl: 'https://www.hualigs.cn/image/6477327aa8f7c.jpg'
+                imageUrl: 'https://www.hualigs.cn/image/6477462738874.jpg'
             },
 			{
                 id: 3,
