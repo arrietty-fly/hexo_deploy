@@ -29,42 +29,42 @@ class Musics {
                 title: '乱春',
                 singer: 'Plave-YEJUN',
                 songUrl: 'https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBa3h5TDcxY0FlT2lobjNqVXF4c0hmNnYtR1JEP2U9VHVuTEp5.mp3',
-                imageUrl: 'https://www.hualigs.cn/image/6477463fede77.jpg'
+                imageUrl: 'https://www.hualigs.cn/image/64774986da500.jpg'
             },
             {
                 id: 2,
                 title: 'Love Poem',
                 singer: 'IU',
                 songUrl: 'https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBa3h5TDcxY0FlT2lod09WV28yZ1JTZHRHMXBNP2U9SWV2UmJR.mp3',
-                imageUrl: 'https://www.hualigs.cn/image/6477462738874.jpg'
+                imageUrl: 'https://www.hualigs.cn/image/6477495b21522.jpg'
             },
 			{
                 id: 3,
                 title: '在我心中(Seed)',
                 singer: 'TAEYANG',
                 songUrl: 'https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBa3h5TDcxY0FlT2lod0RXbzBCUXhaTXdRZ2lMP2U9ZXVkWXJP.mp3',
-                imageUrl: 'https://www.hualigs.cn/image/64773baadbbdd.jpg'
+                imageUrl: 'https://www.hualigs.cn/image/64774997c48ac.jpg'
             },
             {
                 id: 4,
                 title: 'Camelia',
                 singer: 'Mili',
                 songUrl: 'https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBa3h5TDcxY0FlT2lod0p4T1gwREN3N3Bkb2loP2U9eTIzZk5N.mp3',
-                imageUrl: 'https://www.hualigs.cn/image/64773c01e471d.jpg'
+                imageUrl: 'https://www.hualigs.cn/image/64774968c36a8.jpg'
             },
 			{
                 id: 5,
                 title: 'LilaS',
                 singer: 'SawanoHiroyuki[nZk] (泽野弘之)/たかはしほのか',
                 songUrl: 'https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBa3h5TDcxY0FlT2lod1JrV1pWaDVvUGNTMHJyP2U9V2VmVEpq.mp3',
-                imageUrl: 'https://www.hualigs.cn/image/6477327b82e33.jpg'
+                imageUrl: 'https://www.hualigs.cn/image/647749452b5b8.jpg'
             },
 			{
                 id: 6,
                 title: '飘落的花瓣(Fallin’ Flower)',
                 singer: 'SEVENTEEN',
                 songUrl: 'https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBa3h5TDcxY0FlT2lod0gtWTU3WVJKc00tZmZHP2U9OElSV1Vv.mp3',
-                imageUrl: 'https://www.hualigs.cn/image/64773d1c4e097.jpg'
+                imageUrl: 'https://www.hualigs.cn/image/6477492d1e83c.jpg'
             },
 			{
                 id: 7,
@@ -78,7 +78,7 @@ class Musics {
                 title: '春はゆく(春逝)',
                 singer: 'Aimer',
                 songUrl: 'https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBa3h5TDcxY0FlT2lod2F5bmZ3QlpDVkRKeWdLP2U9eTluYTcz.mp3',
-                imageUrl: 'https://www.hualigs.cn/image/6477327bb17e2.jpg'
+                imageUrl: 'https://www.hualigs.cn/image/64774978302b4.jpg'
             },
         ]
     }
