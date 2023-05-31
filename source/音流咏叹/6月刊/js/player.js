@@ -26,10 +26,10 @@ class Musics {
     constructor() {
         this.songs = [{
                 id: 1,
-                title: '前前前世 (movie ver.)',
-                singer: '前前前世 (movie ver.) - RADWIMPS',
-                songUrl: './songs/前前前世 (movie ver.) - RADWIMPS.mp3',
-                imageUrl: './images/songs/你的名字.jpg'
+                title: '乱春',
+                singer: 'Plave-YEJUN',
+                songUrl: 'https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBa3h5TDcxY0FlT2lobjNqVXF4c0hmNnYtR1JEP2U9VHVuTEp5.mp3',
+                imageUrl: 'https://www.hualigs.cn/image/6477327b406c2.jpg'
             },
             {
                 id: 2,
