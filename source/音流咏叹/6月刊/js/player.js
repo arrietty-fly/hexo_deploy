@@ -33,52 +33,52 @@ class Musics {
             },
             {
                 id: 2,
-                title: 'なんでもないや (movie ver.) - RADWIMPS',
-                singer: 'なんでもないや (movie ver.) - RADWIMPS',
-                songUrl: './songs/なんでもないや (movie ver.) - RADWIMPS.mp3',
-                imageUrl: './images/songs/你的名字.jpg'
+                title: 'Love Poem',
+                singer: 'IU',
+                songUrl: 'https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBa3h5TDcxY0FlT2lod09WV28yZ1JTZHRHMXBNP2U9SWV2UmJR.mp3',
+                imageUrl: 'https://www.hualigs.cn/image/6477327aa8f7c.jpg'
             },
 			{
                 id: 3,
-                title: 'なんでもないや (movie edit) - RADWIMPS',
-                singer: 'なんでもないや (movie edit) - RADWIMPS',
-                songUrl: './songs/なんでもないや (movie edit) - RADWIMPS.mp3',
-                imageUrl: './images/songs/你的名字.jpg'
+                title: '在我心中(Seed)',
+                singer: 'TAEYANG',
+                songUrl: 'https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBa3h5TDcxY0FlT2lod0RXbzBCUXhaTXdRZ2lMP2U9ZXVkWXJP.mp3',
+                imageUrl: 'https://www.hualigs.cn/image/64773baadbbdd.jpg'
             },
             {
                 id: 4,
-                title: '夢灯籠 - RADWIMPS',
-                singer: '夢灯籠 - RADWIMPS',
-                songUrl: './songs/夢灯籠 - RADWIMPS.mp3',
-                imageUrl: './images/songs/你的名字.jpg'
+                title: 'Camelia',
+                singer: 'Mili',
+                songUrl: 'https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBa3h5TDcxY0FlT2lod0p4T1gwREN3N3Bkb2loP2U9eTIzZk5N.mp3',
+                imageUrl: 'https://www.hualigs.cn/image/64773c01e471d.jpg'
             },
 			{
                 id: 5,
-                title: '愛にできることはまだあるかい - RADWIMPS',
-                singer: '愛にできることはまだあるかい - RADWIMPS',
-                songUrl: './songs/愛にできることはまだあるかい - RADWIMPS.mp3',
-                imageUrl: './images/songs/天气之子.jpg'
+                title: 'LilaS',
+                singer: 'SawanoHiroyuki[nZk] (泽野弘之)/たかはしほのか',
+                songUrl: 'https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBa3h5TDcxY0FlT2lod1JrV1pWaDVvUGNTMHJyP2U9V2VmVEpq.mp3',
+                imageUrl: 'https://www.hualigs.cn/image/6477327b82e33.jpg'
             },
 			{
                 id: 6,
-                title: '愛にできることはまだあるかい (Movie edit) - RADWIMPS',
-                singer: '愛にできることはまだあるかい (Movie edit) - RADWIMPS',
-                songUrl: './songs/愛にできることはまだあるかい (Movie edit) - RADWIMPS.mp3',
-                imageUrl: './images/songs/天气之子.jpg'
+                title: '飘落的花瓣(Fallin' Flower)',
+                singer: 'SEVENTEEN',
+                songUrl: 'https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBa3h5TDcxY0FlT2lod0gtWTU3WVJKc00tZmZHP2U9OElSV1Vv.mp3',
+                imageUrl: 'https://www.hualigs.cn/image/64773d1c4e097.jpg'
             },
 			{
                 id: 7,
-                title: 'グランドエスケープ (Movie edit) - 三浦透子',
-                singer: 'グランドエスケープ (Movie edit) - 三浦透子',
-                songUrl: './songs/グランドエスケープ (Movie edit) - 三浦透子.mp3',
-                imageUrl: './images/songs/天气之子.jpg'
+                title: 'HWAA',
+                singer: '(G)I-DLE',
+                songUrl: 'https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBa3h5TDcxY0FlT2lobjhIQU1qcmNqTjdEbV9TP2U9NHFadGty.mp3',
+                imageUrl: 'https://www.hualigs.cn/image/6477327ad2abf.jpg'
             },
 			{
                 id: 8,
-                title: 'ふたたびの、雨 - RADWIMPS',
-                singer: 'ふたたびの、雨 - RADWIMPS',
-                songUrl: './songs/ふたたびの、雨 - RADWIMPS.mp3',
-                imageUrl: './images/songs/天气之子.jpg'
+                title: '春はゆく(春逝)',
+                singer: 'Aimer',
+                songUrl: 'https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBa3h5TDcxY0FlT2lod2F5bmZ3QlpDVkRKeWdLP2U9eTluYTcz.mp3',
+                imageUrl: 'https://www.hualigs.cn/image/6477327bb17e2.jpg'
             },
         ]
     }
