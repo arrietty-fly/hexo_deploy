@@ -75,7 +75,7 @@
 /* 播放器唱片效果 */
 .music-player__disc {
     float: left;
-    width: 130px;
+    width: 50%;
     height: 130px;
     background: url(../images/cd.png) no-repeat center;
     background-size: 100%;
@@ -84,7 +84,7 @@
 
 /* 唱片指针 */
 .music-player__pointer {
-    width: 25px;
+    width: 50%;
     position: absolute;
     right: -10px;
     top: 0;
@@ -124,14 +124,14 @@
 /* 播放器控件 */
 
 .music-player__controls {
-    width: 330px;
+    width: 50%;
     height: 130px;
     float: right;
 }
 
 /* 歌曲信息 */
 .music__info {
-    width: 330px;
+    width: 50%;
     height: 50px;
     margin-bottom: 15px;
 }
@@ -154,7 +154,7 @@
 /* 控件 */
 
 .player-control {
-    width: 100%;
+    width: 50%;
 }
 
 .player-control__content {
@@ -276,6 +276,6 @@
 /*  播放进度  */
 
 .player__song--progress {
-    width: 70%;
+    width: 100%;
     margin-top: 15px;
 }
