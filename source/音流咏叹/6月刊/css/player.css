@@ -49,7 +49,7 @@
 
 /* 播放器主体 */
 .music-player__main {
-    height: 360px;
+    height: 50%;
     padding: 25px;
     -webkit-box-shadow: 0 0 40px rgba(0, 0, 0, 0.8);
     box-shadow: 0 0 40px rgba(0, 0, 0, 0.8);
