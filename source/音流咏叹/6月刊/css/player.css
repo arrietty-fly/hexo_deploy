@@ -131,7 +131,7 @@
 
 /* 歌曲信息 */
 .music__info {
-    width: 100%;
+    width: 50%;
     height: 50px;
     margin-bottom: 15px;
 }
@@ -154,7 +154,7 @@
 /* 控件 */
 
 .player-control {
-    width: 100%;
+    width: 50%;
 }
 
 .player-control__content {
@@ -183,7 +183,7 @@
 
 .control__volume--progress {
     float: left;
-    width: 100px;
+    width: 50%;
     position: relative;
     top: 8px;
 }
