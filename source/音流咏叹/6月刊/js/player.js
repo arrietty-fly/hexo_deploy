@@ -80,6 +80,20 @@ class Musics {
                 songUrl: 'https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBa3h5TDcxY0FlT2lod2lsX251dTk3OU5jWXZmP2U9YVRwMlR5.mp3',
                 imageUrl: 'https://www.hualigs.cn/image/64774978302b4.jpg'
             },
+            {
+                id: 9,
+                title: '桜流し(落樱纷飞)',
+                singer: '宇多田光',
+                songUrl: 'https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBa3h5TDcxY0FlT2lod2twRHJxT0diN0Q2Ny1HP2U9ejFYcUNI.mp3',
+                imageUrl: 'https://www.hualigs.cn/image/6478501d8c1d9.jpg'
+            },
+            {
+                id: 10,
+                title: 'Spring Day(春日)',
+                singer: 'BTS',
+                songUrl: 'https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBa3h5TDcxY0FlT2lod3BzMFZBcE8zbXQ3UllZP2U9bFByejhj.mp3',
+                imageUrl: 'https://www.hualigs.cn/image/64785c655b3b7.jpg'
+            },
         ]
     }
     //根据索引获取歌曲的方法
