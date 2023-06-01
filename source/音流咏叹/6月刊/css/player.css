@@ -1,6 +1,6 @@
 /* 播放器大小 */
 .music-player {
-    width: 50%;
+    width: 70%;
 }
 
 /* 播放器位置 */
@@ -12,7 +12,7 @@
 /* 歌曲列表 */
 
 .music-player__list {
-    width: 100%;
+    width: 70%;
     padding: 10px;
     margin-top: 50px;
     background: rgba(0, 0, 0, 0.5);
@@ -60,7 +60,7 @@
 
 /* 播放器主体模糊背景 */
 .music-player__blur {
-    width: 100%;
+    width: 70%;
     height: 100%;
     position: absolute;
     background: url('../images/songs/choubaguai.jpg') no-repeat center;
@@ -124,14 +124,14 @@
 /* 播放器控件 */
 
 .music-player__controls {
-    width: 330px;
+    width: 70%;
     height: 130px;
     float: right;
 }
 
 /* 歌曲信息 */
 .music__info {
-    width: 50%;
+    width: 330px;
     height: 50px;
     margin-bottom: 15px;
 }
@@ -154,7 +154,7 @@
 /* 控件 */
 
 .player-control {
-    width: 50%;
+    width: 70%;
 }
 
 .player-control__content {
@@ -276,6 +276,6 @@
 /*  播放进度  */
 
 .player__song--progress {
-    width: 100%;
+    width: 70%;
     margin-top: 15px;
 }
