@@ -75,7 +75,7 @@
 /* 播放器唱片效果 */
 .music-player__disc {
     float: left;
-    width: 50%;
+    width: 130px;
     height: 130px;
     background: url(../images/cd.png) no-repeat center;
     background-size: 100%;
@@ -84,7 +84,7 @@
 
 /* 唱片指针 */
 .music-player__pointer {
-    width: 50%;
+    width: 25px;
     position: absolute;
     right: -10px;
     top: 0;
