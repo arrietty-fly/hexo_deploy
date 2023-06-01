@@ -124,14 +124,14 @@
 /* 播放器控件 */
 
 .music-player__controls {
-    width: 330px;
+    width: 100px;
     height: 130px;
     float: right;
 }
 
 /* 歌曲信息 */
 .music__info {
-    width: 10%;
+    width: 30%;
     height: 50px;
     margin-bottom: 15px;
 }
