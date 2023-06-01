@@ -138,7 +138,7 @@
 
 .music__info .music__info--title,
 .music__info .music__info--singer {
-    color: #fff;
+    color: #3c17a0;
 }
 
 .music__info .music__info--title {
@@ -154,7 +154,7 @@
 /* 控件 */
 
 .player-control {
-    width: 50%;
+    width: 100%;
 }
 
 .player-control__content {
@@ -183,7 +183,7 @@
 
 .control__volume--progress {
     float: left;
-    width: 50%;
+    width: 100px;
     position: relative;
     top: 8px;
 }
