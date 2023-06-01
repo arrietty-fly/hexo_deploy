@@ -77,7 +77,7 @@ class Musics {
                 id: 8,
                 title: '春はゆく(春逝)',
                 singer: 'Aimer',
-                songUrl: 'https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBa3h5TDcxY0FlT2lod2F5bmZ3QlpDVkRKeWdLP2U9eTluYTcz.mp3',
+                songUrl: 'https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBa3h5TDcxY0FlT2lod2lsX251dTk3OU5jWXZmP2U9YVRwMlR5.mp3',
                 imageUrl: 'https://www.hualigs.cn/image/64774978302b4.jpg'
             },
         ]
