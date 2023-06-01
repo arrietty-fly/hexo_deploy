@@ -127,6 +127,7 @@
     width: 100px;
     height: 130px;
     float: right;
+    position: relative;
 }
 
 /* 歌曲信息 */
