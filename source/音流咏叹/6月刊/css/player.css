@@ -183,8 +183,9 @@
 }
 
 .control__volume--progress {
+    padding: 1em;
     float: left;
-    width: 100px;
+    width: 100%;
     position: relative;
     top: 8px;
 }
