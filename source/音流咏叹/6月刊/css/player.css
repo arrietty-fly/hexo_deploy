@@ -183,7 +183,6 @@
 }
 
 .control__volume--progress {
-    margin-left: 10px;
     float: left;
     width: 100px;
     position: relative;
