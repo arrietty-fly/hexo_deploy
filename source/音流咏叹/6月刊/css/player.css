@@ -189,6 +189,7 @@
     width: 100px;
     position: relative;
     top: 8px;
+    margin:auto
 }
 
 .player__song--timeProgess{
