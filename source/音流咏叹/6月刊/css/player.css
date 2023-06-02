@@ -134,6 +134,7 @@
     width: 100%;
     height: 50px;
     margin-bottom: 15px;
+    margin-left: 10px;
 }
 
 .music__info .music__info--title,
@@ -144,12 +145,14 @@
 .music__info .music__info--title {
     font-size: 16px;
     margin-top: 20px;
+    margin-left: 10px;
 }
 
 .music__info .music__info--singer {
     color: #000000;
     font-size: 14px;
     margin-top: 10px;
+    margin-left: 10px;
 }
 
 /* 控件 */
