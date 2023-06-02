@@ -68,8 +68,8 @@
     left: 0;
     top: 0;
     z-index: -1;
-    -webkit-filter: blur(5px);
-    filter: blur(5px);
+    -webkit-filter: blur(1px);
+    filter: blur(1px);
 }
 
 /* 播放器唱片效果 */
