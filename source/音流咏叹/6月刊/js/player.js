@@ -28,7 +28,7 @@ class Musics {
                 id: 1,
                 title: '乱春',
                 singer: 'Plave-YEJUN',
-                songUrl: 'https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBa3h5TDcxY0FlT2lobjNqVXF4c0hmNnYtR1JEP2U9VHVuTEp5.mp3',
+                songUrl: 'https://link.jscdn.cn/sharepoint/aHR0cHM6Ly8xZHJpdi1teS5zaGFyZXBvaW50LmNvbS86dTovZy9wZXJzb25hbC9zdG9yXzFkcml2X29ubWljcm9zb2Z0X2NvbS9FUWtFNzZXekFsTk5uLWZGaUpDUkFKWUI0bVJoMm5fVzRoOGdVNkNRU1JKLWRRP2U9cmFBN1Q2.mp3',
                 imageUrl: 'https://www.hualigs.cn/image/64774986da500.jpg'
             },
             {
