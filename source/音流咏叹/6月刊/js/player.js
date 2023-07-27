@@ -28,7 +28,7 @@ class Musics {
                 id: 1,
                 title: '乱春',
                 singer: 'Plave-YEJUN',
-                songUrl: 'https://link.jscdn.cn/sharepoint/aHR0cHM6Ly8xZHJpdi1teS5zaGFyZXBvaW50LmNvbS86dTovZy9wZXJzb25hbC9zdG9yXzFkcml2X29ubWljcm9zb2Z0X2NvbS9FUWtFNzZXekFsTk5uLWZGaUpDUkFKWUI0bVJoMm5fVzRoOGdVNkNRU1JKLWRRP2U9cmFBN1Q2.mp3',
+                songUrl: 'https://gitee.com/atool/mp34/',
                 imageUrl: 'https://www.hualigs.cn/image/64774986da500.jpg'
             },
             {
