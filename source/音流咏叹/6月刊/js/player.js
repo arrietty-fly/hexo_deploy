@@ -28,7 +28,7 @@ class Musics {
                 id: 1,
                 title: '乱春',
                 singer: 'Plave-YEJUN',
-                songUrl: 'https://gitee.com/atool/mp34/',
+                songUrl: 'https://github.com/arrietty-fly/arrietty-fly.github.io/blob/main/%E9%9F%B3%E6%B5%81%E5%92%8F%E5%8F%B9/6%E6%9C%88%E5%88%8A/songs/%E5%A4%A2%E7%81%AF%E7%B1%A0%20-%20RADWIMPS.mp3',
                 imageUrl: 'https://www.hualigs.cn/image/64774986da500.jpg'
             },
             {
