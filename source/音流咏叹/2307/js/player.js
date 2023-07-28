@@ -25,69 +25,75 @@ class Musics {
     //歌曲
     constructor() {
         this.songs = [{
-                id: 1,
-                title: '乱春',
-                singer: 'Plave-YEJUN',
-                songUrl: './songs/乱春(Yejun cover).mp3',
-                imageUrl: './images/songs/乱春.jpg'
-            },
-            {
-                id: 2,
-                title: 'Love Poem',
-                singer: 'IU',
-                songUrl: './songs/IU_Love Poem.mp3',
-                imageUrl: './images/songs/Love poem.jpg'
-            },
-			{
-                id: 3,
-                title: '在我心中(Seed)',
-                singer: 'TAEYANG',
-                songUrl: './songs/TAEYANG-‘在我心中_Seed_’.mp3',
-                imageUrl: './images/songs/太阳-Seed.jpg'
-            },
-            {
-                id: 4,
-                title: 'Spring Day(春日)',
-                singer: 'BTS',
-                songUrl: './songs/Spring-Day—BTS.mp3',
-                imageUrl: './images/songs/春日- BTS.jpg'
-            },
-			{
-                id: 5,
-                title: 'LilaS',
-                singer: 'SawanoHiroyuki[nZk] (泽野弘之)/たかはしほのか',
-                songUrl: './songs/LilaS-泽野弘之.mp3',
-                imageUrl: './images/songs/LilaS.jpg'
-            },
-			{
-                id: 6,
-                title: '飘落的花瓣(Fallin’ Flower)',
-                singer: 'SEVENTEEN',
-                songUrl: './songs/SEVENTEEN-飘落的花瓣.mp3',
-                imageUrl: './images/songs/Fallin Flower.jpg'
-            },
-			{
-                id: 7,
-                title: 'HWAA',
-                singer: '(G)I-DLE',
-                songUrl: './songs/(G)I-DLE-HWAA.mp3',
-                imageUrl: './images/songs/HWAA.jpg'
-            },
-			{
-                id: 8,
-                title: '桜流し(落樱纷飞)',
-                singer: '宇多田光',
-                songUrl: './songs/桜流し—宇多田光.mp3',
-                imageUrl: './images/songs/桜流し（落樱纷飞） - 宇多田ヒカル .jpg'
-            },
-            {
-                id: 9,
-                title: '春はゆく(春逝)',
-                singer: 'Aimer',
-                songUrl: './songs/春はゆく(春逝).mp3',
-                imageUrl: './images/songs/春はゆく.jpg'
-            },
-
+            id: 1,
+            title: '0X1=LOVESONG(I Know I Love You)',
+            singer: 'TXT',
+            songUrl: './songs/0X1=LOVESONG(I Know I Love You).mp3',
+            imageUrl: './images/songs/0X1=LOVESONG(I Know I Love You).jpg'
+        },
+        {
+            id: 2,
+            title: 'I',
+            singer: 'TAEYEON (feat. Verbal Jint)',
+            songUrl: './songs/TAEYEON - I (feat. Verbal Jint).mp3',
+            imageUrl: './images/songs/TAEYEON - I (feat. Verbal Jint).jpg'
+        },
+        {
+            id: 3,
+            title: 'Ditto',
+            singer: 'NewJeans',
+            songUrl: './songs/NewJeans-Ditto.mp3',
+            imageUrl: './images/songs/NewJeans-Ditto.jpg'
+        },
+        {
+            id: 4,
+            title: 'Generation',
+            singer: 'tripleS AAA',
+            songUrl: './songs/tripleS AAA Generation.mp3',
+            imageUrl: './images/songs/tripleS AAA Generation.jpg'
+        },
+        {
+            id: 5,
+            title: 'FIREWORK',
+            singer: '&TEAM',
+            songUrl: './songs/&TEAM《FIREWORK》.mp3',
+            imageUrl: './images/&TEAM《FIREWORK》.jpg'
+        },
+        {
+            id: 6,
+            title: 'eight',
+            singer: 'IU (Prod&Feat. SUGA of BTS ）',
+            songUrl: './songs/IU eight(Prod&Feat. SUGA of BTS ）.mp3',
+            imageUrl: './images/songs/IU eight(Prod&Feat. SUGA of BTS ）.jpg'
+        },
+        {
+            id: 7,
+            title: '打上花火',
+            singer: 'DAOKO&米津玄师',
+            songUrl: './songs/DAOKO&米津玄师《打上花火》.mp3',
+            imageUrl: './images/songs/DAOKO&米津玄师《打上花火》.jpg'
+        },
+        {
+            id: 8,
+            title: 'Avid',
+            singer: '泽野弘之',
+            songUrl: './songs/泽野弘之《Avid》.mp3',
+            imageUrl: './images/songs/泽野弘之《Avid》.jpg'
+        },
+        {
+            id: 9,
+            title: 'Black Bird',
+            singer: 'Aimer',
+            songUrl: './songs/Aimer - Black Bird.mp3',
+            imageUrl: './images/songs/Aimer - Black Bird.jpg'
+        },
+        {
+            id: 10,
+            title: '自傷無色',
+            singer: '花たん',
+            songUrl: './songs/【花たん】自傷無色.mp3',
+            imageUrl: './images/songs/【花たん】自傷無色.jpg'
+        },
             
         ]
     }
