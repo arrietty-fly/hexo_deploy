@@ -71,7 +71,7 @@ class Musics {
                 title: 'HWAA',
                 singer: '(G)I-DLE',
                 songUrl: './songs/(G)I-DLE-HWAA.mp3',
-                imageUrl: './images/songs/HWAA.jpg'
+                imageUrl: './images/songs/HWAA.png'
             },
 			{
                 id: 8,
