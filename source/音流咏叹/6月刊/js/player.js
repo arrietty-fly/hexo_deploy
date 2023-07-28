@@ -28,64 +28,64 @@ class Musics {
                 id: 1,
                 title: '乱春',
                 singer: 'Plave-YEJUN',
-                songUrl: 'https://github.com/arrietty-fly/arrietty-fly.github.io/blob/main/%E9%9F%B3%E6%B5%81%E5%92%8F%E5%8F%B9/6%E6%9C%88%E5%88%8A/songs/%E5%A4%A2%E7%81%AF%E7%B1%A0%20-%20RADWIMPS.mp3',
-                imageUrl: 'https://www.hualigs.cn/image/64774986da500.jpg'
+                songUrl: './songs/乱春(Yejun cover).mp3',
+                imageUrl: './images/songs/乱春.jpg'
             },
             {
                 id: 2,
                 title: 'Love Poem',
                 singer: 'IU',
-                songUrl: 'https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBa3h5TDcxY0FlT2lod09WV28yZ1JTZHRHMXBNP2U9SWV2UmJR.mp3',
-                imageUrl: 'https://www.hualigs.cn/image/6477495b21522.jpg'
+                songUrl: './songs/IU_Love Poem.mp3',
+                imageUrl: './images/songs/Love poem.jpg'
             },
 			{
                 id: 3,
                 title: '在我心中(Seed)',
                 singer: 'TAEYANG',
-                songUrl: 'https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBa3h5TDcxY0FlT2lod0RXbzBCUXhaTXdRZ2lMP2U9ZXVkWXJP.mp3',
-                imageUrl: 'https://www.hualigs.cn/image/64774997c48ac.jpg'
+                songUrl: './songs/TAEYANG-‘在我心中_Seed_’.mp3',
+                imageUrl: './images/songs/太阳-Seed.jpg'
             },
             {
                 id: 4,
                 title: 'Spring Day(春日)',
                 singer: 'BTS',
-                songUrl: 'https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBa3h5TDcxY0FlT2lod3BzMFZBcE8zbXQ3UllZP2U9bFByejhj.mp3',
-                imageUrl: 'https://www.hualigs.cn/image/64785c655b3b7.jpg'
+                songUrl: './songs/Spring-Day—BTS.mp3',
+                imageUrl: './images/songs/春日- BTS.jpg'
             },
 			{
                 id: 5,
                 title: 'LilaS',
                 singer: 'SawanoHiroyuki[nZk] (泽野弘之)/たかはしほのか',
-                songUrl: 'https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBa3h5TDcxY0FlT2lod1JrV1pWaDVvUGNTMHJyP2U9V2VmVEpq.mp3',
-                imageUrl: 'https://www.hualigs.cn/image/647749452b5b8.jpg'
+                songUrl: './songs/LilaS-泽野弘之.mp3',
+                imageUrl: './images/songs/LilaS.jpg'
             },
 			{
                 id: 6,
                 title: '飘落的花瓣(Fallin’ Flower)',
                 singer: 'SEVENTEEN',
-                songUrl: 'https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBa3h5TDcxY0FlT2lod0gtWTU3WVJKc00tZmZHP2U9OElSV1Vv.mp3',
-                imageUrl: 'https://www.hualigs.cn/image/6477492d1e83c.jpg'
+                songUrl: './songs/SEVENTEEN-飘落的花瓣.mp3',
+                imageUrl: './images/songs/Fallin Flower.jpg'
             },
 			{
                 id: 7,
                 title: 'HWAA',
                 singer: '(G)I-DLE',
-                songUrl: 'https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBa3h5TDcxY0FlT2lobjhIQU1qcmNqTjdEbV9TP2U9NHFadGty.mp3',
-                imageUrl: 'https://www.hualigs.cn/image/6477327ad2abf.jpg'
+                songUrl: './songs/(G)I-DLE-HWAA.mp3',
+                imageUrl: './images/songs/HWAA.jpg'
             },
 			{
                 id: 8,
                 title: '桜流し(落樱纷飞)',
                 singer: '宇多田光',
-                songUrl: 'https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBa3h5TDcxY0FlT2lod2twRHJxT0diN0Q2Ny1HP2U9ejFYcUNI.mp3',
-                imageUrl: 'https://www.hualigs.cn/image/6478501d8c1d9.jpg'
+                songUrl: './songs/桜流し—宇多田光.mp3',
+                imageUrl: './images/songs/桜流し（落樱纷飞） - 宇多田ヒカル .jpg'
             },
             {
                 id: 9,
                 title: '春はゆく(春逝)',
                 singer: 'Aimer',
-                songUrl: 'https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBa3h5TDcxY0FlT2lod2lsX251dTk3OU5jWXZmP2U9YVRwMlR5.mp3',
-                imageUrl: 'https://www.hualigs.cn/image/64774978302b4.jpg'
+                songUrl: './songs/春はゆく(春逝).mp3',
+                imageUrl: './images/songs/春はゆく.jpg'
             },
 
             
