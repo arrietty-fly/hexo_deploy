@@ -56,8 +56,8 @@ class Musics {
             id: 5,
             title: 'FIREWORK',
             singer: '&TEAM',
-            songUrl: './songs/&TEAM《FIREWORK》.mp3',
-            imageUrl: './images/&TEAM《FIREWORK》.jpg'
+            songUrl: './songs/FIREWORK.mp3',
+            imageUrl: './images/FIREWORK.jpg'
         },
         {
             id: 6,
