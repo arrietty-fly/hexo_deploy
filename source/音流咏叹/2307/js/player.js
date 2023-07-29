@@ -89,10 +89,10 @@ class Musics {
         },
         {
             id: 10,
-            title: '自傷無色',
-            singer: '花たん',
-            songUrl: './songs/【花たん】自傷無色.mp3',
-            imageUrl: './images/songs/【花たん】自傷無色.jpg'
+            title: 'Fly Away',
+            singer: 'G.E.M.邓紫棋',
+            songUrl: './songs/G.E.M.邓紫棋《Fly Away》.mp3',
+            imageUrl: './images/songs/G.E.M.邓紫棋《Fly Away》.jpg'
         },
             
         ]
