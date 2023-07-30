@@ -70,7 +70,7 @@ class Musics {
             id: 7,
             title: 'Last Resort',
             singer: 'Kinoko_蘑菇',
-            songUrl: './songs/【战双帕弥什】「空晓界限」EP - Last Resort',
+            songUrl: './songs/【战双帕弥什】「空晓界限」EP - Last Resort.mp3',
             imageUrl: './images/songs/【战双帕弥什】「空晓界限」EP - Last Resort.jpg'
         },
         {
