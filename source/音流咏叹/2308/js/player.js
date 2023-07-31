@@ -40,7 +40,7 @@ class Musics {
         },
         {
             id: 3,
-            title: 'checkmate',
+            title: 'Checkmate',
             singer: 'milet',
             songUrl: './songs/milet「checkmate」.mp3',
             imageUrl: './images/songs/milet「checkmate」.jpg'

@@ -919,7 +919,7 @@ wowjs:
 envelope_comment:
   enable: true #控制开关
   custom_pic:
-    cover: https://i.328888.xyz/2023/03/17/KaJMt.png #信笺头部图片
+    cover: https://www.z4a.net/images/2023/07/31/21750529f93cf30121acdf5b5e332142.jpg #信笺头部图片
     line: https://cdn.cbd.int/hexo-butterfly-envelope/lib/line.png #信笺底部图片
     beforeimg: https://cdn.cbd.int/hexo-butterfly-envelope/lib/before.png # 信封前半部分
     afterimg: https://cdn.cbd.int/hexo-butterfly-envelope/lib/after.png # 信封后半部分
