@@ -89,7 +89,7 @@ class Musics {
         },
         {
             id: 10,
-            title: 'Don＇t Go Yet',
+            title: 'Don’t Go Yet',
             singer: 'Camila Cabello',
             songUrl: './songs/Don＇t Go Yet.mp3',
             imageUrl: './images/songs/Don＇t Go Yet.jpg'

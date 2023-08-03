@@ -75,10 +75,10 @@ class Musics {
         },
         {
             id: 8,
-            title: '0verf1ow',
-            singer: 'Neru(feat. Luschka & Panaman)',
-            songUrl: './songs/FUZI × Neru - 0verf1ow (feat. Luschka & Panaman).mp3',
-            imageUrl: './images/songs/FUZI × Neru - 0verf1ow (feat. Luschka & Panaman).jpg'
+            title: 'Hot & Cold(溫差)',
+            singer: 'KAI & SEULGI & JENO & KARINA',
+            songUrl: './songs/KAI & SEULGI & JENO & KARINA《Hot & Cold(溫差)》.mp3',
+            imageUrl: './images/songs/KAI & SEULGI & JENO & KARINA《Hot & Cold(溫差)》.jpg'
         },
         {
             id: 9,
@@ -91,8 +91,8 @@ class Musics {
             id: 10,
             title: 'Lover',
             singer: 'Talyor Swift',
-            songUrl: './songs/Talyor Swift《Lover》',
-            imageUrl: './images/songs/Talyor Swift《Lover》'
+            songUrl: './songs/Talyor Swift《Lover》.mp3',
+            imageUrl: './images/songs/Talyor Swift《Lover》.jpg'
         },
             
         ]

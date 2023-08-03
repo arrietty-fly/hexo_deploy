@@ -28,12 +28,12 @@ class Musics {
             id: 1,
             title: 'What Was I Made For',
             singer: 'Billie Eilish',
-            songUrl: './songs/What Was I Made For - Billie Eilish',
-            imageUrl: './images/songs/What Was I Made For - Billie Eilish'
+            songUrl: './songs/What Was I Made For - Billie Eilish.mp3',
+            imageUrl: './images/songs/What Was I Made For - Billie Eilish.jpg'
         },
         {
             id: 2,
-            title: 'RAIN',
+            title: 'Rain',
             singer: '金泰妍TAEYEON',
             songUrl: './songs/RAIN-泰妍.mp3',
             imageUrl: './images/songs/RAIN-泰妍.jpg'
@@ -47,7 +47,7 @@ class Musics {
         },
         {
             id: 4,
-            title: 'I＇m unhappy',
+            title: 'I’m unhappy',
             singer: 'aespa',
             songUrl: './songs/aespa I＇m unhappy.mp3',
             imageUrl: './images/songs/aespa I＇m unhappy.jpg'
@@ -90,7 +90,7 @@ class Musics {
         {
             id: 10,
             title: '十四行诗：政治的伟大',
-            singer: '重返未来1999',
+            singer: '重返未来:1999',
             songUrl: './songs/重返未来1999_第三章校歌.mp3',
             imageUrl: './images/songs/重返未来1999_第三章校歌.jpg'
         },

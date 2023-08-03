@@ -26,10 +26,10 @@ class Musics {
     constructor() {
         this.songs = [{
             id: 1,
-            title: 'Life Will Change',
-            singer: 'Lyn',
-            songUrl: './songs/YENA (崔叡娜)-Love War(Feat. BEO) .mp3',
-            imageUrl: './images/songs/YENA (崔叡娜)-Love War(Feat. BEO) .jpg'
+            title: 'WICKED LOVE',
+            singer: 'YENA崔叡娜',
+            songUrl: './songs/YENA崔叡娜《WICKED LOVE》.mp3',
+            imageUrl: './images/songs/YENA崔叡娜《WICKED LOVE》.jpg'
         },
         {
             id: 2,
