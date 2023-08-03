@@ -89,7 +89,7 @@ class Musics {
         },
         {
             id: 10,
-            title: '极夜地平线',
+            title: '晨昏线',
             singer: '呦猫UNEKO',
             songUrl: './songs/极夜地平线.mp3',
             imageUrl: './images/songs/极夜地平线.jpg'
