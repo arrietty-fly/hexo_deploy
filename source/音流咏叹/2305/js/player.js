@@ -40,10 +40,10 @@ class Musics {
         },
         {
             id: 3,
-            title: 'Rain On Me',
-            singer: 'Lady Gaga, Ariana Grande',
-            songUrl: './songs/Lady Gaga, Ariana Grande - Rain On Me .mp3',
-            imageUrl: './images/songs/Lady Gaga, Ariana Grande - Rain On Me .jpg'
+            title: 'お気に召すまま（皆大欢喜）',
+            singer: 'Eve',
+            songUrl: './songs/お気に召すまま - Eve.mp3',
+            imageUrl: './images/songs/お気に召すまま - Eve.jpg'
         },
         {
             id: 4,
