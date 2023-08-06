@@ -82,10 +82,10 @@ class Musics {
         },
         {
             id: 9,
-            title: '天狼星的心脏',
-            singer: '异世界情绪',
-            songUrl: './songs/【异世界情绪】《シリウスの心臓天狼星的心脏》.mp3',
-            imageUrl: './images/songs/【异世界情绪】《シリウスの心臓天狼星的心脏》.jpg'
+            title: '幻影',
+            singer: '初音未来',
+            songUrl: './songs/幻影 春卷饭 feat.初音未来.mp3',
+            imageUrl: './images/songs/幻影 春卷饭 feat.初音未来.jpg'
         },
         {
             id: 10,

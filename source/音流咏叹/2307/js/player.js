@@ -54,10 +54,10 @@ class Musics {
         },
         {
             id: 5,
-            title: 'FIREWORK',
-            singer: '&TEAM',
-            songUrl: './songs/FIREWORK.mp3',
-            imageUrl: './images/songs/FIREWORK.jpg'
+            title: 'Return',
+            singer: 'Wendy ft. 陆智檀',
+            songUrl: './songs/【Wendy】《Return》 ft. 陆智檀.mp3',
+            imageUrl: './images/songs/【Wendy】《Return》 ft. 陆智檀.jpg'
         },
         {
             id: 6,
