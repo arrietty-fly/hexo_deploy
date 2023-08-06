@@ -84,8 +84,8 @@ class Musics {
             id: 9,
             title: 'Hate that...',
             singer: 'SHINee KEY(Feat. 太妍 TAEYEON)',
-            songUrl: './songs/SHINee KEY Hate that... (Feat. 太妍 TAEYEON).mp3',
-            imageUrl: './images/songs/SHINee KEY Hate that... (Feat. 太妍 TAEYEON).jpg'
+            songUrl: './songs/Hate that.mp3',
+            imageUrl: './images/songs/Hate that.jpg'
         },
         {
             id: 10,
