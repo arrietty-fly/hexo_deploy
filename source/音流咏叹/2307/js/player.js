@@ -82,10 +82,10 @@ class Musics {
         },
         {
             id: 9,
-            title: 'Black Bird',
-            singer: 'Aimer',
-            songUrl: './songs/Aimer - Black Bird.mp3',
-            imageUrl: './images/songs/Aimer - Black Bird.jpg'
+            title: '悬空',
+            singer: '赤羽&牧心',
+            songUrl: './songs/【赤羽 牧心】悬空【SYNTHESIZER V COVER】.mp3',
+            imageUrl: './images/songs/【赤羽 牧心】悬空【SYNTHESIZER V COVER】.jpg'
         },
         {
             id: 10,
