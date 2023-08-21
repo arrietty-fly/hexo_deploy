@@ -47,10 +47,10 @@ class Musics {
         },
         {
             id: 4,
-            title: 'Girls',
+            title: 'Black Mamba',
             singer: 'aespa',
-            songUrl: './songs/aespa‘Girls’.mp3',
-            imageUrl: './images/songs/aespa‘Girls’.jpg'
+            songUrl: './songs/aespa Black Mamba.mp3',
+            imageUrl: './images/songs/aespa Black Mamba.jpg'
         },
         {
             id: 5,
