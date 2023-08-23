@@ -54,10 +54,10 @@ class Musics {
         },
         {
             id: 5,
-            title: 'Peek-A-Boo',
-            singer: 'Red Velvet',
-            songUrl: './songs/Red Velvet-Peek-A-Boo.mp3',
-            imageUrl: './images/songs/Red Velvet-Peek-A-Boo.jpg'
+            title: 'Criminal',
+            singer: 'SHINee泰民',
+            songUrl: './songs/SHINee泰民_Criminal.mp3',
+            imageUrl: './images/songs/SHINee泰民_Criminal.jpg'
         },
         {
             id: 6,

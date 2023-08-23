@@ -61,10 +61,10 @@ class Musics {
         },
         {
             id: 6,
-            title: 'Sincerely',
-            singer: '唐沢美帆',
-            songUrl: './songs/唐沢美帆 - Sincerely.mp3',
-            imageUrl: './images/songs/唐沢美帆 - Sincerely.jpg'
+            title: 'See You Again',
+            singer: 'Charlie Puth，Wiz Khalifa',
+            songUrl: './songs/《See You Again》- Charlie Puth，Wiz Khalifa.mp3',
+            imageUrl: './images/songs/《See You Again》- Charlie Puth，Wiz Khalifa.jpg'
         },
         {
             id: 7,

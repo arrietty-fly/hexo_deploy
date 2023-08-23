@@ -33,10 +33,10 @@ class Musics {
         },
         {
             id: 2,
-            title: 'カタオモイ (单相思) ',
-            singer: 'Aimer',
-            songUrl: './songs/カタオモイ (单相思) - Aimer.mp3',
-            imageUrl: './images/songs/カタオモイ (单相思) - Aimer.jpg'
+            title: 'Starlight',
+            singer: '金泰妍（Feat.DEAN）',
+            songUrl: './songs/金泰妍____Starlight__Feat__DEAN.mp3',
+            imageUrl: './images/songs/金泰妍____Starlight__Feat__DEAN.jpg'
         },
         {
             id: 3,
@@ -68,10 +68,10 @@ class Musics {
         },
         {
             id: 7,
-            title: 'for ya',
-            singer: '蒋小呢',
-            songUrl: './songs/《for ya》蒋小呢.mp3',
-            imageUrl: './images/songs/《for ya》蒋小呢.jpg'
+            title: '恋爱困难少女',
+            singer: 'ChiliChill',
+            songUrl: './songs/恋爱困难少女.mp3',
+            imageUrl: './images/恋爱困难少女.jpg'
         },
         {
             id: 8,

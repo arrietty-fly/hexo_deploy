@@ -75,10 +75,10 @@ class Musics {
         },
         {
             id: 8,
-            title: 'シリウスの心臓（天狼星的心脏）',
-            singer: '异世界情绪',
-            songUrl: './songs/【异世界情绪】《シリウスの心臓天狼星的心脏》.mp3',
-            imageUrl: './images/songs/【异世界情绪】《シリウスの心臓天狼星的心脏》.jpg'
+            title: 'unlasting',
+            singer: 'LiSA',
+            songUrl: './songs/LiSA___unlasting.mp3',
+            imageUrl: './images/songs/LiSA___unlasting.jpg'
         },
         {
             id: 9,
