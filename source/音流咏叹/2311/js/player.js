@@ -75,7 +75,7 @@ class Musics {
         },
         {
             id: 8,
-            title: 'YUBIKIRI-GENMAN ~Special Edit~（拉勾勾）',
+            title: 'YUBIKIRI-GENMAN（拉勾勾）',
             singer: 'Mili',
             songUrl: './songs/【Mili】 YUBIKIRI-GENMAN ~Special Edit~（拉勾勾）.mp3',
             imageUrl: './images/songs/【Mili】 YUBIKIRI-GENMAN ~Special Edit~（拉勾勾）.jpg'

@@ -54,7 +54,7 @@ class Musics {
         },
         {
             id: 5,
-            title: 'someone like you',
+            title: 'Someone like you',
             singer: '苍穹',
             songUrl: './songs/《someone like you》 瑞安Ryan feat.苍穹.mp3',
             imageUrl: './images/songs/《someone like you》 瑞安Ryan feat.苍穹.jpg'

@@ -62,7 +62,7 @@ class Musics {
         {
             id: 6,
             title: '圆 (Time After Time)',
-            singer: 'BoA&WENDY&NINGNING',
+            singer: 'BoA/WENDY/NINGNING',
             songUrl: './songs/圆 (Time After Time) - BoA (宝儿) WENDY NINGNING.mp3',
             imageUrl: './images/songs/圆 (Time After Time) - BoA (宝儿) WENDY NINGNING.jpg'
         },
@@ -77,7 +77,7 @@ class Musics {
             id: 8,
             title: '上山岗',
             singer: '洛天依',
-            songUrl: './songs/洛天依 原创《上山岗》.mp3',
+            songUrl: './songs/洛天依《上山岗》.mp3',
             imageUrl: './images/songs/洛天依 原创《上山岗》.jpg'
         },
         {
