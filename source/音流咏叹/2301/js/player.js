@@ -71,7 +71,7 @@ class Musics {
             title: '恋爱困难少女',
             singer: 'ChiliChill',
             songUrl: './songs/恋爱困难少女.mp3',
-            imageUrl: './images/恋爱困难少女.jpg'
+            imageUrl: './images/songs/恋爱困难少女.jpg'
         },
         {
             id: 8,
@@ -89,10 +89,10 @@ class Musics {
         },
         {
             id: 10,
-            title: 'Lover',
-            singer: 'Talyor Swift',
-            songUrl: './songs/Talyor Swift《Lover》.mp3',
-            imageUrl: './images/songs/Talyor Swift《Lover》.jpg'
+            title: 'Thirsty',
+            singer: 'aespa',
+            songUrl: './songs/aespa Thirsty.mp3',
+            imageUrl: './images/songs/aespa Thirsty.jpg'
         },
             
         ]
