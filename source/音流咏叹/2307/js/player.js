@@ -40,10 +40,10 @@ class Musics {
         },
         {
             id: 3,
-            title: 'Ditto',
-            singer: 'NewJeans',
-            songUrl: './songs/NewJeans-Ditto.mp3',
-            imageUrl: './images/songs/NewJeans-Ditto.jpg'
+            title: 'DINOSAUR',
+            singer: '乐童音乐家',
+            songUrl: './songs/乐童音乐家 DINOSAUR.mp3',
+            imageUrl: './images/songs/乐童音乐家 DINOSAUR.jpg'
         },
         {
             id: 4,
