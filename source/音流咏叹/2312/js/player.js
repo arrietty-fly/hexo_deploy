@@ -61,10 +61,10 @@ class Musics {
         },
         {
             id: 6,
-            title: '圆 (Time After Time)',
-            singer: 'BoA/WENDY/NINGNING',
-            songUrl: './songs/圆 (Time After Time) - BoA (宝儿) WENDY NINGNING.mp3',
-            imageUrl: './images/songs/圆 (Time After Time) - BoA (宝儿) WENDY NINGNING.jpg'
+            title: '好好',
+            singer: '五月天',
+            songUrl: './songs/《好好》五月天.mp3',
+            imageUrl: './images/songs/《好好》五月天.jpg'
         },
         {
             id: 7,
