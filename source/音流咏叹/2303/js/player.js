@@ -82,10 +82,10 @@ class Musics {
         },
         {
             id: 9,
-            title: '毒林檎',
-            singer: 'DE*CO27',
-            songUrl: './songs/DECO27 - 毒林檎 feat. 初音未来.mp3',
-            imageUrl: './images/songs/DECO27 - 毒林檎 feat. 初音未来.jpg'
+            title: 'Fetish',
+            singer: 'Selena Gomez',
+            songUrl: './songs/【Selena Gomez】- Fetish.mp3',
+            imageUrl: './images/songs/【Selena Gomez】- Fetish.jpg'
         },
         {
             id: 10,
