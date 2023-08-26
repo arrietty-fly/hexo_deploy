@@ -76,7 +76,7 @@ class Musics {
         {
             id: 8,
             title: '克卜勒',
-            singer: 'Mili',
+            singer: '孙燕姿',
             songUrl: './songs/孙燕姿-克卜勒.mp3',
             imageUrl: './images/songs/孙燕姿-克卜勒.jpg'
         },
