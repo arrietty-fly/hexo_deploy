@@ -54,7 +54,7 @@ class Musics {
         },
         {
             id: 5,
-            title: 'フィナーレ',
+            title: 'フィナーレ。（终曲。）',
             singer: 'eill',
             songUrl: './songs/フィナーレ By eill.mp3',
             imageUrl: './images/songs/フィナーレ By eill.jpg'
@@ -75,10 +75,10 @@ class Musics {
         },
         {
             id: 8,
-            title: 'YUBIKIRI-GENMAN（拉勾勾）',
+            title: '孙燕姿-克不勒',
             singer: 'Mili',
-            songUrl: './songs/【Mili】 YUBIKIRI-GENMAN ~Special Edit~（拉勾勾）.mp3',
-            imageUrl: './images/songs/【Mili】 YUBIKIRI-GENMAN ~Special Edit~（拉勾勾）.jpg'
+            songUrl: './songs/孙燕姿-克不勒.mp3',
+            imageUrl: './images/songs/孙燕姿-克不勒.jpg'
         },
         {
             id: 9,
