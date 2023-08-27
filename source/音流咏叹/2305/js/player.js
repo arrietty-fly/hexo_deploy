@@ -82,10 +82,10 @@ class Musics {
         },
         {
             id: 9,
-            title: 'Eve, Psyche & the Bluebeard’s wife',
-            singer: 'LE SSERAFIM',
-            songUrl: './songs/LE SSERAFIM - Eve, Psyche & the Bluebeard’s wife.mp3',
-            imageUrl: './images/songs/LE SSERAFIM - Eve, Psyche & the Bluebeard’s wife.jpg'
+            title: 'Beat Eater',
+            singer: '初音ミク',
+            songUrl: './songs/【初音ミク】Beat Eater.mp3',
+            imageUrl: './images/songs/【初音ミク】Beat Eater.jpg'
         },
         {
             id: 10,
