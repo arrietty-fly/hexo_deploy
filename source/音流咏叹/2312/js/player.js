@@ -61,7 +61,7 @@ class Musics {
         },
         {
             id: 6,
-            title: '好好',
+            title: '好好(想把你写成一首歌)',
             singer: '五月天',
             songUrl: './songs/《好好》五月天.mp3',
             imageUrl: './images/songs/《好好》五月天.jpg'
