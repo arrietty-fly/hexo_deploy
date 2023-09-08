@@ -61,10 +61,10 @@ class Musics {
         },
         {
             id: 6,
-            title: 'eight',
-            singer: 'IU (Prod&Feat. SUGA of BTS ）',
-            songUrl: './songs/IU eight(Prod&Feat. SUGA of BTS ）.mp3',
-            imageUrl: './images/songs/IU eight(Prod&Feat. SUGA of BTS ）.jpg'
+            title: 'Social Path',
+            singer: 'Stray Kids(feat.LiSA)',
+            songUrl: './songs/Stray Kids《Social Path(feat.LiSA)》.mp3',
+            imageUrl: './images/songs/Stray Kids《Social Path(feat.LiSA)》.jpg'
         },
         {
             id: 7,
