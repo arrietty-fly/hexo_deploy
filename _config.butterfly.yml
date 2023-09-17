@@ -1018,7 +1018,3 @@ CDN:
     # prismjs_autoloader:
     # artalk_js:
     # artalk_css:
-
-
-encrypt:
-	enable:true
