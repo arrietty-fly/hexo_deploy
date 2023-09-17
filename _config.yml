@@ -170,5 +170,4 @@ lazyload:
   onlypost: true
   loadingImg: /images/loading.png
 
-encrypt:
-	enable:true
+  
