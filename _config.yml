@@ -99,6 +99,9 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: butterfly
 
+encrypt:
+  enable: true
+
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
@@ -170,4 +173,3 @@ lazyload:
   onlypost: true
   loadingImg: /images/loading.png
 
-  
