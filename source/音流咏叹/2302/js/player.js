@@ -56,7 +56,7 @@ class Musics {
             id: 5,
             title: 'ghost town',
             singer: '宋雨琦',
-            songUrl: './songs/【(G)I-DLE】[宋雨琦] - ghost town JVKE (Cover)',
+            songUrl: './songs/【(G)I-DLE】[宋雨琦] - ghost town JVKE (Cover).mp3',
             imageUrl: './images/songs/【(G)I-DLE】[宋雨琦] - ghost town JVKE (Cover).jpg'
         },
         {
