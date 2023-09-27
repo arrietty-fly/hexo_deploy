@@ -33,10 +33,10 @@ class Musics {
         },
         {
             id: 2,
-            title: 'Rain',
-            singer: '金泰妍TAEYEON',
-            songUrl: './songs/RAIN-泰妍.mp3',
-            imageUrl: './images/songs/RAIN-泰妍.jpg'
+            title: '自傷無色',
+            singer: '宵崎奏 × 朝比奈まふゆ × 初音ミク',
+            songUrl: './songs/【宵崎奏 × 朝比奈まふゆ × 初音ミク】自傷無色.mp3',
+            imageUrl: './images/songs/【宵崎奏 × 朝比奈まふゆ × 初音ミク】自傷無色.jpg'
         },
         {
             id: 3,
@@ -54,10 +54,10 @@ class Musics {
         },
         {
             id: 5,
-            title: '蜜蜂',
-            singer: 'Mili',
-            songUrl: './songs/蜜蜂 Mili.mp3',
-            imageUrl: './images/songs/蜜蜂 Mili.jpg'
+            title: 'ghost town',
+            singer: '宋雨琦',
+            songUrl: './songs/【(G)I-DLE】[宋雨琦] - ghost town JVKE (Cover)',
+            imageUrl: './images/songs/【(G)I-DLE】[宋雨琦] - ghost town JVKE (Cover).jpg'
         },
         {
             id: 6,
@@ -68,17 +68,17 @@ class Musics {
         },
         {
             id: 7,
-            title: 'Torches',
-            singer: 'Aimer',
-            songUrl: './songs/Torches Aimer.mp3',
-            imageUrl: './images/songs/Torches Aimer.jpg'
+            title: 'Either Way',
+            singer: 'IVE',
+            songUrl: './songs/IVE–Either Way.mp3',
+            imageUrl: './images/songs/IVE–Either Way.jpg'
         },
         {
             id: 8,
-            title: 'Rubia',
-            singer: '周深',
-            songUrl: './songs/Rubia 周深.mp3',
-            imageUrl: './images/songs/Rubia 周深.jpg'
+            title: '你不是真正的快乐',
+            singer: '邓紫棋',
+            songUrl: './songs/邓紫棋-你不是真正的快乐.mp3',
+            imageUrl: './images/songs/邓紫棋-你不是真正的快乐.jpg'
         },
         {
             id: 9,
@@ -89,10 +89,10 @@ class Musics {
         },
         {
             id: 10,
-            title: '十四行诗：政治的伟大',
-            singer: '重返未来:1999',
-            songUrl: './songs/重返未来1999_第三章校歌.mp3',
-            imageUrl: './images/songs/重返未来1999_第三章校歌.jpg'
+            title: 'Sloth',
+            singer: 'Mili',
+            songUrl: './songs/【Mili】Sloth（树懒）.mp3',
+            imageUrl: './images/songs/【Mili】Sloth（树懒）.jpg'
         },
             
         ]
