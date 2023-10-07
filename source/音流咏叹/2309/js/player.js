@@ -61,10 +61,10 @@ class Musics {
         },
         {
             id: 6,
-            title: '唯一',
-            singer: '告五人',
-            songUrl: './songs/唯一 告五人.mp3',
-            imageUrl: './images/songs/唯一 告五人.jpg'
+            title: '国王与乞丐',
+            singer: '华晨宇&杨宗纬',
+            songUrl: './songs/华晨宇、杨宗纬-国王与乞丐.mp3',
+            imageUrl: './images/songs/华晨宇、杨宗纬-国王与乞丐.jpg'
         },
         {
             id: 7,
@@ -82,10 +82,10 @@ class Musics {
         },
         {
             id: 9,
-            title: 'Hate that...',
-            singer: 'SHINee KEY(Feat. 太妍 TAEYEON)',
-            songUrl: './songs/Hate that.mp3',
-            imageUrl: './images/songs/Hate that.jpg'
+            title: 'How can I love the heartbreak，you’re the one I love',
+            singer: '乐童音乐家',
+            songUrl: './songs/How can I love the heartbreak，you’re the one I love 乐童音乐家.mp3',
+            imageUrl: './images/songs/How can I love the heartbreak，you’re the one I love 乐童音乐家.jpg'
         },
         {
             id: 10,
