@@ -149,6 +149,31 @@ For Eunho：
 
 <!-- endtimeline -->
 
+<!-- timeline 07-17 -->
+
+<img src="Asterum/诺亚 - 参宿四 (Betelgeuse).jpg" alt="诺亚 - 参宿四 (Betelgeuse)" style="zoom: 12%;" />
+
+诺亚之前答应噗哩要唱的《参宿四》终于出来了，而且还做了专门的翻唱视频！Vlast最近的产能意外地很高kkk
+一直很喜欢诺亚的音色，是Kpop里很少见的摇滚乐队嗓，真的是宝藏一般的存在，甚至觉得是可以上保险的程度
+再回想起诺亚在前不久的单人直播里曾说过：“做歌手的梦想曾经消失过……现如今得到了这么多人的爱，从某种意义而言，算是实现了梦想吧，我现在正在实现自己的梦想中，是正在进行时”、“只要是你们想要的就都做到，爱你们”...就觉得很感动😢
+诺亚现在能自由地做着喜欢的事，唱着喜欢的歌，做自己的音乐，得到了越来越多人的喜爱和认可，真好啊...
+
+[【翻唱】诺亚 - 参宿四 (Betelgeuse) (原唱 : 優里 (Yuuri) (Covered by Noah)｜PLAVE](https://www.bilibili.com/video/BV16P411k7zw/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+<!-- endtimeline -->
+
+<!-- timeline 07-14 -->
+
+<img src="Asterum/斑比生日快乐.png" alt="斑比生日快乐！" style="zoom: 80%;" />
+
+今晚就是斑比的生日![img](file:///C:\Users\qiandaiwanzi\AppData\Roaming\Tencent\QQTempSys\CI]~O3RMBK$FMEM]ZP$SQQ7.png)～！
+生日直播定在了14号的晚上10点，可以陪斑比一起等十一点的生日到来了！💗💗
+囱s做的小鹿蛋糕真的超级可爱，还有蛋糕砸在脸上的蛋糕印、噗噗的彩带～尤其是斑比挂在胸前的蝴蝶结彩带，真的就很像是水果店里挂在水蜜桃上的最甜认证～果然是Asterum糖度最高的水蜜桃！![img](file:///C:\Users\qiandaiwanzi\AppData\Roaming\Tencent\QQTempSys\ZLOI%S]LAYZ}_R99V~[5$[L.png)
+和成员们的通话也很有爱～尤其是虎子的那句“蝴蝶结带子怎么这么可爱啊，哥！从粉红头发变为银虎头发为止，我们一起平生普雷五吧~生日快乐！爱你！”有被磕到🥰   [【PLAVE/全场中字】斑比生日倒计时直播 23.07.14](https://www.bilibili.com/video/BV1qN41127HY/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7)
+然后在前几天我还苦恼斑比生日该做什么生贺，结果13号的晚上偶然刷到了“蒸汽波”的视频，突然就灵感上头，觉得斑比也很适合蒸汽波呢！然后14号就一大早起床赶着剪视频，还好在14号的晚上发布出去了呼呼～🌸🌸  [【PLAVE/斑比生贺】𝓴𝓮𝓮𝓹 𝔀𝓲𝓽𝓱 𝓶𝓮 𝓲𝓷 𝓽𝓱𝓮 𝓶𝓸𝓶𝓮𝓷𝓽](https://www.bilibili.com/video/BV1Xz4y177U3/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 
+
+<!-- endtimeline -->
+
 <!-- timeline 07-10 -->
 
 <img src="Asterum/姐姐真漂亮 斑比.png" alt="姐姐真漂亮 斑比.png" style="zoom: 12%;" />
@@ -160,6 +185,16 @@ For Eunho：
 这几天的脑子里一直在想着斑比，我真的有些不正常了...
 
 [斑比 - 姐姐真漂亮(Replay) 翻跳 ，原唱：SHINee (Covered by Bamby) | PLAVE](https://www.bilibili.com/video/BV1JW4y1o7Ri/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+<!-- endtimeline -->
+
+<!-- timeline 06-23 -->
+
+<img src="Asterum/诺亚 电台.png" alt="诺亚 电台.png" style="zoom: 60%;" />
+
+...
+
+[【PLAVE单人直播全场中字熟肉】Noah 在ASTERUM闪耀的夜晚诺亚DJ来信！vocal唱rap的实力究竟是？总之是歌曲大放送了](https://www.bilibili.com/video/BV1qm4y1e7mD/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7)
 
 <!-- endtimeline -->
 
