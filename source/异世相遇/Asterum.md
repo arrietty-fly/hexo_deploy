@@ -166,9 +166,9 @@ For Eunho：
 
 <img src="Asterum/斑比生日快乐.png" alt="斑比生日快乐！" style="zoom: 80%;" />
 
-今晚就是斑比的生日![img](file:///C:\Users\qiandaiwanzi\AppData\Roaming\Tencent\QQTempSys\CI]~O3RMBK$FMEM]ZP$SQQ7.png)～！
+今晚就是斑比的生日～！🎂
 生日直播定在了14号的晚上10点，可以陪斑比一起等十一点的生日到来了！💗💗
-囱s做的小鹿蛋糕真的超级可爱，还有蛋糕砸在脸上的蛋糕印、噗噗的彩带～尤其是斑比挂在胸前的蝴蝶结彩带，真的就很像是水果店里挂在水蜜桃上的最甜认证～果然是Asterum糖度最高的水蜜桃！![img](file:///C:\Users\qiandaiwanzi\AppData\Roaming\Tencent\QQTempSys\ZLOI%S]LAYZ}_R99V~[5$[L.png)
+囱s做的小鹿蛋糕真的超级可爱，还有蛋糕砸在脸上的蛋糕印、噗噗的彩带～尤其是斑比挂在胸前的蝴蝶结彩带，真的就很像是水果店里挂在水蜜桃上的最甜认证～果然是Asterum糖度最高的水蜜桃🍑
 和成员们的通话也很有爱～尤其是虎子的那句“蝴蝶结带子怎么这么可爱啊，哥！从粉红头发变为银虎头发为止，我们一起平生普雷五吧~生日快乐！爱你！”有被磕到🥰   [【PLAVE/全场中字】斑比生日倒计时直播 23.07.14](https://www.bilibili.com/video/BV1qN41127HY/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7)
 然后在前几天我还苦恼斑比生日该做什么生贺，结果13号的晚上偶然刷到了“蒸汽波”的视频，突然就灵感上头，觉得斑比也很适合蒸汽波呢！然后14号就一大早起床赶着剪视频，还好在14号的晚上发布出去了呼呼～🌸🌸  [【PLAVE/斑比生贺】𝓴𝓮𝓮𝓹 𝔀𝓲𝓽𝓱 𝓶𝓮 𝓲𝓷 𝓽𝓱𝓮 𝓶𝓸𝓶𝓮𝓷𝓽](https://www.bilibili.com/video/BV1Xz4y177U3/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 
 
@@ -182,7 +182,7 @@ For Eunho：
 
 斑比真的好美，我不知道该怎么去形容这种美...镜头拉近的那一刻真的心空一瞬，舞蹈动作很流畅自然，Vlast的打光和运镜也很好！
 
-这几天的脑子里一直在想着斑比，我真的有些不正常了...
+这几天的脑子里一直在想着斑比，我真的有些不正常了...😢
 
 [斑比 - 姐姐真漂亮(Replay) 翻跳 ，原唱：SHINee (Covered by Bamby) | PLAVE](https://www.bilibili.com/video/BV1JW4y1o7Ri/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
 
@@ -192,7 +192,9 @@ For Eunho：
 
 <img src="Asterum/诺亚 电台.png" alt="诺亚 电台.png" style="zoom: 60%;" />
 
-...
+“我其实...一开始我直播的时候，说过'没有歌手的梦想',不是没有梦想，其实对歌手的梦想消失过，因为本来也很喜欢音乐喜欢唱歌，都很喜欢，其实在ASTERUM即使我努力过，其实能发布的机会，这样的机会也没有了，自然而然地，梦想就消失了，这时接到了我们艺俊的电话'哦 听起来很有趣 很有趣吧'，那时候消失的梦想涌上来了，和艺俊开始做，募集成员们，做着做着，我现在受到了这么多人的爱，怎么看也是实现了梦想，我认为我正在实现梦想，现在也是ing...我现在很幸福，因为PLLI很幸福，以后会为大家展现更好的样子而更努力的。”
+
+诺亚在单人直播里说的这些话让人很触动😢说这番话的诺亚语气总是很平淡，但其实如果是开盒过，了解过中之人以前经历的人会更加理解这些话里背后的不易和挣扎...曾经怀抱梦想又不得不放弃，在那个夏天又再次成为PLAVE去追求梦想真的需要很大的勇气！然后还有首次聊到五名成员是如何走到一起的，“PLAVE是在炙热的夏天诞生的” 😢 [【PLAVE/中字】230623 关于五名成员是如何走到一起的](https://www.bilibili.com/video/BV1zh4y1g78v/?spm_id_from=333.788.recommend_more_video.-1&vd_source=683accdf4a366c372d15625bf59c99d7) 每次看着他们五人，仿佛我也得到了很多力量和勇气，虽然这句话说了很多遍，但是我还是想说：“感谢你们能够成为PLAVE，感谢能够与你们相遇。”
 
 [【PLAVE单人直播全场中字熟肉】Noah 在ASTERUM闪耀的夜晚诺亚DJ来信！vocal唱rap的实力究竟是？总之是歌曲大放送了](https://www.bilibili.com/video/BV1qm4y1e7mD/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7)
 
