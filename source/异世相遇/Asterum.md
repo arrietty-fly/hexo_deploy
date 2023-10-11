@@ -8,11 +8,11 @@ aside: false
 
 <!-- timeline 10-10 -->
 
-<img src="Asterum/2023.10.10.png" alt="不说外来词挑战！" style="zoom: 35%;" />
+<img src="Asterum/2023.10.10.png" alt="只能说韩语大挑战" style="zoom: 35%;" />
 
 斑比的灰色卫衣装首次亮相，以及久违的43合播！三个人坐在一起特别像奥利奥，而且是草莓夹心的奥利奥！
 
-然后今天的主题是“不说英语大挑战”！因为韩文里有很多舶来词，昨天也是韩国那边的韩文节，这次的豆丝专门准备了新特效，当三人说到外来词的时候，就会被突然出现的英语字母砸头哈哈，豆丝做的莫名很有打击感，感觉还真有点头疼（？不过越到后面三个人硬是玩成了躲避球游戏😂  700！[【PLAVE】有人在躲 有人在用头接](https://www.bilibili.com/video/BV16w411r72z/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7)
+然后今天的主题是“不说英语大挑战”！因为韩文里有很多舶来词，昨天也是韩国那边的韩文节，这次的豆丝专门准备了新特效，当三人说到英语的时候，就会被突然出现的韩语字母砸头哈哈，豆丝做的莫名很有打击感，感觉还真有点头疼（？不过越到后面三个人硬是玩成了躲避球游戏😂  700！[【PLAVE】有人在躲 有人在用头接](https://www.bilibili.com/video/BV16w411r72z/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7)
 
 还有绕口令和你划我猜俗语环节！再次感叹虎子不愧是Rapper，读绕口令真的一口气贼长贼快！然后你划我猜就有点加密通话了，某只雄鹿又开始发出奇怪的动静了kkk还有一个猜流行语环节（斑比最爱的考试环节XD）满屏幕的韩文俺实在看不懂，甚至有点想睡觉💤只能坐等烤肉太太们的熟肉了...最后斑比30分，虎子70分，这也能互补，可又被我磕到了🙋‍♀️ 
 
@@ -93,6 +93,20 @@ CICF的特别舞台，PLAVE还准备了一小段的中文歌翻唱《月亮代�
 
 <!-- endtimeline -->
 
+<!-- timeline 09-25 -->
+
+<img src="Asterum/五人下乡.jpg" alt="五人下乡" style="zoom: 35%;" />
+
+今天是中秋🌕特辑！也是首次五人一起下乡~（你别说这花裤子看多了还挺顺眼了...）
+
+本放最大的亮点莫过于掰大腿环节！我宣布，忙内nim是全场总攻，真正的矿工！不愧是跆拳道黑带选手，腿部力量真的强悍！ [南村群童欺我老无力/15体力差/摔跤游戏对决 230925PLAVE五人直播](https://www.bilibili.com/video/BV1V94y1a7Pd/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 上次下乡吃西瓜，这次中秋吃松糕~有豆子松糕和芝麻松糕，斑比两次都吃到不喜欢的豆子松糕，笑死我了😂然后还有变声KTV环节，再次感叹虎子不愧是绝对音感，变音了立马能把音准给找回来kkk最后的许愿环节，夜空出现了超大月亮，道理我都懂，但是为什么月亮会这么大呢！？🤨
+
+然后这次直播意外多了好多穿模的地方，好久不见了属于是😂只见蔡师傅又开始使出他的独门蔡式正骨法，开始各种暴力修复XD 正好前几天乐童音乐家的妹妹在直播还提到了“最近不穿模了好可惜”🤣话说原来妹妹你也看PLAVE！蹭了个大雾、双厨的狂喜~那就再放一个艺俊Cover乐童的新歌《Love Lee》~🎶 [PLAVE翻唱｜南艺俊 - Love Lee (原唱:乐童音乐家AKMU) ｜太好听了太好听了太好听了TT](https://www.bilibili.com/video/BV1AV411P76m/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7) 穿模封面是豆丝做的，斑比含量超标😂诺亚对此Cover的评价：艺俊的声音像宝矿力那样清澈。俺也十分觉得~！
+
+[【PLAVE直播回放全场熟肉】230925 中秋特辑 | 爱豆拉演唱会感想 | 芝麻派vs豆派 你是哪派? | 31种冰淇淋喜好大公开](https://www.bilibili.com/video/BV1n34y1G7cC/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+<!-- endtimeline -->
+
 <!-- timeline 09-23 -->
 
 <img src="Asterum/IDOL RADIO拼盘演唱会230923.jpg" alt="IDOL RADIO拼盘演唱会" style="zoom: 60%;" />
@@ -104,6 +118,18 @@ CICF的特别舞台，PLAVE还准备了一小段的中文歌翻唱《月亮代�
 而且从远处看去，真的感觉他们五人就在现场一样！开场intro也很帅~真希望有生之年我也能去一次PLAVE的线下演唱会啊ww看来要努力赚钱才行了，Fighting！！💸💸
 
 [应援太给力了!!! 第六个夏天+ment+WHY @230923 Idol Radio演唱会](https://www.bilibili.com/video/BV1JH4y1m7aL/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+<!-- endtimeline -->
+
+<!-- timeline 09-21 -->
+
+<img src="Asterum/20230921.jpg" alt="IDOL RADIO拼盘演唱会" style="zoom: 12%;" />
+
+本来今晚的直播是斑比和诺亚，但是由于斑比洗冷水澡感冒了，虽然无大碍，但是考虑到23号还有演唱会，所以当天临时改成艺俊和诺亚了，让斑比回家好好休息...（你们韩国人平常喝冰水、熬夜到凌晨、咖啡当水喝就算了，连洗澡都要洗冷水澡的嘛！！？一时不知该如何吐槽...）
+
+然后在做六夏的应援法演示的时候，豆丝误放了六夏的导唱版本哈哈哈哈，Demo版本就这样泄露了出去，艺俊后知后觉，诺亚完全没发现🤣豆丝今晚加鸡腿！导唱版是制作人line的演唱版本，难得听了一把虎子唱六夏的Rap部分~ [【PLAVE切片/中字放大表情版💙💜】230921 艺俊 诺亚 第六个夏天应援法 ft.吓坏的豆丝 Demo版本泄露+录音小花絮之银虎太厉害/外星语版本公开](https://www.bilibili.com/video/BV1t94y1p7sD/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+今晚玩了画风很可爱的双人小游戏《面包与年糕》，好久不见的游戏回！两支小企鹅尊嘟很可爱，尤其是收绳甩绳的时候~后面因为卡关了好久，豆丝实在看不下去，于是帮忙加上了外挂“无限跳跃”，直接一飞冲天直冲云霄山顶，真的又可爱又爆笑！🤣🤣   [【PLAVE短切】卡關了嗎？沒關係企鵝本來就會飛](https://www.bilibili.com/video/BV1du411c7c7/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
 
 <!-- endtimeline -->
 
@@ -190,7 +216,7 @@ For Eunho：
 
 <!-- timeline 07-10 -->
 
-<img src="Asterum/姐姐真漂亮 斑比.png" alt="姐姐真漂亮 斑比.png" style="zoom: 12%;" />
+<img src="Asterum/姐姐真漂亮 斑比.png" alt="姐姐真漂亮 斑比" style="zoom: 12%;" />
 
 真的不说假话，斑比翻跳的这个视频我真的循环了几百遍，根本数不清的程度...😢
 
@@ -204,7 +230,7 @@ For Eunho：
 
 <!-- timeline 06-23 -->
 
-<img src="Asterum/诺亚 电台.png" alt="诺亚 电台.png" style="zoom: 60%;" />
+<img src="Asterum/诺亚 电台.png" alt="诺亚 电台" style="zoom: 60%;" />
 
 “我其实...一开始我直播的时候，说过'没有歌手的梦想',不是没有梦想，其实对歌手的梦想消失过，因为本来也很喜欢音乐喜欢唱歌，都很喜欢，其实在ASTERUM即使我努力过，其实能发布的机会，这样的机会也没有了，自然而然地，梦想就消失了，这时接到了我们艺俊的电话'哦 听起来很有趣 很有趣吧'，那时候消失的梦想涌上来了，和艺俊开始做，募集成员们，做着做着，我现在受到了这么多人的爱，怎么看也是实现了梦想，我认为我正在实现梦想，现在也是ing...我现在很幸福，因为PLLI很幸福，以后会为大家展现更好的样子而更努力的。”
 
@@ -272,7 +298,7 @@ For Eunho：
 
 其实他们Wait for you的初舞台刚出来的时候，我就已经看过了！当时看的时候只是觉得模型很简陋，觉得韩漫风的建模画风着实看过去有些不适应，所以看了一遍舞台就退出去了...但是在之后的几周里，脑子里却时常回想起这首歌的旋律，就还是会经常找这舞台在后台放着听...
 
-直到这天感到无聊，再次找这舞台放后台听着的时候，突发奇想就想去看一下这首歌的MV，就搜索了一下，然后意外地发现MV做的非常好😮 [PLAVE 《Wait For You》 MV （中文字幕）](https://www.bilibili.com/video/BV19o4y167nz/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7)  /  [PLAVE首专收录曲《PIXEL WORLD》官方动态歌词影片（中文CC字幕）](https://www.bilibili.com/video/BV1XM411M7M4/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7)然后接着就看了下面推送的直播切片，发现他们怎么那么沙雕啊哈哈哈哈，真的笑得肚子好痛😂 [【PLAVE爆笑合集】不是你这虚拟男团怎么这么搞笑啊啊啊哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈](https://www.bilibili.com/video/BV1dM4y1m7Py/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7) 然后又回到官号看到了成员们的翻唱，惊讶地发现他们这么都这么会唱！？这实力着实有些恐怖了吧... 这时候就已经开始不断循环他们的单曲和翻唱了！[plave_official的个人空间-plave_official个人主页](https://space.bilibili.com/3493141629896727/channel/seriesdetail?sid=3138603) 然后就开始一发不可收拾地去看他们的直播切片，烤肉太太们真的超有梗，每个切片都做的超级好看，吃的很饱很满足！🥰尤其是磕YATAZ和队忙！[(PLAVE)绝对超爆笑！整场直播有一半时间都在吵架的男团？/Bamby ＆ Eunho ＆Hamin_](https://www.bilibili.com/video/BV1hV4y1D7QY/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)  /  [【PLAVE/熟切】有人是來玩恐遊的 有人是來谈恋爱的｜恐怖游戏直播精华｜Hamin河珉 x Yejun艺俊 忙队](https://www.bilibili.com/video/BV14Y4y1Q7LV/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 成员们真的是超有趣的灵魂，实力也很强，性格和皮套看过去的第一印象真的反差极大，但是我很吃这种反差~！当得知他们的歌都是自己作词作曲编舞的时候，就更喜欢了！我是真的属于那种喜欢实力派的慕强批ww现在皮套也是越看越喜欢，越看越觉得好看，尤其可爱的斑比~
+直到这天感到无聊，再次找这舞台放后台听着的时候，突发奇想就想去看一下这首歌的MV，就搜索了一下，然后意外地发现MV做的非常好😮 [PLAVE 《Wait For You》 MV （中文字幕）](https://www.bilibili.com/video/BV19o4y167nz/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7)  /  [PLAVE首专收录曲《PIXEL WORLD》官方动态歌词影片（中文CC字幕）](https://www.bilibili.com/video/BV1XM411M7M4/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7) 然后接着就看了下面推送的直播切片，发现他们怎么那么沙雕啊哈哈哈哈，真的笑得肚子好痛😂 [【PLAVE爆笑合集】不是你这虚拟男团怎么这么搞笑啊啊啊哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈](https://www.bilibili.com/video/BV1dM4y1m7Py/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7) 然后又回到官号看到了成员们的翻唱，惊讶地发现他们怎么都这么会唱！？这实力着实有些恐怖了吧... 每个人的音色也很特别很好听，这时候就已经开始不断循环他们的单曲和翻唱了！[plave_official的个人空间-plave_official个人主页](https://space.bilibili.com/3493141629896727/channel/seriesdetail?sid=3138603) 然后就开始一发不可收拾地去看他们的直播切片，烤肉太太们真的超有梗，每个切片都做的超级好看，吃的很饱很满足！🥰尤其是磕YATAZ和队忙！[(PLAVE)绝对超爆笑！整场直播有一半时间都在吵架的男团？/Bamby ＆ Eunho ＆Hamin_](https://www.bilibili.com/video/BV1hV4y1D7QY/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)  /  [【PLAVE/熟切】有人是來玩恐遊的 有人是來谈恋爱的｜恐怖游戏直播精华｜Hamin河珉 x Yejun艺俊 忙队](https://www.bilibili.com/video/BV14Y4y1Q7LV/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 成员们真的是超有趣的灵魂，实力也很强，性格和皮套看过去的第一印象真的反差极大，但是我很吃这种反差~！当得知他们的歌都是自己作词作曲编舞的时候，就更喜欢了！我是真的属于那种喜欢实力派的慕强批ww现在皮套也是越看越喜欢，越看越觉得好看，尤其可爱的斑比~
 
 然后第一次有了买专辑的念头，就去了超话一步一步学着买了专辑。刚入坑的时候真的什么都不懂...真心感谢超话里姐妹们的教程和耐心指导！大家都超有爱的，很喜欢超话里大家团结和谐的气氛，我也从中学到了很多新知识和新的体验，真的很满足很开心！😄
 
