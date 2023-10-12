@@ -16,7 +16,7 @@ aside: false
 
 还有绕口令和你划我猜俗语环节！再次感叹虎子不愧是Rapper，读绕口令真的一口气贼长贼快！然后你划我猜就有点加密通话了，某只雄鹿又开始发出奇怪的动静了kkk还有一个猜流行语环节（斑比最爱的考试环节XD）满屏幕的韩文俺实在看不懂，甚至有点想睡觉💤只能坐等烤肉太太们的熟肉了...最后斑比30分，虎子70分，这也能互补，可又被我磕到了🙋‍♀️ 
 
-今天的特效真的700！豆丝加鸡腿~
+最后揭晓最终结果的时候，先宣布了韩文王是虎子，虎子发表了一番获奖感言后，戴上了可爱的小皇冠👑然后接着宣布韩文破坏王，没想到结果又是虎子，于是刚戴了没多久的皇冠就没了哈哈哈哈🤣今天的特效真的700！豆丝加鸡腿~
 
 <!-- endtimeline -->
 
@@ -123,13 +123,39 @@ CICF的特别舞台，PLAVE还准备了一小段的中文歌翻唱《月亮代�
 
 <!-- timeline 09-21 -->
 
-<img src="Asterum/20230921.jpg" alt="IDOL RADIO拼盘演唱会" style="zoom: 12%;" />
+<img src="Asterum/20230921.jpg" alt="20230921 诺亚&艺俊" style="zoom: 12%;" />
 
 本来今晚的直播是斑比和诺亚，但是由于斑比洗冷水澡感冒了，虽然无大碍，但是考虑到23号还有演唱会，所以当天临时改成艺俊和诺亚了，让斑比回家好好休息...（你们韩国人平常喝冰水、熬夜到凌晨、咖啡当水喝就算了，连洗澡都要洗冷水澡的嘛！！？一时不知该如何吐槽...）
 
 然后在做六夏的应援法演示的时候，豆丝误放了六夏的导唱版本哈哈哈哈，Demo版本就这样泄露了出去，艺俊后知后觉，诺亚完全没发现🤣豆丝今晚加鸡腿！导唱版是制作人line的演唱版本，难得听了一把虎子唱六夏的Rap部分~ [【PLAVE切片/中字放大表情版💙💜】230921 艺俊 诺亚 第六个夏天应援法 ft.吓坏的豆丝 Demo版本泄露+录音小花絮之银虎太厉害/外星语版本公开](https://www.bilibili.com/video/BV1t94y1p7sD/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
 
 今晚玩了画风很可爱的双人小游戏《面包与年糕》，好久不见的游戏回！两支小企鹅尊嘟很可爱，尤其是收绳甩绳的时候~后面因为卡关了好久，豆丝实在看不下去，于是帮忙加上了外挂“无限跳跃”，直接一飞冲天直冲云霄山顶，真的又可爱又爆笑！🤣🤣   [【PLAVE短切】卡關了嗎？沒關係企鵝本來就會飛](https://www.bilibili.com/video/BV1du411c7c7/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+<!-- endtimeline -->
+
+<!-- timeline 09-19 -->
+
+<img src="Asterum/230919.jpg" alt="20230919 诺亚&银虎&河玟" style="zoom: 35%;" />
+
+今晚的直播有个中国PLLI好有sense！在B站直播间用韩语问虎子“墙、眼睛、膝盖”的英文是什么，艺俊和虎子马上反应过来了，说了好多“我爱你”！感谢这位发sc的姐妹，吃得很饱~😇
+
+然后因为好久没见虎子，所以大家都要求虎子来一个可爱的撒娇😂虎子刚开始有点为难，但还是按照PLLI的愿望照做了ww真的超可爱的！🥰 [【PLAVE切片中字】撒娇大师的现场教学 情话大师见习中 其间有小猫逃课](https://www.bilibili.com/video/BV1AF411S73V/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)  以及小狗总以为自己是狼🐺怎么办？在线等挺急的！[【PLAVE切片中字】狗狗总觉得自己是狼怎么办](https://www.bilibili.com/video/BV1U84y1S71f/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+今晚还有游戏回！游戏名叫《Gang Beasts》，这次虎子终于不是游戏黑洞了kkk有个关卡艺俊还被海里的鲨鱼亲故叼走了，艺俊大叫“我是海豚啊！”🤣然后很多局都是一边艺俊和虎子对打，河玟在旁边悠闲的玩，然后要么是艺俊和虎子一起被车创飞，要么就是自投罗网掉河里，然后小猫直接躺赢哈哈哈哈，还有艺俊从章鱼手里起死回生也很搞笑😂 [【中字】和平生活中的PLAVE 🕊︎ 由《萌萌小人大乱斗》解除封印？🎮 🔓｜PLAVE Highlight](https://www.bilibili.com/video/BV1vu4y167ny/?spm_id_from=333.788.recommend_more_video.-1&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+最后是KTV回，连唱了六首歌~🎙最喜欢的是虎子唱的《Off my face》，甜甜的虎虎~❤  [PLAVE切片中字｜Off My Face - 银虎cover｜害羞小狗唱后感有 @230919](https://www.bilibili.com/video/BV1i84y1S7jX/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 
+
+<!-- endtimeline -->
+
+<!-- timeline 09-14 -->
+
+<img src="Asterum/230914.jpg" alt="20230914 诺亚&斑比&河玟" style="zoom: 100%;" />
+
+今晚的PPL金主是TOSS，似乎是搞金融的，然后就有了金融相关的考试环节，叫《生活与经济》模拟考试😂诺亚和河玟都是有备而来，只有斑比是直接裸考来的，不愧是咱INFP人~（话说为什么这考试还要填自己的MBTI？还以为题目会和MBTI有关系，结果发现根本没关系，你们韩国人真的...）
+
+模拟考试结束之后，斑比好不容易终于松了一口气，结果还有考试，这次是ASTERUM模拟考试🤣 豆丝们出的题都很有sense，比如“选出诺亚的羊驼的的所有能力”、“出道曲Wait for you歌词中等待着你一共出现几次”和成员名台词填空...笑死我惹🤣 [【PLAVE切片中字】成员也不会的Asterum模拟考｜只有斑比受伤的世界｜论诺亚的羊驼有多少能力｜河玟加入PLAVE最棒的一点是？](https://www.bilibili.com/video/BV19F411U71q/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 还有超可爱的斑比开花~！[PLAVE 中字切片|柳河玟：被斑比哥圈粉是一件很正常的事情|230914noah&bamby&hamin合播](https://www.bilibili.com/video/BV1cN4y1X7tu/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)🌸🌸
+
+ 还有最后的KTV回！最喜欢的是诺亚的《Love always run away》[Love Always Run Away - 诺亚](https://www.bilibili.com/video/BV1pk4y1w76v/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7) 🎶然后今晚最惊艳的是斑比的超帅RAP！我先感叹一句六边形战士！🎙︎[PLAVE切片｜诺斑哈暴风RAP组 《当当当》｜蔡斑比RAP惹！！！ @230914](https://www.bilibili.com/video/BV1kh4y1w7Rd/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 
 
 <!-- endtimeline -->
 
@@ -170,6 +196,20 @@ For Eunho：
 是CICF漫展写给斑比和虎子的手写信！本来想五人都写一封，但是奈何人工翻译太贵，100字5元😢写给斑比的信，不知不觉就写到了八百字呜呜，最后斑比的信¥39，虎子的信¥29。看来要开始学韩语了呢，争取以后不让外人赚这份钱hhh
 
 然后在写信的时候，第一次写大长篇韩语的感觉真的很微妙，是一种很新奇的体验呢！第一次写感觉自己写韩语的字好丑啊，感觉和幼儿院的小朋友写的字一样啊呜，自己都有点不忍直视ww不过越到后面写得多了之后，就感觉适应很多了😂为了写信，我花了好多时间挑选好看的信封和信纸，还定制了可爱的动物贴纸~尊嘟下了血本了这回，不过是一场很新奇的体验，希望下次还能给你们写信！
+
+<!-- endtimeline -->
+
+<!-- timeline 09-12 -->
+
+<img src="Asterum/230912.jpg" alt="PLAVE 《The 6th Summer》MV" style="zoom: 50%;" />
+
+今天是艺俊的生日！豆丝这次的蛋糕🎂做的也很好看，场景也做的很梦幻，还给艺俊准备了公主套装😂甚至有姐妹在淘宝上找到了一模一样的kkk豆丝们真的很有sense  [PLAVE 中字切片|普雷五有自己的女神降临|230912yejun生日单人直播](https://www.bilibili.com/video/BV1NN4y1X7VF/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 手持仙女棒、头戴公主皇冠，是海豚公主呀~是的没错，我们PLAVE有自己的公主！👸🏻
+
+然后今晚也直播翻唱了我最喜欢的《乱春》和《Summer》[PLAVE切片｜南艺俊 - 乱春｜是我最爱的最爱的最爱的乱春TT @230912 ](https://www.bilibili.com/video/BV1fP41187Yi/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) / [230912 Summer(原唱 :Paul Blanco) Cover by 艺俊🎂_](https://www.bilibili.com/video/BV1cV411N7M2/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)当初就是因为听了艺俊翻唱的乱春，然后入的PLAVE的深坑，我真的超爱啊谁懂！😭😭 还翻唱了一首也很喜欢 [【PLAVE】230912 艺俊🎂 Stalker(原唱:10cm) Cover by 南艺俊](https://www.bilibili.com/video/BV1Ew411i7K8/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7) 这首是艺俊早在出道前的初直播里翻唱过的，如今离初直播也几乎满一年了，艺俊的歌声依旧清澈明亮和温柔，如今再次回看初直播莫名有些泪目😢 [10CM - Stalker](https://www.bilibili.com/video/BV1dk4y1v7sF/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+然后今晚斑比、银虎、河玟和诺亚都打来了电话！📞尤其要说的是最后压轴的诺亚，一开口就整活装诺亚的爷爷可还行，笑死😂然后艺俊问诺亚要送什么生日礼物，弹幕的大家好有sense，什么送健身卡送蓝莓鸡胸肉奶昔的都有哈哈哈哈，然后诺亚清唱了一段生日歌，甜甜的~不愧是我嗑的椰奶🙋‍♀️ 然后还有河玟，还专门写了信给艺俊，署名是“PLAVE艺俊的粉丝河玟” 听完信的艺俊和河玟都有点哽咽😢大家都是很真诚的孩子...[【PLAVE切片中字】让艺俊爆哭的生日电话｜来自河玟最真挚的信｜要买劳力士的FLEX诺亚｜斑比前辈的暖心经验谈｜今天银虎是100%的艺Line](https://www.bilibili.com/video/BV1zh4y1Y7bH/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+ 最后艺俊还写了一封信给PLLI ✉😢 [【PLAVE切片/中字💙】230912 艺俊 生日直播🎂 给噗哩们的信｜每天都很幸福的海豚🐬 约定要报答噗哩们珍贵的爱](https://www.bilibili.com/video/BV16z4y1j78b/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)  感谢你能称为PLAVE，感谢能够与你们相遇，感谢你们给予的真诚和爱，总是带给我快乐和温暖，要平噗啊💙
 
 <!-- endtimeline -->
 
