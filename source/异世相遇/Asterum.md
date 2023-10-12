@@ -201,11 +201,11 @@ For Eunho：
 
 <!-- timeline 09-12 -->
 
-<img src="Asterum/230912.jpg" alt="PLAVE 《The 6th Summer》MV" style="zoom: 50%;" />
+<img src="Asterum/230912.jpg" alt="艺俊生日快乐！🎂" style="zoom: 50%;" />
 
 今天是艺俊的生日！豆丝这次的蛋糕🎂做的也很好看，场景也做的很梦幻，还给艺俊准备了公主套装😂甚至有姐妹在淘宝上找到了一模一样的kkk豆丝们真的很有sense  [PLAVE 中字切片|普雷五有自己的女神降临|230912yejun生日单人直播](https://www.bilibili.com/video/BV1NN4y1X7VF/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 手持仙女棒、头戴公主皇冠，是海豚公主呀~是的没错，我们PLAVE有自己的公主！👸🏻
 
-然后今晚也直播翻唱了我最喜欢的《乱春》和《Summer》[PLAVE切片｜南艺俊 - 乱春｜是我最爱的最爱的最爱的乱春TT @230912 ](https://www.bilibili.com/video/BV1fP41187Yi/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) / [230912 Summer(原唱 :Paul Blanco) Cover by 艺俊🎂_](https://www.bilibili.com/video/BV1cV411N7M2/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)当初就是因为听了艺俊翻唱的乱春，然后入的PLAVE的深坑，我真的超爱啊谁懂！😭😭 还翻唱了一首也很喜欢 [【PLAVE】230912 艺俊🎂 Stalker(原唱:10cm) Cover by 南艺俊](https://www.bilibili.com/video/BV1Ew411i7K8/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7) 这首是艺俊早在出道前的初直播里翻唱过的，如今离初直播也几乎满一年了，艺俊的歌声依旧清澈明亮和温柔，如今再次回看初直播莫名有些泪目😢 [10CM - Stalker](https://www.bilibili.com/video/BV1dk4y1v7sF/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7)
+然后今晚也直播翻唱了我最喜欢的《乱春》和《Summer》[PLAVE切片｜南艺俊 - 乱春｜是我最爱的最爱的最爱的乱春TT @230912 ](https://www.bilibili.com/video/BV1fP41187Yi/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) / [230912 Summer(原唱 :Paul Blanco) Cover by 艺俊🎂_](https://www.bilibili.com/video/BV1cV411N7M2/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)当初就是因为听了艺俊翻唱的乱春，然后入的PLAVE的深坑，我真的超爱啊谁懂！😭😭 还翻唱了一首也很喜欢 [PLAVE中字- 跟蹤狂(STALKER) Covered by Yejun](https://www.bilibili.com/video/BV1b94y1s71g/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7)这首是艺俊早在出道前的初直播里翻唱过的，如今离初直播也几乎满一年了，艺俊的歌声依旧清澈明亮和温柔，如今再次回看初直播莫名有些泪目😢 [10CM - Stalker](https://www.bilibili.com/video/BV1dk4y1v7sF/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7)
 
 然后今晚斑比、银虎、河玟和诺亚都打来了电话！📞尤其要说的是最后压轴的诺亚，一开口就整活装诺亚的爷爷可还行，笑死😂然后艺俊问诺亚要送什么生日礼物，弹幕的大家好有sense，什么送健身卡送蓝莓鸡胸肉奶昔的都有哈哈哈哈，然后诺亚清唱了一段生日歌，甜甜的~不愧是我嗑的椰奶🙋‍♀️ 然后还有河玟，还专门写了信给艺俊，署名是“PLAVE艺俊的粉丝河玟” 听完信的艺俊和河玟都有点哽咽😢大家都是很真诚的孩子...[【PLAVE切片中字】让艺俊爆哭的生日电话｜来自河玟最真挚的信｜要买劳力士的FLEX诺亚｜斑比前辈的暖心经验谈｜今天银虎是100%的艺Line](https://www.bilibili.com/video/BV1zh4y1Y7bH/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
 
@@ -229,6 +229,38 @@ For Eunho：
 
 <!-- endtimeline -->
 
+<!-- timeline 09-08 -->
+
+<img src="Asterum/230908.jpg" alt="230908 五人合播" style="zoom: 70%;" />
+
+久违的五人合播！解锁新地图：学校讲堂🙋‍♀
+
+然后是PLAVE的第一个PPL，感谢金主的衣服！这套衣服真的好看，尤其是斑比的那一套粉色的，很适合斑比，看过去就像是嫩嫩的水蜜桃~🍑直播还没过一会儿，卖衣服的网站就崩了哈哈哈，甚至直播结束后衣服都已经售完了，不愧是噗哩姐们，韩火很安心🔥😇
+
+然后是跳高吃星星~斑比由于身高，一直只能吃三颗星星kkk但是斑比偏偏不服，总是要上前挑战，最终吃下第四颗星！太可爱了呜呜ww🥰 [又被身高欺负了的可怜小粉红 都是游戏的错 230908 五人直播切片cut_](https://www.bilibili.com/video/BV1N34y1K7gz/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 第二个游戏是抖便利贴游戏，这个游戏也好有趣，有亿点好奇Vlast是用什么技术做到让便利贴随身体抖动掉落的🤔这环节艺俊是唯一把身上所有便利贴掉落的，不愧是海豚nim🐬~印象深刻的还有斑比的阴暗爬行、诺亚那犹如白色羊驼一般的舞动🤣
+
+然后是舞蹈评价考试~五人轮流上阵，这次的舞蹈评价老师也是PPL的老板，听说也是很南韩很厉害的编舞家和舞者，给很多有名的组合做过编舞！最喜欢的是斑比翻跳的Smoke，粉粉的凶凶的~💗 [【PLAVE/直播切片】蔡丰玖-《Smoke》翻跳直拍 纯享版](https://www.bilibili.com/video/BV1uV411P7gU/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 
+
+最后是拳头在哭泣环节......
+
+[【PLAVE直播全场中字熟肉】PLAVE 第一个PPL & 舞蹈实技考试 & 哭泣的拳头](https://www.bilibili.com/video/BV1gz4y1V7hr/?spm_id_from=333.788.recommend_more_video.-1&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+<!-- endtimeline -->
+
+<!-- timeline 09-07 -->
+
+<img src="Asterum/230907.jpg" alt="230907 诺亚&河玟" style="zoom: 50%;" />
+
+庆祝官咖会员数突破5万！🥳🥳五万公约的五人翻唱在线等~！
+
+然后是熟悉的re环节，只见诺亚再次上演神之截图，给噗哩们又增加了好多表情包，快说谢谢诺亚！然后还讲了很多练习幕后的故事~最好品的还得是这一段，是谁又磕到了？🙋‍♀ [plave｜和我一样没看懂这个视频的建议一起再研读1551遍_](https://www.bilibili.com/video/BV1Wk4y1A7zT/?spm_id_from=333.788.recommend_more_video.2&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+最后河玟还教了诺亚跳最近很火的《Smoke》，诺亚学舞还是很快的，毕竟队内舞蹈断层第三kkk
+
+[【PLAVE直播全场中字熟肉】Noah&Hamin 美食世界杯合得来or合不来？& 哥忙z的Smoke challenge！](https://www.bilibili.com/video/BV1Kh4y1N7VX/?spm_id_from=333.788.recommend_more_video.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+<!-- endtimeline -->
+
 <!-- timeline 07-17 -->
 
 <img src="Asterum/诺亚 - 参宿四 (Betelgeuse).jpg" alt="诺亚 - 参宿四 (Betelgeuse)" style="zoom: 12%;" />
@@ -244,7 +276,7 @@ For Eunho：
 
 <!-- timeline 07-14 -->
 
-<img src="Asterum/斑比生日快乐.png" alt="斑比生日快乐！" style="zoom: 80%;" />
+<img src="Asterum/斑比生日快乐.png" alt="斑比生日快乐！🎂" style="zoom: 80%;" />
 
 今晚就是斑比的生日～！🎂
 生日直播定在了14号的晚上10点，可以陪斑比一起等十一点的生日到来了！💗💗
