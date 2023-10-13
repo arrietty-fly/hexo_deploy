@@ -241,7 +241,7 @@ For Eunho：
 
 然后是舞蹈评价考试~五人轮流上阵，这次的舞蹈评价老师也是PPL的老板，听说也是很南韩很厉害的编舞家和舞者，给很多有名的组合做过编舞！最喜欢的是斑比翻跳的Smoke，粉粉的凶凶的~💗 [【PLAVE/直播切片】蔡丰玖-《Smoke》翻跳直拍 纯享版](https://www.bilibili.com/video/BV1uV411P7gU/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 
 
-最后是拳头在哭泣环节......
+最后是拳头在哭泣环节！先是河玟叫出了艺俊，然后是斑比和银虎。河玟叫出的是艺俊有点意外，然后斑比和银虎完全不意外😂
 
 [【PLAVE直播全场中字熟肉】PLAVE 第一个PPL & 舞蹈实技考试 & 哭泣的拳头](https://www.bilibili.com/video/BV1gz4y1V7hr/?spm_id_from=333.788.recommend_more_video.-1&vd_source=683accdf4a366c372d15625bf59c99d7)
 
@@ -258,6 +258,34 @@ For Eunho：
 最后河玟还教了诺亚跳最近很火的《Smoke》，诺亚学舞还是很快的，毕竟队内舞蹈断层第三kkk
 
 [【PLAVE直播全场中字熟肉】Noah&Hamin 美食世界杯合得来or合不来？& 哥忙z的Smoke challenge！](https://www.bilibili.com/video/BV1Kh4y1N7VX/?spm_id_from=333.788.recommend_more_video.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+<!-- endtimeline -->
+
+<!-- timeline 08-31 -->
+
+<img src="Asterum/230831.jpg" alt="230831 艺俊&诺亚&河玟" style="zoom: 50%;" />
+
+前几天的签售里，有噗哩让银虎和河玟做“拒绝告白”的表演kk然后在河玟的提议下，诺亚和艺俊也做了这个表演，艺俊和诺亚的装腔真的很搞笑😂 [【PLAVE切片中字】拒绝告白演技](https://www.bilibili.com/video/BV1WN411q727/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7)  
+
+中间recation了六夏的特别影片，这时我才发现原来虎子才是真正的团欺哈哈哈，不过我也很好奇，虎子到底是怎么做到二郎腿这么笔直的？真的不会坐着腰很痛吗🤣最后是倍速舞蹈挑战，河玟不愧是舞担轻松应对，然后艺俊和诺亚就有点不知道在忙什么的感觉😂
+
+[【PLAVE直播全场中字熟肉】Yejun&Noah&Hamin 六夏编舞&mini1辑录音behind故事分享！（feat. 银虎）](https://www.bilibili.com/video/BV1u14y1k7ei/?spm_id_from=333.788.recommend_more_video.-1&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+<!-- endtimeline -->
+
+<!-- timeline 08-28 -->
+
+<img src="Asterum/230828.jpg" alt="230828 斑比&银虎" style="zoom: 50%;" />
+
+B站的银牌终于到了！还是我最喜欢的43合播，豆丝是懂我的~
+
+啊啊当听到银虎说感谢中国噗哩的时候，真的很高兴很激动！！
+
+然后是音中舞台的reaction，看到一半的时候直播间直接消失了可还行，原因是因为侵权了MBC的音中舞台...没想到MBC当家男团也有被自家背刺的时候🤣
+
+然后现场还跳了六夏编舞里我最爱的43双人舞~
+
+[【PLAVE直播回放全场熟肉】230828 B站银色小电视奖牌GET|被咔掉的音中reaction|新专回归编舞讲解（ft.黑色小猫咪）](https://www.bilibili.com/video/BV11P411h72u/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7)
 
 <!-- endtimeline -->
 
