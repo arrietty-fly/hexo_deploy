@@ -89,10 +89,10 @@ class Musics {
         },
         {
             id: 10,
-            title: 'Sloth',
-            singer: 'Mili',
-            songUrl: './songs/【Mili】Sloth（树懒）.mp3',
-            imageUrl: './images/songs/【Mili】Sloth（树懒）.jpg'
+            title: '致我的思春期',
+            singer: '脸红的思春期',
+            songUrl: './songs/脸红的思春期 - 致我的思春期.mp3',
+            imageUrl: './images/songs/脸红的思春期 - 致我的思春期.jpg'
         },
             
         ]
