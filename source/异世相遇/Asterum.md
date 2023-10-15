@@ -12,11 +12,11 @@ aside: false
 
 一开始的直播很像在山洞里，所以差不多花了15分钟的时间换了旧的麦克风。然后是固定的闲聊环节“今天吃了啥”~聊了很久，PLAVE对吃的是认真的！
 
-然后是斑line的正式宣布仪式！讲堂上面的幕帘也特地换成了斑比的头像！还有斑比也戴上了小蝴蝶头饰和彩带限时返场😂真的一眼看过去“哪里来的漂亮小姑娘👧”~然后斑比还帅气地跳了Siren和PTTR，难道这是加入斑line的福利吗？我立马申请加入！🙋‍♀️
+然后是斑line的正式宣布仪式！讲堂上面的幕帘也特地换成了斑比的头像！还有斑比也戴上了小蝴蝶头饰和彩带限时返场😂真的一眼看过去“哪里来的漂亮小姑娘呀”~👧然后斑比还帅气地跳了Siren和PTTR，难道这就是加入斑line的福利吗？我立马申请加入！🙋‍♀️  [PLAVE切片中字｜斑line祝贺公演｜特邀嘉宾斑比SIREN&DEVIL挑战现场版 @231013](https://www.bilibili.com/video/BV1xN411b7gs/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
 
-然后谈到银虎加入斑line的时候，感觉好不容易关上的柜门又被狠狠推开了...什么“两个人有种分不开彼此的感觉”、“有点是装着很讨厌，其实特别喜欢”，尤其是诺亚说的“两个人开出了爱情的花”最惊为天人...😦我只能说祝二位99，领结婚证的那天记得通知我一下，我随个份子钱
+然后谈到银虎加入斑line的时候，感觉好不容易关上的柜门又被狠狠推开了...什么“两个人有种分不开彼此的感觉”、“有点是装着很讨厌，其实特别喜欢”，还得是4399超话的主持人南艺俊，带头给我们嗑糖！尤其是诺亚说的“两个人开出了爱情的花”最惊为天人...😦  [老夫老妻在线磕43/强烈的否定就是强烈的肯定/斑比银虎的爱情开花了?231013PLAVE直播 艺俊 诺亚 斑比_](https://www.bilibili.com/video/BV1sH4y1o7XW/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
 
-然后是游戏回！这次玩的游戏是《马里奥派对》~也可以叫《虚拟男团大战AI》，真的一波三折，反转反转再反转，在现场真的要笑死我了🤣结果万万没想到最后的赢家是艺俊kkk顺便一提，玩游戏时候的诺亚真的好娇啊，感觉一直在撒娇，真的好可爱💜
+然后是游戏回！这次玩的游戏是《马里奥派对》~也可以叫《虚拟男团大战AI》，真的一波三折，反转反转再反转，在现场真的要笑死我了🤣结果万万没想到最后的赢家是艺俊kkk顺便一提，玩游戏时候的诺亚真的好娇啊，感觉一直在撒娇，真的好可爱💜 [PLAVE切片中字｜直击最后翻盘现场!!｜充满gas的感言环节 @231013](https://www.bilibili.com/video/BV1Gj411x7Ru/?spm_id_from=333.1245.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
 
 <!-- endtimeline -->
 
@@ -260,22 +260,6 @@ For Eunho：
 
 <!-- endtimeline -->
 
-<!-- timeline 08-24 -->
-
-<img src="Asterum/PLAVE 《The 6th Summer》MV 230824.jpg" alt="PLAVE 《The 6th Summer》MV" style="zoom: 35%;" />
-
-心心念念的MV和完整专辑终于放出来了！果然都是仙曲啊仙曲！诺亚诚不欺我😭😭
-
-看到推特上好多太太也参与了这次动画MV的作画，是所有大大们、VLAST和PLAVE一起共同的心血凝聚而成的作品啊！！
-
-而且当天KST18:13的实时榜销量1位，共计56307张！主打音源也成功占据bug榜一位，瓜榜也进了hot100的第13位、实时榜的64位！专辑也在14小时内登上了Melon百万专辑殿堂，在历代中排名第26位！当天Melon的艺人排行榜里也是占据男团第一，整体第二，就在Newjeans的下面...就连当天的直播放送也在全球油管虚拟直播中排名第一！
-
-真的是很亮眼的成绩啊，PLAVE值得！😭😭
-
-[PLAVE 《The 6th Summer》（第六个夏天）MV【中文CC字幕】](https://www.bilibili.com/video/BV1Fw411Q7xk/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
-
-<!-- endtimeline -->
-
 <!-- timeline 09-08 -->
 
 <img src="Asterum/230908.jpg" alt="230908 五人合播" style="zoom: 70%;" />
@@ -333,6 +317,56 @@ B站的银牌终于到了！还是我最喜欢的43合播，豆丝是懂我的~
 然后现场还跳了六夏编舞里我最爱的43双人舞~
 
 [【PLAVE直播回放全场熟肉】230828 B站银色小电视奖牌GET|被咔掉的音中reaction|新专回归编舞讲解（ft.黑色小猫咪）](https://www.bilibili.com/video/BV11P411h72u/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+<!-- endtimeline -->
+
+<!-- timeline 08-24 -->
+
+<img src="Asterum/230824.jpg" alt="230824 回归了！" style="zoom: 60%;" />
+
+PLAVE首张mini专辑‘ASTERUM : The Shape of Things to Come’正式回归了！切片补上！
+
+[【直播切片】 'ASTERUM : The Shape of Things to Come' 专辑歌曲直播现场版.zip](https://www.bilibili.com/video/BV1A94y167VK/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+[PLAVE切片中字｜第二个"MELTING"~ 喔呜哦呜哦~｜怎么又欺负蔡斑比!!(莫多莫多) @230824_](https://www.bilibili.com/video/BV1Sp4y1K7gJ/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 
+
+[PLAVE切片中字｜有新特效啦\^O^/ 全员700^_−☆ @230824](https://www.bilibili.com/video/BV17p4y1E7jz/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+[【PLAVE/中字】230824 团建之诺亚健身未遂](https://www.bilibili.com/video/BV15N4y1o7um/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+[PLAVE切片中字｜“冷～冷～的”桑拿房趣事｜我最爱的一集( ̀⌄ ́) @230824_](https://www.bilibili.com/video/BV1Bu4y1X71q/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+[【PLAVE直播全场中字熟肉】PLAVE首张mini专辑‘ASTERUM : The Shape of Things to Come’回归放送](https://www.bilibili.com/video/BV1Q94y1z7bN/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+<!-- endtimeline -->
+
+<!-- timeline 08-24 -->
+
+<img src="Asterum/PLAVE 《The 6th Summer》MV 230824.jpg" alt="PLAVE 《The 6th Summer》MV" style="zoom: 35%;" />
+
+心心念念的MV和完整专辑终于放出来了！果然都是仙曲啊仙曲！诺亚诚不欺我😭😭
+
+看到推特上好多太太也参与了这次动画MV的作画，是所有大大们、VLAST和PLAVE一起共同的心血凝聚而成的作品啊！！
+
+而且当天KST18:13的实时榜销量1位，共计56307张！主打音源也成功占据bug榜一位，瓜榜也进了hot100的第13位、实时榜的64位！专辑也在14小时内登上了Melon百万专辑殿堂，在历代中排名第26位！当天Melon的艺人排行榜里也是占据男团第一，整体第二，就在Newjeans的下面...就连当天的直播放送也在全球油管虚拟直播中排名第一！
+
+真的是很亮眼的成绩啊，PLAVE值得！😭😭
+
+[PLAVE 《The 6th Summer》（第六个夏天）MV【中文CC字幕】](https://www.bilibili.com/video/BV1Fw411Q7xk/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+<!-- endtimeline -->
+
+<!-- timeline 08-22 -->
+
+<img src="Asterum/230822.jpg" alt="230822 银虎&河玟" style="zoom: 30%;" />
+
+今天河玟教了虎子跳了最近很火的Fast Forward和Seven~河玟老师真的很有耐心很温柔kkk
+
+聊到了团建去打保龄球，河玟说艺俊打保龄球还跟任天堂一样用腚门，笑死🤣 虎子的姿势很标准，诺亚的吐槽是“呀！银虎终于找到身体擅长的事情了！” 小猫两盘都拿了第一，牛牛的~然后斑比就是“一直像只小狗一样跑来跑去，还搞妨碍”，笑死，不愧是四次元的斑比😂然后诺亚还叫成员们一起去健身房，还给成员们准备了细肩带背心和鸡胸肉，“幸运的是健身房门没开” 诺亚对健身是真心的哈哈哈哈[【PLAVE/中字】230822 团建之保龄球赛](https://www.bilibili.com/video/BV1ap4y1K7dT/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7) 这应该是第一次分享幕后的团建，以后请多多！
+
+然后是FIFA对决，七夕节玩足球游戏我是服你们的...然后不得不吐槽的就是，虎子的守门员真的好忙，后面甚至直接不守门了，直接踢球到半场，笑死😂然后果不其然银虎输了，惩罚就是撒娇和用屁股写名字哈哈哈哈😆 [PLAVE切片中字｜都银虎想删掉的片段=(^.^)= @230822](https://www.bilibili.com/video/BV1Cz4y1u7HR/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7) 写完之后，虎子说“大家也都不喜欢看这个吧”，虽然但是，我是很爱看的，请多多😄
+
+[【PLAVE中字全场】翻跳挑战教学 | FIFA对决 | RAP，翻唱 银虎河玟❤️🖤 2023.08.22_](https://www.bilibili.com/video/BV1Yu411w7GU/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7)
 
 <!-- endtimeline -->
 
