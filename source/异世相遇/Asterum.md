@@ -370,6 +370,20 @@ PLAVE首张mini专辑‘ASTERUM : The Shape of Things to Come’正式回归了�
 
 <!-- endtimeline -->
 
+<!-- timeline 08-18 -->
+
+<img src="Asterum/230818.png" alt="诺亚 - 参宿四 (Betelgeuse)" style="zoom: 50%;" />
+
+斑比的粉色单衣限时返场，不过看到后面说其实有做一套新的，但是因为有绿色，容易被机器识别为绿幕，所以临时换掉了kkk然后还现场换衣服可还行，你们三个真的很会装笑死，穿了一小会，今晚是薄巧水蜜桃哎~
+
+然后是白鹤游戏，因为前几天河玟说自己走到了110m，被两个屑哥哥要求现场认证kkk虽然最后没走到110m，但是我相信小猫没有说谎~这游戏是真的难啊！
+
+最后是艺俊的Vocal声乐教室~一对一辅导，河玟学得很认真，学得也很快，然后斑比好像有点灵魂出走的感觉，莫名乖乖的哈哈哈哈~
+
+[【PLAVE/全场中字】ASTERUM灵异事件/海豚的音乐教室/恼人的白鹳游戏| 23.08.18直播](https://www.bilibili.com/video/BV1GF411U7GW/?spm_id_from=333.788.recommend_more_video.-1&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+<!-- endtimeline -->
+
 <!-- timeline 07-17 -->
 
 <img src="Asterum/诺亚 - 参宿四 (Betelgeuse).jpg" alt="诺亚 - 参宿四 (Betelgeuse)" style="zoom: 12%;" />
