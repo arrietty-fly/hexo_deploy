@@ -6,6 +6,20 @@ aside: false
 
 {% timeline 2023 %}
 
+<!-- timeline 10-19 -->
+
+<img src="Asterum/231019.jpg" alt="231013 艺俊&斑比&河玟" style="zoom: 35%;" />
+
+今天re了六夏的练习室，又是虎子被审判的一天，虎子の疯狂星期四~
+
+然后又是《马里奥派对》游戏！原本游戏一开始，斑比一直运气很差，连AI都拿到星星了，斑比还没有星星，而且还穷没有金币kkk😂有点让人怜爱了ww然后中间还碰上了和河玟的对决，赌徒斑比把自己全部的金币都押上了可还行，最后惨败痛失所有家产kk [PLAVE切片中字｜人不要轻易赌博…蔡斑比血泪教训 @231019](https://www.bilibili.com/video/BV1Nh4y1B7PW/?spm_id_from=333.788.top_right_bar_window_custom_collection.content.click&vd_source=683accdf4a366c372d15625bf59c99d7) 这告诉我们一个道理：不要做亡命的赌徒！然后在玩游戏的时候，河玟时不时声带模仿，可爱的~什么时候也给我们的声带模仿天才小猫做个语音包！
+
+上次的赢家是艺俊，结果这次的赢家是斑比哈哈哈哈~所以，人生就像是这马里奥派对，总是起起落落落落落落起起落落落起的😆艺俊惨败，河玟不得不来一周的斑line，真是输了游戏也赔了猫啊哈哈哈哈笑死，最后艺俊倒在地上撕心裂肺的嘶吼一边吐泡泡好搞笑🤣  [【PLAVE切片中字】恭喜斑line新成员+1](https://www.bilibili.com/video/BV1Fw411F7be/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+[【PLAVE/中字】231019 河玟加入斑line的始末（艺俊/斑比/河玟）](https://www.bilibili.com/video/BV1HH4y1d7YQ/?spm_id_from=333.788.top_right_bar_window_custom_collection.content.click&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+<!-- endtimeline -->
+
 <!-- timeline 10-13 -->
 
 <img src="Asterum/231013.jpg" alt="231013 艺俊&诺亚&斑比" style="zoom: 40%;" />
