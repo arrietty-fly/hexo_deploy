@@ -6,6 +6,36 @@ aside: false
 
 {% timeline 2023 %}
 
+<!-- timeline 10-22 -->
+
+<img src="Asterum/上报纸了！.jpg" alt="上报纸了！" style="zoom: 35%;" />
+
+嗷呜PLAVE居然上了内地的报纸！还是羊城晚报📰~ 🔥🔥🔥
+
+里面有一句话真的很触动我——
+
+***”只有爱一个东西你才能延续你的生命，热爱虚拟偶像的你才会爱自己。“***
+
+哇真的，在遇见我推之前，尤其是3，4月的时候，那时候临近初会考试，我真的感觉每一天都很痛苦很纠结很矛盾，心理压力很大，极度的内耗甚至开始怀疑自我，讨厌这个世界，讨厌身边的亲人和朋友，觉得一切都是虚无毫无意义......然后现在真的很不一样，感觉好像每天泡在蜜罐里，很开心很满足，感觉世界也没有那么糟糕，想要一直和PLAVE走下去，热烈的活下去。
+
+真幸运，能在4月的那一天与你们相遇并且爱上你们😢❤
+
+[广角 | 邂逅虚拟偶像，一种人际交往的新现实 (ycwb.com)](https://6nis.ycwb.com/app/template/displayTemplate/news/newsDetail/120467/52278291.html?isShare=truehttps%3A%2F%2F6nis.ycwb.com%2Fapp%2Ftemplate%2FdisplayTemplate%2Fnews%2FnewsDetail%2F120467%2F52278291.html%3FisShare%3Dtrue)
+
+<!-- endtimeline -->
+
+<!-- timeline 10-20 -->
+
+<img src="Asterum/231020.jpg" alt="231020 银虎&河玟" style="zoom: 40%;" />
+
+因为今天晚上有课，然后错过了直播ㅠㅠ 不过回寝室立马看了超话和up们的切片，吃的很饱~
+
+河玟加入斑line的新特效“01开花”！然后是银虎看斑比的直拍的锐评反击时刻😆看这小子挑刺的样子 [【PLAVE】银虎的反击 reaction锐评斑比丨看这小子挑刺的样子丨《六夏》《Siren》《Love Lee》reaction斑比部分｜纯正43味_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Ee411R7uv/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 还有网购零食，嗯嗯...应该可以看做是猫猫狗狗在网购自己的猫粮和狗粮吧~然后就是河玟舞蹈老师的授课时间，虎子今天学了三首歌哈哈哈哈 [PLAVE银虎&河玟直播在线教学如何翻跳教学RIIZE《Siren+Get A Guitar》](https://www.bilibili.com/video/BV1Ky4y1P7vn/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 然后还有Rap和清唱Loving You Girl（超爱！）[【PLAVE】RAPline的生唱实力是？？！|《RINDAMAN》&《loving you girl》_](https://www.bilibili.com/video/BV1b94y1b7Gn/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+最后的截图时间，竖屏的虎子真的好帅啊！❤‍🔥[PLAVE切片中字｜来自竖屏虎的冲击…有点承受不住了σ(^_^;) @231020](https://www.bilibili.com/video/BV1t94y1L7FV/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+<!-- endtimeline -->
+
 <!-- timeline 10-19 -->
 
 <img src="Asterum/231019.jpg" alt="231013 艺俊&斑比&河玟" style="zoom: 35%;" />
@@ -17,6 +47,30 @@ aside: false
 上次的赢家是艺俊，结果这次的赢家是斑比哈哈哈哈~所以，人生就像是这马里奥派对，总是起起落落落落落落起起落落落起的😆艺俊惨败，河玟不得不来一周的斑line，真是输了游戏也赔了猫啊哈哈哈哈笑死，最后艺俊倒在地上撕心裂肺的嘶吼一边吐泡泡好搞笑🤣  [【PLAVE切片中字】恭喜斑line新成员+1](https://www.bilibili.com/video/BV1Fw411F7be/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7)
 
 [【PLAVE/中字】231019 河玟加入斑line的始末（艺俊/斑比/河玟）](https://www.bilibili.com/video/BV1HH4y1d7YQ/?spm_id_from=333.788.top_right_bar_window_custom_collection.content.click&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+<!-- endtimeline -->
+
+<!-- timeline 10-17 -->
+
+ [韩联社] 
+
+此前，在上个月23号，虚拟偶像 Plave也参与了在首尔麻浦区世界杯竞技场举办的MBC Idol Radio演唱会。
+
+五人组合Plave在大型电子屏幕上进行了精彩的表演，获得了来自粉丝们解渴般的热烈应援。
+
+这天的公演虽然不是plave的单独演唱会，但也有近5000名Plli来到现场。
+
+制作了plave的虚拟企划专门公司vlast正在为明年能召开单独演唱会而准备中。
+
+https://weibo.com/7874735016/Noe6efTeu
+
+------
+
+这么快就要开单独演唱会了啊ㅠㅠ 
+
+但是我现在还只是个贫穷的大学生，要努力赚钱了！💸💸💸 
+
+据说最近中韩签证还比以前更简便了，以及在校大学生独有的签证程序便捷！看来这一切都是命运的安排，看来这韩国我是不得不去了，冲冲冲~  [攻略在此！](https://www.notion.so/With-PLAVE-220f682a31024c86ab8580469277888e?pvs=4) 
 
 <!-- endtimeline -->
 
