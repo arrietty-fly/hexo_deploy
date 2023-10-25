@@ -38,7 +38,7 @@ aside: false
 
 <!-- timeline 10-19 -->
 
-<img src="Asterum/231019.jpg" alt="231013 艺俊&斑比&河玟" style="zoom: 35%;" />
+<img src="Asterum/231019.jpg" alt="231019 艺俊&斑比&河玟" style="zoom: 35%;" />
 
 今天re了六夏的练习室，又是虎子被审判的一天，虎子の疯狂星期四~
 
@@ -71,6 +71,16 @@ https://weibo.com/7874735016/Noe6efTeu
 但是我现在还只是个贫穷的大学生，要努力赚钱了！💸💸💸 
 
 据说最近中韩签证还比以前更简便了，以及在校大学生独有的签证程序便捷！看来这一切都是命运的安排，看来这韩国我是不得不去了，冲冲冲~  [攻略在此！](https://www.notion.so/With-PLAVE-220f682a31024c86ab8580469277888e?pvs=4) 
+
+<!-- endtimeline -->
+
+<!-- timeline 10-14 -->
+
+<img src="Asterum/双厨狂喜.jpg" alt="双厨狂喜" style="zoom: 40%;" />
+
+啊啊啊啊双厨的狂喜时刻！虽然早就知道在KCON，PLAVE和XG的展台是靠在一起的，但是看到还是会很激动~
+
+尤其是这同框的几秒，还是小纯！小纯是我在XG里最喜欢的Vocal，在XG的歌里简直就是水印一般的存在，真.双厨狂喜~
 
 <!-- endtimeline -->
 
@@ -325,6 +335,20 @@ For Eunho：
 然后今晚斑比、银虎、河玟和诺亚都打来了电话！📞尤其要说的是最后压轴的诺亚，一开口就整活装诺亚的爷爷可还行，笑死😂然后艺俊问诺亚要送什么生日礼物，弹幕的大家好有sense，什么送健身卡送蓝莓鸡胸肉奶昔的都有哈哈哈哈，然后诺亚清唱了一段生日歌，甜甜的~不愧是我嗑的椰奶🙋‍♀️ 然后还有河玟，还专门写了信给艺俊，署名是“PLAVE艺俊的粉丝河玟” 听完信的艺俊和河玟都有点哽咽😢大家都是很真诚的孩子...[【PLAVE切片中字】让艺俊爆哭的生日电话｜来自河玟最真挚的信｜要买劳力士的FLEX诺亚｜斑比前辈的暖心经验谈｜今天银虎是100%的艺Line](https://www.bilibili.com/video/BV1zh4y1Y7bH/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
 
  最后艺俊还写了一封信给PLLI ✉😢 [【PLAVE切片/中字💙】230912 艺俊 生日直播🎂 给噗哩们的信｜每天都很幸福的海豚🐬 约定要报答噗哩们珍贵的爱](https://www.bilibili.com/video/BV16z4y1j78b/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)  感谢你能称为PLAVE，感谢能够与你们相遇，感谢你们给予的真诚和爱，总是带给我快乐和温暖，要平噗啊💙
+
+<!-- endtimeline -->
+
+<!-- timeline 09-10 -->
+
+<img src="Asterum/YATAZ公主抱！.jpg" alt="YATAZ公主抱！" style="zoom: 40%;" />
+
+请务必在我死后 
+
+把这个做成二维码刻在我的墓碑上 
+
+感谢😊❤️💗
+
+[【PLAVE】MS視簽 Yataz公主抱❤️💗 ~Eunho&Bamby&Hamin~](https://www.bilibili.com/video/BV1y8411B7dd/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
 
 <!-- endtimeline -->
 
