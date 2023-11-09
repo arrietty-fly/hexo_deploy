@@ -6,6 +6,82 @@ aside: false
 
 {% timeline 2023 %}
 
+<!-- timeline 11-03 -->
+
+<img src="Asterum/231103 You were beautiful.jpg" alt="PLAVE - You Were Beautiful (原唱 : DAY6) 官咖五万公约" style="zoom: 20%;" />
+
+好好听！场景布置也有好多感动的细节，渲染也进步了好多！！我很喜欢这个礼物，尤其是最后升空的烟花！
+
+虽然这个礼物等了很久，但是等待终究没有辜负，真心感谢PLAVE和VLAST的大家，我真的很爱你们😢
+
+这句话虽然说了很多次，但是还是很想再对你们说：
+
+感谢你们出现在我有限的生命里 
+
+带给我无限的快乐和幸福ㅠㅠ  
+
+能够遇见你们并喜欢上你们 
+
+是我今年，也是此生最幸运的事啊！！😭😭
+
+[【翻唱】PLAVE - You Were Beautiful (原唱 : DAY6)_](https://www.bilibili.com/video/BV1hM411Q7vJ/?spm_id_from=333.788.recommend_more_video.3&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+<!-- endtimeline -->
+
+<!-- timeline 10-30 -->
+
+<img src="Asterum/231031 五人Idol Radio.jpg" alt="231030 五人Idol Radio" style="zoom: 45%;" />
+
+首次五人一起上爱豆拉！还穿上了新的冬季校服~
+
+本次放送的看点：
+
+①选择“心动成员&恼火成员”  [【PLAVE/电台中字】231030 “心动成员&恼火成员”环节合集](https://www.bilibili.com/video/BV1Pe411R7K8/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+②斑比&银虎真心话环节  [［PLAVE 3｜4\] 這段一定得剪 因為害我憋笑憋得好辛苦@231030 idol radio ](https://www.bilibili.com/video/BV1xN4y167rY/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+③声带模仿环节  [PLAVE声带模仿哪家强?｜提高速度！提高速度！@231030 Idol Radio_](https://www.bilibili.com/video/BV1eQ4y1H7D4/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+④“剧透妖精”韩诺亚再上线  [[PLAVE | 中字\]诺亚又剧透了？新歌很快要来了？艺俊又因为剧透崩溃了 ](https://www.bilibili.com/video/BV1Wc411d7Gd/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+⑤ 舞蹈串烧  [【PLAVE现场】舞蹈串烧5首 久违的WFY！_](https://www.bilibili.com/video/BV1xN4y167m9/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+⑥ 六夏现场 冬季校服ver.  [PLAVE - 第六个夏天 现场版｜新衣服呜呜呜应援声呜呜呜 TT ](https://www.bilibili.com/video/BV1gG411y7fW/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+⑦斑比 Square Eyes  [斑 式 8 0 潮到风湿版(拌匀）_](https://www.bilibili.com/video/BV1Ju4y1h7Uq/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+<!-- endtimeline -->
+
+<!-- timeline 10-29 -->
+
+<img src="Asterum/亲亲电台 银虎&河玟231029.jpg" alt="亲亲电台 银虎&河玟231029" style="zoom: 50%;" />
+
+今天的亲亲电台，是虎子和忙内！弟line就是最可爱的~
+
+啊啊啊扮演狗勾的虎子好可爱！这么可爱的狗勾是要被我吃掉的吼吼！🥰🥰
+
+我宣布这就是我以后的起床早安铃~🔔每天一起床就能听到元气虎子的撒娇，开启新一天的好心情～❤
+
+[【PLAVE切片中字】你的小狗来嘞！听银虎喊主人！](https://www.bilibili.com/video/BV1gC4y1H7Jj/?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+[【Eunho】你的小狗叫你主人啦！小狗叫主人纯享版](https://www.bilibili.com/video/BV1Uj411e7JZ/?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+<!-- endtimeline -->
+
+<!-- timeline 10-27 -->
+
+<img src="Asterum/231027.jpg" alt="亲亲电台 银虎&河玟231029" style="zoom: 40%;" />
+
+今天的MC是我们的忙内nim~当了一个晚上的纪律委员，还要管这不安分的四个哥哥kkk
+
+然后是新的服装——运动服！学校礼堂的天花板上也挂了好多国旗，第一次见有被震惊到...
+
+还有久违的兔耳返场了~！都好可爱啊我要揉揉！还有铁人四项：吃星星 - 吐西瓜子 - 跳远 - 甩便利贴
+
+这场直播吃醋的水饺艺俊&河玟斑比开花真的好好笑哈哈哈哈
+
+<!-- endtimeline -->
+
 <!-- timeline 10-22 -->
 
 <img src="Asterum/上报纸了！.jpg" alt="上报纸了！" style="zoom: 35%;" />
