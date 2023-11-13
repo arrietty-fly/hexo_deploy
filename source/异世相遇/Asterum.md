@@ -6,6 +6,78 @@ aside: false
 
 {% timeline 2023 %}
 
+<!-- timeline 11-11 -->
+
+今天是韩国的pepero节，据说在这天会送喜欢的人巧克力棒~然后成员们在这天都在泡泡发了巧克力棒，700！
+
+诺亚说要送PLLI蛋白质巧克力棒，笑死，还得是健身狂魔韩诺亚啊...
+
+还有斑比的粉红色爱心酱的巧克力棒，说是草莓味的呢，哎一古~我会被萌死...
+
+然后今天我也忍不住买了巧克力棒吃，草莓味的~感觉这种很适合做小零食呢，好吃不腻~🍫
+
+还有我最喜欢的太太画的同人，太可爱了！！https://weibo.com/6311054190/4967009771064439
+
+<!-- endtimeline -->
+
+<!-- timeline 11-09 -->
+
+<img src="Asterum/231109.png" alt="231109 艺俊&河玟" style="zoom: 45%;" />
+
+今晚可以称作为豆丝汗流浃背的一晚...因为B站不让播动物森友会，然后中国PLLIs为了掩护，在直播间疯狂发“这分明是第五人格”、“原神，启动！”、“这分明是奇迹暖暖”等等哈哈哈哈，好搞笑啊大家😂然后播了一段之后，直播间还是被发现和警告了，于是B站的运营小哥用飞快的手速遮住了游戏画面哈哈哈哈  [喵喵岛上的小猫前往海豚岛，与海豚哥哥一起钓鱼潜水的治愈故事](https://www.bilibili.com/video/BV1PN41137Yd/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+然后是河玟教艺俊cha泰民前辈的Guilty，是手撩过衣服里抹脖子的那个动作，超sexy的！然后看舞蹈动作视频的时候，艺俊那被舞蹈动作震惊到瞪大的眼珠子kkk🤣毕竟wuli艺俊尼的领带都系到卡喉咙了，这对我们单纯的艺俊nim来说，还是太超前了哈哈哈哈哈  [那家伙的眼珠子/艺俊第一次看泰民-Guilty ](https://www.bilibili.com/video/BV1bQ4y1n7HW/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 还有河玟的超帅cha~ [【PLAVE/Hamin】泰民 - 「Guilty」 challenge](https://www.bilibili.com/video/BV1R84y1Q7tn/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 溢出建模的性感...然后弹幕和评论区的大家都在说“妈妈也是女人...”哈哈哈
+
+然后还有几个切片超有意思！
+
+💙[陌生得像是第一次来自己家](https://www.bilibili.com/video/BV1S84y1Q7ek/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 这段两人的对话超可爱！找不到自己家&进不去自己家只能尬笑的艺俊尼，礼貌的做客小猫，跑来跑去、摸东摸西的弟弟&收拾残局的哥哥😆看得出小猫真的很喜欢玩过家家（明明就是宝宝！），然后艺俊也很宠弟弟，动物森友会很适合他俩一起玩kk 尤其是河玟擅自开艺俊的衣柜之后说的那句“哥，是我诶，我就不能打开看看吗？”，真的很像是弟弟向哥哥撒娇...可爱😊
+
+🖤[动森岛上的二手交易小剧场 买卖不成立刻大打出手的艺LINE](https://www.bilibili.com/video/BV1Uu4y1P7Rj/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 艺俊&河玟的二手交易现场，向河玟讨要路费的屑艺俊&乖乖交出所有财产的河玟，尤其是河玟把所有财产给了艺俊后，说“我现在买不起飞机票了，从今往后就在你家一起生活吧！”好黏腻腻的同居请求！结果艺俊立马把钱又还给河玟了，河玟震惊大喊“为什么！？？”，由此“爱而不得，因爱生恨”的河玟拿起了背包里的斧头，砍向了哥哥哈哈哈哈哈，然后逃跑的时候带上钱一起跑的小财迷河玟......嗑死我了&笑死我了
+
+💙[海豚岛岛规：在野外上卫生间|猫：那还是算了](https://www.bilibili.com/video/BV1Jc411R7LZ/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 炸裂的对话，两人脸不红心不跳地说瞎话，笑死
+
+🖤[坏了，他好像真的很会钓，我是说鱼](https://www.bilibili.com/video/BV1Kg4y197HG/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 彻底黑化的艺俊，直言喜欢并擅长钓鱼！论中话问！！话说，看不出艺俊在动森里钓鱼技术还蛮厉害的嘛~
+
+💙[波比波比波的很混亂…哈哈哈哈哈哈哈哈哈](https://www.bilibili.com/video/BV16a4y1Q7bi/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 混乱的波波比波，700！
+
+<!-- endtimeline -->
+
+<!-- timeline 11-06 -->
+
+<img src="Asterum/231106.jpg" alt="231105 亲亲Radio 狗狗line" style="zoom: 70%;" />
+
+💜[漂亮line的“请多关照”｜斑line得到认可啦~](https://www.bilibili.com/video/BV1Az4y1K7wR/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 看得出斑比真的很喜欢诺亚给自己取的“粉红小个子”的称号，以及对斑line的执着哈哈哈哈，诺亚的嘴也真是很能扯...然后评论区大家说的“13有种新婚后爱的美感”，还有斑比每次牵手都是手背朝上等着别人来牵自己，阿一古...
+
+💗[漂亮line是咆哮型的男人，海豚和小猫不会咆哮](https://www.bilibili.com/video/BV1vM411Q7BY/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 笑死，诺亚那公然拉拢斑比的样子...漂亮line请多接触好吗🥺
+
+❤[都银虎“加面”的故事｜哈米尼来电“训斥”](https://www.bilibili.com/video/BV1f84y1D7k9/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 努力减肥的虎子~
+
+💜[【NOAH】Guilty个人直拍cha～](https://www.bilibili.com/video/BV1qu4y1771p/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 诺亚的cha~
+
+💗[小狗这么可爱肯定要宠的](https://www.bilibili.com/video/BV1bu4y1a7Ay/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 哈哈哈哈哈这个好好笑！虎子那四肢重组般的舞步，好像要把吉他给踩碎的架势...还有斑比老师那灵活的眼珠子，诺亚那先是迷惑然后鼓励式的教育方式......🤣🤣
+
+❤[Bamby/蔡丰玖-《Guilty》翻跳直拍 纯享版](https://www.bilibili.com/video/BV1wu4y1h7q2/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)  斑比老师这次的舞蹈教学又是主打一个拟声词哈哈
+
+💜[GANG BEASTS菜鸡互啄_](https://www.bilibili.com/video/BV1ow411M7bM/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 熟悉的游戏！这下五个人都玩了一遍这个游戏kkk  
+
+💗[玩游戏的精神状态也很美_](https://www.bilibili.com/video/BV1gQ4y1n776/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)  斑比随地大小躺，把我给逗笑了
+
+<!-- endtimeline -->
+
+<!-- timeline 11-05 -->
+
+<img src="Asterum/231105.jpg" alt="231105 亲亲Radio 狗狗line" style="zoom: 40%;" />
+
+亲亲电台，这次是艺俊&虎子~狗勾line！
+
+💙[231105 亲亲Radio 狗狗line 花絮1](https://www.bilibili.com/video/BV1Q94y1G7S6/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7)  两位很懂社会生活的狗勾，为PLAVE和MBC搭上命的艺俊队长kkk
+
+❤[亲亲电台的炒年糕小狗](https://www.bilibili.com/video/BV18c411R7Sm/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7)  虎子翻唱了超爱的年糕君家的广告歌~是年糕狗！
+
+💙[【亲亲电台花絮中字】在虎子减肥时吃汉堡的屑海豚](https://www.bilibili.com/video/BV1Kw411u7d6/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 屑屑的艺俊&努力减肥的虎子，笑死...“眼神清澈的疯子”再认证哈哈哈哈
+
+<!-- endtimeline -->
+
 <!-- timeline 11-03 -->
 
 <img src="Asterum/231103 You were beautiful.jpg" alt="PLAVE - You Were Beautiful (原唱 : DAY6) 官咖五万公约" style="zoom: 20%;" />
