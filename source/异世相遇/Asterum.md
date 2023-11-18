@@ -6,6 +6,56 @@ aside: false
 
 {% timeline 2023 %}
 
+<!-- timeline 11-17 -->
+
+<img src="Asterum/231117.jpg" alt="231117 艺俊&斑比" style="zoom: 25%;" />
+
+好久不见的莓莓z合播！也只有在艺俊面前，才能难得看到斑比撒娇和乖巧的样子kkk
+
+刚开播没多久，就看到一百万韩元的大SC，为了庆祝艺俊的翻唱观看数破百万哈哈，是富婆噗哩呢，看你们嫁进豪门，我就放心了😆哦还有要庆祝的是，油管频道订阅数也破50万了！！
+
+今天还是韩国的初雪，之前出道百日百问的时候，艺俊还说过初雪想要和噗哩们一起直播，没想到今天的初雪就实现了一起直播的愿望呢，该说不说，我们PLAVE是有一种命运之轮在身上的，一切都是注定的啊😢今年的冬天有PLAVE一起度过，感觉冬天也变得不再那么寒冷煎熬了...
+
+💙[艺俊直播翻唱《今天不要走》 原唱：任世俊_](https://www.bilibili.com/video/BV1ww411K7XL/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 久违的生唱！艺俊的声音自带混响般的清亮，真的是天使啊😭
+
+💗[海豚喝水大揭秘｜“我来学一下哥”o(｀ω´ )o ](https://www.bilibili.com/video/BV1xH4y1q73s/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 哈哈哈哈原来艺俊喝水的时候，嘴巴会变成Type-C接口啊，看起来不太聪明的样子，看把艺俊给委屈的💧豆丝快救一救😂
+
+💙[斑比直播翻唱《呼吸/Breathe》 原唱：李夏怡](https://www.bilibili.com/video/BV1Xw411H7EG/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)  渐入佳境的生唱，斑比的高音依旧很稳呢😇
+
+💗[guilty教学，但是呵啦啦啦啦~呼噜噜噜噜rrrrr~](https://www.bilibili.com/video/BV11u4y1A7qZ/?spm_id_from=333.788.recommend_more_video.4&vd_source=683accdf4a366c372d15625bf59c99d7) 我真是服了斑比的拟声词舞蹈教学...泰民：带着你的拟声词舞蹈切片，来法庭见我！而且最后还真给他学好了可还行...
+
+💙[恭喜南艺俊取消了普雷五的泡泡订阅|24小时不间断泡泡攻击](https://www.bilibili.com/video/BV1fu4y1A7gP/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 艺俊终于取消订阅成员的泡泡了哈哈，因为成员们真的24小时不间断的发泡泡...上午中午是河玟，下午是斑比和虎子，晚上和凌晨是诺亚，笑死🤣
+
+💗[如何毁掉蔡班比的游戏 feat.南艺俊的大提问_](https://www.bilibili.com/video/BV1Mz4y1c7PE/?spm_id_from=trigger_reload&vd_source=683accdf4a366c372d15625bf59c99d7)然后后面直播了快一个小时的合成大西瓜，还是Switch版本的，据弹幕的姐妹说很多V都在直播这个版本的合成大西瓜......不过一个合成大西瓜，莓莓z也好激动啊，越玩越上头了还，甚至椅子也不坐了，直接坐地上了可还行，艺俊趁机上炕，斑比那少女一般的坐姿又是怎么回事？！
+
+💙[蔡丰玖｜初雪小诗之解析](https://www.bilibili.com/video/BV1ev411c7kn/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)  最后是艺俊和斑比两人写的自作诗，关于初雪的！F属性大爆发，斑比真的是小蝴蝶🦋🦋https://weibo.com/7874735016/Nt24pDJsM
+
+<!-- endtimeline -->
+
+<!-- timeline 11-17 -->
+
+<img src="Asterum/永远的承诺.jpg" alt="永远的承诺" style="zoom: 35%;" />
+
+[【中英双字/PLAVE】来自未来的旋律-Sky News Arabia独家采访纪录片](https://www.bilibili.com/video/BV12w411H76G/?spm_id_from=333.788.recommend_more_video.3&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+“发誓会始终陪伴在粉丝身边”...之前PD在KCON的采访也说过一样的话，说会永远在一起...
+
+那我想许愿一个十年，可以吗😢
+
+<!-- endtimeline -->
+
+<!-- timeline 11-15 -->
+
+<img src="Asterum/韩国虚拟人产业委员会.png" alt="韩国虚拟人产业委员会" style="zoom: 100%;" />
+
+没想到居然这么快就完善相关体系了，不愧是偶像产业很发达的韩国...
+
+真好啊，这样中之人的隐私安全也能得到保障了！一切都会越来越好的！
+
+https://weibo.com/1789755462/NsES4hgT7
+
+<!-- endtimeline -->
+
 <!-- timeline 11-11 -->
 
 今天是韩国的pepero节，据说在这天会送喜欢的人巧克力棒~然后成员们在这天都在泡泡发了巧克力棒，700！
@@ -396,7 +446,7 @@ CICF的特别舞台，PLAVE还准备了一小段的中文歌翻唱《月亮代�
 
 <!-- timeline 09-21 -->
 
-<img src="Asterum/20230921.jpg" alt="20230921 诺亚&艺俊" style="zoom: 12%;" />
+<img src="Asterum/20230921.jpg" alt="IDOL RADIO拼盘演唱会" style="zoom:40%;" />
 
 本来今晚的直播是斑比和诺亚，但是由于斑比洗冷水澡感冒了，虽然无大碍，但是考虑到23号还有演唱会，所以当天临时改成艺俊和诺亚了，让斑比回家好好休息...（你们韩国人平常喝冰水、熬夜到凌晨、咖啡当水喝就算了，连洗澡都要洗冷水澡的嘛！！？一时不知该如何吐槽...）
 
