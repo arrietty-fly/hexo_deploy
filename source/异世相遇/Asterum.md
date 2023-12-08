@@ -6,6 +6,92 @@ aside: false
 
 {% timeline 2023 %}
 
+<!-- timeline 12-07 -->
+
+<img src="Asterum/圣诞节.png" alt="Merry PLLIstmas" style="zoom: 45%;" />
+
+<img src="Asterum/圣诞节2.jpg" alt="Merry PLLIstmas" style="zoom: 35%;" />
+
+<img src="Asterum/圣诞节3.jpg" alt="Merry PLLIstmas" style="zoom: 47%;" />
+
+PLAVE Digital Single 'Merry PLLIstmas' 
+
+2023.12.12 北京时间17:00
+
+------
+
+是圣诞节的单曲！🎄🔔❄︎有没有什么办法可以快进到十二号啊🥳
+
+胡桃夹子的设定真的很可爱，每个小人的穿着和帽子也有很多细节，圣诞节的氛围满满~
+
+而且不得不说的是，我现在才惊讶地发现，这竟然是我第一次期待着圣诞节的到来...
+
+在没有遇见PLAVE之前，圣诞节对于我来说和平常的日子并没有区别
+
+甚至狭隘地认为这只不过是各大商家费尽心思割韭菜的节日，并且还是外国的节日，就更不在乎了
+
+所以以前的大部分时间里，我只是毫无波澜地度过，心就像这冬日一样冰冷cool......
+
+但是自从遇见你们，我发现每个值得纪念的日子、每个我们一同度过的日子，都那么珍贵
+
+开始第一次期待，我们一起度过的这第一个圣诞节了🎄
+
+<!-- endtimeline -->
+
+<!-- timeline 11-29 -->
+
+<img src="Asterum/seed.jpg" alt="诺亚 - 《Seed》（原唱：TaeYang）" style="zoom: 50%;" />
+
+我真的很想夸豆丝这次翻唱视频的画面制作！！！真的很有感觉，真的戳到心坎的那种ㅠㅠ
+
+雏菊的花语：纯洁、幼稚、幸福、离别…以及深藏在心底的爱
+
+就很像这首歌，即使我们已然分离，我也仍然希望你能够永远快乐和幸福，偶尔也会回忆起我们那稚嫩的过往… 
+
+或许也像这首歌的歌词那样，像这张图：放置在展览馆里的雏菊花，行色匆匆的人们纷纷从它的身侧路过，它是否也在企盼着一个人的短暂驻足，取下自己的一片花瓣呢？“请你...成为我心中的花瓣” “做我黯淡长夜中的那束光，请你照亮我的心”...
+
+[【翻唱】【From. PLAVE】诺亚 - 《Seed》（原唱：TaeYang）](https://www.bilibili.com/video/BV11e411Z7vx/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+<img src="Asterum/seed2.jpg" alt="诺亚 - 《Seed》（原唱：TaeYang）" style="zoom: 50%;" />
+
+还有太太@chipchipplli画的同人短漫，真的很好哭，深夜的时候我久久地看着这张图，流泪了很久...
+
+想起诺亚前团解散后的故事，独自一人闷在狭小的工作室里写歌，努力出了自己的第一张solo专辑，一直没有放弃唱歌，就连艺名nano的意思也是“唱歌的人”
+
+然而最后却再也没有机会去发布自己的作品，只能转向幕后，成为了制作人
+
+当艺俊问起要不要加入PLAVE一起做音乐时，诺亚同意了，即使明知虚拟偶像这一条路充满了无数未知的情况下...
+
+因为他一直都是那个“喜欢唱歌的人”...从来没有变过
+
+现在诺亚有了自己的音乐工作室，也有了被大众认可的音乐作品，以及还有志同道合的PLAVE的成员们
+
+能够做着自己喜欢的音乐，还有会一直爱着他们、支持他们的PLLI
+
+能感觉到诺亚的心也在逐渐变得柔软，真好啊ㅠㅠ
+
+<!-- endtimeline -->
+
+<!-- timeline 11-23 -->
+
+<img src="Asterum/231123.jpg" alt="231123 艺俊&诺亚&河玟" style="zoom: 50%;" />
+
+《You Were Beautiful》翻唱点击数100万了~官咖会员数也突破7万了！！大发大发
+
+今晚可以说是最中二的一集了😂也可以说是VLAST的年末技术大赏？先是河玟的能量棒充电和咆哮，那个咆哮式打招呼，甚至能把整个教室变得地动山摇的哈哈哈哈，然后是艺俊的苏打饮料，喝一口身上还会有超级好看的特效，很有广告的内味！[河东猫吼牌能量棒新特效展示合集](https://www.bilibili.com/video/BV1mH4y1277S/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 最后重磅出场的就是诺亚的任意门，召唤那一刻真的很帅啊谁懂，原来诺亚真的是大魔法师呢🧙‍♂️[【PLAVE】Noah的时空之门，只能说是帅惨了](https://www.bilibili.com/video/BV1Bb4y1u7Fb/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)  只要念咒语就能去任何地方，诺亚去摘了红柿，去海里抓了艺俊最喜欢吃的鱼，去加拿大买了枫糖浆，还带来了圣心堂的炸菠萝包哈哈哈哈 [《韩诺亚的亚是亚马逊的亚》](https://www.bilibili.com/video/BV1Bu4y1w7Uf/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 论诺亚到底把魔法用在什么奇怪的地方...
+
+然后还有艺俊和河玟的新翻唱视频《Your Ocean》！很有趣的是，原本豆丝在此之前说因为排表，这个翻唱视频无法在直播时放送了（实际是骗人的哈哈）猫猫还一直觉得很惋惜来着，结果没想到直播的时候还是放出来了，猫猫从可惜到惊喜的表情变化真的超级无敌可爱啊！[来自豆丝的惊喜：艺俊河玟cover《你的大海》MV reaction](https://www.bilibili.com/video/BV1h34y1w7Eh/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 我第一次看到这个视频的时候，真的十分惊讶于视频的视觉效果，VLAST的技术和美感真的很棒啊，有被惊艳到！艺俊和河玟的合唱也很好听，又get到了一首超好听的仙曲，今晚要把艺俊河玟豆丝都关进称赞监狱！👍︎👍︎👍︎[【翻唱】艺俊&河玟 - Your Ocean (原唱：Hoppipolla) | PLAVE](https://www.bilibili.com/video/BV1iQ4y147xe/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 真的有很强的宿命感，而且还和25之前直播玩的动森的水族馆对应上了，真的...一切都是那么美好的模样
+
+翻唱的评论区里的一个评论也让我颇有感触：“水族馆可能也就是你的大海吗？今天看到一个演唱会现场爱豆们坐在花车上和粉丝们挥手的画面，突然就想到我们雾，好像做不到的时候心痛痛的。 但是听了你们的歌又好像被治愈了，不需要说什么，心意相通的话，我们也在看着同一片大海。”...是啊，PLAVE和PLLI所看向的，一直都是同一片大海啊，仅仅这一点，就足够了😢
+
+还有广告模仿环节，模仿了很多沙雕广告的台词和剧情，很惊讶居然能在这里看到章子怡哈哈哈  ["欧巴!"错了重来!"｜诺亚河玟广告三连播](https://www.bilibili.com/video/BV1Zc411B7tJ/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)  /  [河玟令人晕厥的广告演技+声带模仿](https://www.bilibili.com/video/BV1vw411n7Vg/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)  /  [小动物之间爱吵吵闹闹都是正常现象](https://www.bilibili.com/video/BV1hN411M73f/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)  /  [1551怼是要怼的 贴贴也不会落下](https://www.bilibili.com/video/BV1ye411f7R9/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 
+
+
+
+[【PLAVE直播回放全场熟肉】艺诺河放送 |《你的大海》初次公开&背后behind | PLAVE PPL PR时间 诺亚的带货助手竟是那位…？](https://www.bilibili.com/video/BV1uQ4y1t7Sm/?spm_id_from=333.788.recommend_more_video.-1&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+<!-- endtimeline -->
+
 <!-- timeline 11-20 -->
 
 <img src="Asterum/231120.jpg" alt="231120 斑比&银虎" style="zoom: 25%;" />
