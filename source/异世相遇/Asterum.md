@@ -1,6 +1,8 @@
+---
 title: ASTERUM with PLAVE
 date: 2023-10-7 12:30:51
 aside: false
+---
 
 {% timeline 2023 %}
 
