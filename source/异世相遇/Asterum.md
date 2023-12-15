@@ -1,10 +1,68 @@
----
 title: ASTERUM with PLAVE
 date: 2023-10-7 12:30:51
 aside: false
----
 
 {% timeline 2023 %}
+
+<!-- timeline 12-12 -->
+
+今天是《Merry PLLIstmas》Special Video出来的日子！从四点半就开始在平板面前蹲点了哈哈，好吧...其实在预告图放出来那天开始，我就开始期待着了，接下来的几天预告那几句旋律时不时就出现在脑海里😊~终于等到五点🕔️，先去网易云音乐看了一眼专辑封面，真的超可爱的！看过去就好像我家的五个胡桃夹子回家了，然后敲门说着“妈咪，是我～”😙
+
+<img src="Asterum/Merry PLLIstmas COVER.jpg" alt="Merry PLLIstmas 封面" style="zoom: 10%;" />
+
+然后是最重磅的MV了！开头的旋律导入部分，真的真的很像进入了童话世界，如同迪士尼动画电影般精致的渲染画面~🏰🌟然后是诺亚的神，仙导入，开口的第一句就很抓耳😇~之后特别是艺俊的低音，这个声线真的很好听！然后是诺亚和斑比的特写镜头，漂亮line真的很美很美ww然后切到全体镜头的时候，看到只有斑比的双脚不着地哈哈哈哈😄还有诺亚的低音配合着斑比的高音和声，漂亮line的牵手~
+
+最最最有亮点的，就是斑比的bridge，那一点雪花❄️缓缓掉落在斑比的鼻尖，场景的灯光也暗了下来，这一刻仿佛就像歌词里的“全世界都停止的这个瞬间”，仿佛这一刻只有斑比在闪闪发光，配合斑比清透的歌声，真的很美很梦幻啊——！！之后还有五人的小品环节哈哈，可以叫做《诺亚公主择偶记》👸🏻✨️总之整个mv看下来，无论是音乐质量、画面、运镜、编舞都很完美！！！我很喜欢这个圣诞礼物~🎄🎁🥰
+
+[PLAVE Digital Single 《Merry PLLIstmas》 Special Video 【中文CC字幕】](https://www.bilibili.com/video/BV12C4y1F7j2/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+<details> <summary><b>Merry PLLIstmas 美图一览</b></summary>
+<img src="Asterum/1201.jpg" alt="Merry PLLIstmas" style="zoom: 25%;" /><img src="Asterum/1202.jpg" alt="Merry PLLIstmas" style="zoom: 25%;" /><img src="Asterum/1203.jpg" alt="Merry PLLIstmas" style="zoom: 25%;" /><img src="Asterum/1204.jpg" alt="Merry PLLIstmas" style="zoom: 25%;" /><img src="Asterum/1205.jpg" alt="Merry PLLIstmas" style="zoom: 25%;" /><img src="Asterum/1206.jpg" alt="Merry PLLIstmas" style="zoom: 25%;" /><img src="Asterum/1207.jpg" alt="Merry PLLIstmas" style="zoom: 25%;" /><img src="Asterum/1208.jpg" alt="Merry PLLIstmas" style="zoom: 25%;" /><img src="Asterum/1209.jpg" alt="Merry PLLIstmas" style="zoom: 25%;" /><img src="Asterum/1210.jpg" alt="Merry PLLIstmas" style="zoom: 36%;" /><img src="Asterum/1211.jpg" alt="Merry PLLIstmas" style="zoom: 36%;" /><img src="Asterum/1212.jpg" alt="Merry PLLIstmas" style="zoom: 34%;" /><img src="Asterum/1213.jpg" alt="Merry PLLIstmas" style="zoom: 100%;" /><img src="Asterum/1214.jpg" alt="Merry PLLIstmas" style="zoom: 100%;" /><img src="Asterum/1215.jpg" alt="Merry PLLIstmas" style="zoom: 100%;" /><br><br>
+</details>
+
+还有今晚的五人直播~🎄🌟
+
+全新的圣诞节特效~[PLAVE切片中字｜圣诞礼物新特效☆｜再次澄清：我们不是AI !!!](https://www.bilibili.com/video/BV1Hu4y1H7Jk/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 诺亚的wink爱心变成了小鹿爱心，斑比的开花变成了亮晶晶的雪花❄️河玟可以吐出0和1组成的雪人⛄️艺俊吐出的泡泡升到半空会结冰🧊虎子的火变成了圣诞树的形状，是火树呐🔥🎄
+
+圣诞曲的现场LIVE🎤🎼 [圣诞曲初现场PLAVE - Merry PLLIstmas](https://www.bilibili.com/video/BV1Fc41127gS/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 你们是吃了CD来的吗哈哈~😇
+
+新闻采访环节，信息量巨大哈哈哈哈 [论中话问NEWS集锦](https://www.bilibili.com/video/BV1qe411y7fG/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 我都不敢想象2024年我该是个多么开朗的小女孩~不过有点心疼豆丝们的肝，还有PLAVE的营业强度也大大提高了，看来这下是真的要全年无休了...希望不要太累到自己了，少营业一点也没关系的我的五个宝😢然后下一张专辑的MV也拍完了，甚至已经开始准备下下张专辑了，啊啊啊好期待——！！还有入驻Weverse，以后又多了一个要下载的软件，不过据说可以在上面看演唱会和互动，而且不用翻墙，那感觉挺好的🥰最重要的就是独家演唱会，还说“把PLLI请来Asterum”、“在Asterum造一座演唱会场馆”...感觉这句话别有深意呢，是不是指演唱会会以线上直播的形式呢？那样也好，可以不用花几千块钱去韩国走一趟了，但如果是这样的话，可惜的是他们无法听到我们的应援声了...哎真令人纠结——
+
+[【PLAVE直播回放全场熟肉】圣诞礼物曲COMEBACK LIVE | 令噗哩们热血沸腾的争中话问NEWS | 回归开全麦初LIVE 或许你们是吞CD了吗…？](https://www.bilibili.com/video/BV1fc41127LZ/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+<!-- endtimeline -->
+
+<!-- timeline 12-09 -->
+
+<img src="Asterum/圣诞.jpg" alt="Merry PLLIstmas" style="zoom: 25%;" />
+
+<img src="Asterum/圣诞2.jpg" alt="Merry PLLIstmas" style="zoom: 45%;" />
+
+<img src="Asterum/圣诞3.jpg" alt="Merry PLLIstmas" style="zoom: 45%;" />
+
+<img src="Asterum/圣诞4.jpg" alt="Merry PLLIstmas" style="zoom: 45%;" />
+
+好听！仙曲预定，作曲line大发！场景也超级好看，烟囱s大发！😇🎄
+
+我从十一点开始，一直看到凌晨两点才睡哈哈，24秒真的根本看不厌，每一帧都好好看啊ww
+
+细节的话，诺亚的衣服上是cheese，虎子是Silver ho，艺俊是Cold-Cold-High，还有圣诞树上挂着的“斑比够不到这里吧？”超级有梗！还有hamin身后的圣诞树上挂着的“最后一名成员快公开吧！”，去年圣诞节的时候，河玟还没有正式公开，不知不觉已经一年过去，真好啊~
+
+[PLAVE数码单曲《Merry PLLIstmas》Special Video 预告](https://www.bilibili.com/video/BV1aN4y1a7Ev/?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+<!-- endtimeline -->
+
+<!-- timeline 12-08 -->
+
+<img src="Asterum/台历.jpg" alt="台历" style="zoom: 45%;" />
+
+<img src="Asterum/台历2.jpg" alt="台历" style="zoom: 45%;" />
+
+买了24年的Season's Greeting，也就是台历~当然里面不仅仅有台历，还有计划本贴纸海报小卡之类的~而且里面居然还有健身包，我只能说这真的很实用哈哈哈哈，很喜欢下面的这一套配图，涂鸦萌萌的，还有艺俊的官方兔塑~不过要等到明年1月才能发货了，也就是说到我手上的时候都已经2月末了吧...呜呜只能等了
+
+<img src="Asterum/台历3.jpg" alt="台历" style="zoom: 45%;" />
+
+<!-- endtimeline -->
 
 <!-- timeline 12-07 -->
 
@@ -42,7 +100,7 @@ PLAVE Digital Single 'Merry PLLIstmas'
 
 <img src="Asterum/seed.jpg" alt="诺亚 - 《Seed》（原唱：TaeYang）" style="zoom: 50%;" />
 
-我真的很想夸豆丝这次翻唱视频的画面制作！！！真的很有感觉，真的戳到心坎的那种ㅠㅠ
+我真的很想夸豆丝这次翻唱视频的画面制作！！！真的很有感觉，真的戳到心坎的那种
 
 雏菊的花语：纯洁、幼稚、幸福、离别…以及深藏在心底的爱
 
@@ -54,7 +112,7 @@ PLAVE Digital Single 'Merry PLLIstmas'
 
 <img src="Asterum/seed2.jpg" alt="诺亚 - 《Seed》（原唱：TaeYang）" style="zoom: 50%;" />
 
-还有太太@chipchipplli画的同人短漫，真的很好哭，深夜的时候我久久地看着这张图，流泪了很久...
+还有太太©️chipchipplli画的同人短漫，真的很好哭，深夜的时候我久久地看着这张图，流泪了很久...
 
 想起诺亚前团解散后的故事，独自一人闷在狭小的工作室里写歌，努力出了自己的第一张solo专辑，一直没有放弃唱歌，就连艺名nano的意思也是“唱歌的人”
 
@@ -68,7 +126,23 @@ PLAVE Digital Single 'Merry PLLIstmas'
 
 能够做着自己喜欢的音乐，还有会一直爱着他们、支持他们的PLLI
 
-能感觉到诺亚的心也在逐渐变得柔软，真好啊ㅠㅠ
+能感觉到诺亚的心也在逐渐变得柔软，真好啊
+
+<!-- endtimeline -->
+
+<!-- timeline 11-27 -->
+
+<img src="Asterum/231127.jpg" alt="231127 艺俊&诺亚&银虎" style="zoom: 50%;" />
+
+今晚是作曲line~！还有解锁的全新场景——学校天台，光影渲染真的特别美
+
+先是聊了一会吃的，哥几个对吃的是真心的捏...然后河玟打电话过来了哈哈，说《Your Ocean》的翻唱视频播放量破30万、人气飙升榜11位 [猫猫来电过于可爱了！](https://www.bilibili.com/video/BV17G411i7kc/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 看得出猫猫真的超级高兴，听说练习的时候也在唱这首歌哈哈哈哈😂然后又开始剧透，假的里面让我们猜哪些真的，尤其是诺亚的跑火车：“5天后出正规一辑，12月圣诞节出圣诞颂，1月新年颂，2月出logo song，3月开演唱会，4月海外巡演”  笑死，这行程排的满满的，我只能说推荐韩诺亚去做VLAST的CEO好吧🙋 [“五天后正规一辑”“明年三月演唱会” ｜反正我都信(◐‿◑)﻿ ](https://www.bilibili.com/video/BV1FC4y1N7UC/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 
+
+今晚翻唱的第一首歌~🎶 [如听仙乐Snowman](https://www.bilibili.com/video/BV1NC4y1N7BE/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)🎶唱到一半的时候还下雪了！！第一次看见Asterum的雪❄️❄️❄️真的很有氛围感，地上还会有积雪，真的太美了，无论是歌声还是场景😇还唱了一首记忆的习作和SNOW [作曲line的雪夜天台live（三首歌纯享版）](https://www.bilibili.com/video/BV1j34y1F7bH/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 真的，每切一个特写镜头，都好美啊呜呜
+
+最大的惊喜应该就是logo song终于放出来了👏👏（某人刚才还说明年2月出，坏坏的哼）[logo颂pv也太可爱了啊啊啊啊（附歌词分配）](https://www.bilibili.com/video/BV1R94y177XC/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 话说最后的斑比的哈雷叫声也太有趣了吧哈哈哈哈，这真的是梅花鹿的叫声吗？！据说还是一遍过哈哈 [logosong录音behind](https://www.bilibili.com/video/BV1864y177G6/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 还有logo song的画面也有好多梗和细节，豆丝真的有心了🎁
+
+还有一口气唱Snowman挑战，轮到诺亚挑战的时候，空气含量瞬间变成0%了哈哈哈哈，艺俊明目张胆地换气，还有虎子的Rapper式作弊换气法哈哈哈哈 [迈克尔•杰克虎♪( ´θ｀)ノ ](https://www.bilibili.com/video/BV17a4y1f712/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 都太可爱了😊以及上次虎子和斑比合成大西瓜失败，在官咖吐槽他们玩得菜的诺亚，今晚也玩了哈哈，上来就直接速通式的在中间不停放水果，笑死...中间甚至还真让他合成了好多大水果，分数还挺高，然后弹幕全都是一片问号哈哈哈哈，不过最后还是没能看到大西瓜🍉😂现在只剩下猫猫还没玩了，全村最后的希望了啊啊啊啊🐈‍⬛
 
 <!-- endtimeline -->
 
@@ -106,11 +180,11 @@ PLAVE Digital Single 'Merry PLLIstmas'
 
 关于本次直播，太太们做的饭~👇🍰
 
-💗https://weibo.com/6613460890/NtuvNDabs 沉迷游戏的仓鼠斑&劝回家的虎子，太可爱了...
+https://weibo.com/6613460890/NtuvNDabs 沉迷游戏的仓鼠斑&劝回家的虎子，太可爱了...
 
-❤https://weibo.com/7820499790/NttXWfwwT Apple在线发声：我不是tomato！！
+https://weibo.com/7820499790/NttXWfwwT Apple在线发声：我不是tomato！！
 
-💗https://weibo.com/5656704668/NtBcXqYOr 差点忘了，今天虽然没合成大西瓜，但是合成了4399^^
+https://weibo.com/5656704668/NtBcXqYOr 差点忘了，今天虽然没合成大西瓜，但是合成了4399^^
 
 <!-- endtimeline -->
 
@@ -292,7 +366,7 @@ https://weibo.com/1789755462/NsES4hgT7
 
 是我今年，也是此生最幸运的事啊！！😭😭
 
-[【翻唱】PLAVE - You Were Beautiful (原唱 : DAY6)_](https://www.bilibili.com/video/BV1hM411Q7vJ/?spm_id_from=333.788.recommend_more_video.3&vd_source=683accdf4a366c372d15625bf59c99d7)
+[【翻唱】PLAVE - You Were Beautiful (原唱 : DAY6)](https://www.bilibili.com/video/BV1hM411Q7vJ/?spm_id_from=333.788.recommend_more_video.3&vd_source=683accdf4a366c372d15625bf59c99d7)
 
 <!-- endtimeline -->
 
@@ -304,19 +378,19 @@ https://weibo.com/1789755462/NsES4hgT7
 
 本次放送的看点：
 
-①选择“心动成员&恼火成员”  [【PLAVE/电台中字】231030 “心动成员&恼火成员”环节合集](https://www.bilibili.com/video/BV1Pe411R7K8/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7)
+①选择“心动成员&恼火成员”  [“心动成员&恼火成员”环节合集](https://www.bilibili.com/video/BV1Pe411R7K8/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7)
 
-②斑比&银虎真心话环节  [［PLAVE 3｜4\] 這段一定得剪 因為害我憋笑憋得好辛苦@231030 idol radio ](https://www.bilibili.com/video/BV1xN4y167rY/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7)
+②斑比&银虎真心话环节  [這段一定得剪 因為害我憋笑憋得好辛苦](https://www.bilibili.com/video/BV1xN4y167rY/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7)
 
-③声带模仿环节  [PLAVE声带模仿哪家强?｜提高速度！提高速度！@231030 Idol Radio_](https://www.bilibili.com/video/BV1eQ4y1H7D4/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7)
+③声带模仿环节  [PLAVE声带模仿哪家强?｜提高速度！提高速度！](https://www.bilibili.com/video/BV1eQ4y1H7D4/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7)
 
-④“剧透妖精”韩诺亚再上线  [[PLAVE | 中字\]诺亚又剧透了？新歌很快要来了？艺俊又因为剧透崩溃了 ](https://www.bilibili.com/video/BV1Wc411d7Gd/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7)
+④“剧透妖精”韩诺亚再上线  [诺亚又剧透了？新歌很快要来了？艺俊又因为剧透崩溃了 ](https://www.bilibili.com/video/BV1Wc411d7Gd/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7)
 
-⑤ 舞蹈串烧  [【PLAVE现场】舞蹈串烧5首 久违的WFY！_](https://www.bilibili.com/video/BV1xN4y167m9/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+⑤ 舞蹈串烧  [【PLAVE现场】舞蹈串烧5首](https://www.bilibili.com/video/BV1xN4y167m9/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
 
 ⑥ 六夏现场 冬季校服ver.  [PLAVE - 第六个夏天 现场版｜新衣服呜呜呜应援声呜呜呜 TT ](https://www.bilibili.com/video/BV1gG411y7fW/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
 
-⑦斑比 Square Eyes  [斑 式 8 0 潮到风湿版(拌匀）_](https://www.bilibili.com/video/BV1Ju4y1h7Uq/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+⑦斑比 Square Eyes  [斑 式 8 0 潮到风湿版](https://www.bilibili.com/video/BV1Ju4y1h7Uq/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
 
 <!-- endtimeline -->
 
@@ -330,9 +404,27 @@ https://weibo.com/1789755462/NsES4hgT7
 
 我宣布这就是我以后的起床早安铃~🔔每天一起床就能听到元气虎子的撒娇，开启新一天的好心情～❤
 
-[【PLAVE切片中字】你的小狗来嘞！听银虎喊主人！](https://www.bilibili.com/video/BV1gC4y1H7Jj/?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click&vd_source=683accdf4a366c372d15625bf59c99d7)
+[你的小狗来嘞！听银虎喊主人！](https://www.bilibili.com/video/BV1gC4y1H7Jj/?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click&vd_source=683accdf4a366c372d15625bf59c99d7)
 
-[【Eunho】你的小狗叫你主人啦！小狗叫主人纯享版](https://www.bilibili.com/video/BV1Uj411e7JZ/?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click&vd_source=683accdf4a366c372d15625bf59c99d7)
+[你的小狗叫你主人啦！小狗叫主人纯享版](https://www.bilibili.com/video/BV1Uj411e7JZ/?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+<!-- endtimeline -->
+
+<!-- timeline 10-27 -->
+
+【PLAVE X ANIPLUS】咖啡厅的首次联动！买了斑比的抱枕和鼠标垫~都贵贵的，所以只买了实用性强的鼠标垫和抱枕ww
+
+难得看见VLAST卖二次元的吧唧，虽然是联动的kkk不过要等到年底的时候才线上发货，呜呜我知道等待是我的命运...
+
+| 吧唧 27 | 证件照 27   | 亚克力立牌 65 | 鼠标垫 33   | 珠珠钥匙扣 49 | 亚克力钥匙扣 43 |
+| ------- | ----------- | ------------- | ----------- | ------------- | --------------- |
+| 胶带 38 | 胶卷书签 22 | 抱枕 149      | 亚克力卡 82 | 明信片集 86   | 背景板 159      |
+
+<img src="Asterum/ANIPLUS.jpg" alt="PLAVE X ANIPLUS" style="zoom: 50%;" />
+
+<img src="Asterum/ANIPLUS2.jpg" alt="PLAVE X ANIPLUS" style="zoom: 45%;" />
+
+
 
 <!-- endtimeline -->
 
@@ -374,9 +466,9 @@ https://weibo.com/1789755462/NsES4hgT7
 
 因为今天晚上有课，然后错过了直播ㅠㅠ 不过回寝室立马看了超话和up们的切片，吃的很饱~
 
-河玟加入斑line的新特效“01开花”！然后是银虎看斑比的直拍的锐评反击时刻😆看这小子挑刺的样子 [【PLAVE】银虎的反击 reaction锐评斑比丨看这小子挑刺的样子丨《六夏》《Siren》《Love Lee》reaction斑比部分｜纯正43味_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Ee411R7uv/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 还有网购零食，嗯嗯...应该可以看做是猫猫狗狗在网购自己的猫粮和狗粮吧~然后就是河玟舞蹈老师的授课时间，虎子今天学了三首歌哈哈哈哈 [PLAVE银虎&河玟直播在线教学如何翻跳教学RIIZE《Siren+Get A Guitar》](https://www.bilibili.com/video/BV1Ky4y1P7vn/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 然后还有Rap和清唱Loving You Girl（超爱！）[【PLAVE】RAPline的生唱实力是？？！|《RINDAMAN》&《loving you girl》_](https://www.bilibili.com/video/BV1b94y1b7Gn/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7)
+河玟加入斑line的新特效“01开花”！然后是银虎看斑比的直拍的锐评反击时刻😆看这小子挑刺的样子 [【PLAVE】银虎的反击 reaction锐评斑比丨看这小子挑刺的样子丨《六夏》《Siren》《Love Lee》reaction斑比部分｜纯正43味](https://www.bilibili.com/video/BV1Ee411R7uv/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 还有网购零食，嗯嗯...应该可以看做是猫猫狗狗在网购自己的猫粮和狗粮吧~然后就是河玟舞蹈老师的授课时间，虎子今天学了三首歌哈哈哈哈 [PLAVE银虎&河玟直播在线教学如何翻跳教学RIIZE《Siren+Get A Guitar》](https://www.bilibili.com/video/BV1Ky4y1P7vn/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 然后还有Rap和清唱Loving You Girl（超爱！）[【PLAVE】RAPline的生唱实力是？？！|《RINDAMAN》&《loving you girl》](https://www.bilibili.com/video/BV1b94y1b7Gn/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7)
 
-最后的截图时间，竖屏的虎子真的好帅啊！❤‍🔥[PLAVE切片中字｜来自竖屏虎的冲击…有点承受不住了σ(^_^;) @231020](https://www.bilibili.com/video/BV1t94y1L7FV/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+最后的截图时间，竖屏的虎子真的好帅啊！❤‍🔥[PLAVE切片中字｜来自竖屏虎的冲击…有点承受不住了σ(^_^;) ](https://www.bilibili.com/video/BV1t94y1L7FV/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
 
 <!-- endtimeline -->
 
@@ -386,11 +478,11 @@ https://weibo.com/1789755462/NsES4hgT7
 
 今天re了六夏的练习室，又是虎子被审判的一天，虎子の疯狂星期四~
 
-然后又是《马里奥派对》游戏！原本游戏一开始，斑比一直运气很差，连AI都拿到星星了，斑比还没有星星，而且还穷没有金币kkk😂有点让人怜爱了ww然后中间还碰上了和河玟的对决，赌徒斑比把自己全部的金币都押上了可还行，最后惨败痛失所有家产kk [PLAVE切片中字｜人不要轻易赌博…蔡斑比血泪教训 @231019](https://www.bilibili.com/video/BV1Nh4y1B7PW/?spm_id_from=333.788.top_right_bar_window_custom_collection.content.click&vd_source=683accdf4a366c372d15625bf59c99d7) 这告诉我们一个道理：不要做亡命的赌徒！然后在玩游戏的时候，河玟时不时声带模仿，可爱的~什么时候也给我们的声带模仿天才小猫做个语音包！
+然后又是《马里奥派对》游戏！原本游戏一开始，斑比一直运气很差，连AI都拿到星星了，斑比还没有星星，而且还穷没有金币kkk😂有点让人怜爱了ww然后中间还碰上了和河玟的对决，赌徒斑比把自己全部的金币都押上了可还行，最后惨败痛失所有家产kk [PLAVE切片中字｜人不要轻易赌博…蔡斑比血泪教训](https://www.bilibili.com/video/BV1Nh4y1B7PW/?spm_id_from=333.788.top_right_bar_window_custom_collection.content.click&vd_source=683accdf4a366c372d15625bf59c99d7) 这告诉我们一个道理：不要做亡命的赌徒！然后在玩游戏的时候，河玟时不时声带模仿，可爱的~什么时候也给我们的声带模仿天才小猫做个语音包！
 
 上次的赢家是艺俊，结果这次的赢家是斑比哈哈哈哈~所以，人生就像是这马里奥派对，总是起起落落落落落落起起落落落起的😆艺俊惨败，河玟不得不来一周的斑line，真是输了游戏也赔了猫啊哈哈哈哈笑死，最后艺俊倒在地上撕心裂肺的嘶吼一边吐泡泡好搞笑🤣  [【PLAVE切片中字】恭喜斑line新成员+1](https://www.bilibili.com/video/BV1Fw411F7be/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7)
 
-[【PLAVE/中字】231019 河玟加入斑line的始末（艺俊/斑比/河玟）](https://www.bilibili.com/video/BV1HH4y1d7YQ/?spm_id_from=333.788.top_right_bar_window_custom_collection.content.click&vd_source=683accdf4a366c372d15625bf59c99d7)
+[【PLAVE/中字】河玟加入斑line的始末（艺俊/斑比/河玟）](https://www.bilibili.com/video/BV1HH4y1d7YQ/?spm_id_from=333.788.top_right_bar_window_custom_collection.content.click&vd_source=683accdf4a366c372d15625bf59c99d7)
 
 <!-- endtimeline -->
 
@@ -436,9 +528,9 @@ https://weibo.com/7874735016/Noe6efTeu
 
 然后是斑line的正式宣布仪式！讲堂上面的幕帘也特地换成了斑比的头像！还有斑比也戴上了小蝴蝶头饰和彩带限时返场😂真的一眼看过去“哪里来的漂亮小姑娘呀”~👧然后斑比还帅气地跳了Siren和PTTR，难道这就是加入斑line的福利吗？我立马申请加入！🙋‍♀️  [PLAVE切片中字｜斑line祝贺公演｜特邀嘉宾斑比SIREN&DEVIL挑战现场版 @231013](https://www.bilibili.com/video/BV1xN411b7gs/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
 
-然后谈到银虎加入斑line的时候，感觉好不容易关上的柜门又被狠狠推开了...什么“两个人有种分不开彼此的感觉”、“有点是装着很讨厌，其实特别喜欢”，还得是4399超话的主持人南艺俊，带头给我们嗑糖！尤其是诺亚说的“两个人开出了爱情的花”最惊为天人...😦  [老夫老妻在线磕43/强烈的否定就是强烈的肯定/斑比银虎的爱情开花了?231013PLAVE直播 艺俊 诺亚 斑比_](https://www.bilibili.com/video/BV1sH4y1o7XW/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+然后谈到银虎加入斑line的时候，感觉好不容易关上的柜门又被狠狠推开了...什么“两个人有种分不开彼此的感觉”、“有点是装着很讨厌，其实特别喜欢”，还得是4399超话的主持人南艺俊，带头给我们嗑糖！尤其是诺亚说的“两个人开出了爱情的花”最惊为天人...😦  [老夫老妻在线磕43/强烈的否定就是强烈的肯定/斑比银虎的爱情开花了?231013PLAVE直播 艺俊 诺亚 斑比](https://www.bilibili.com/video/BV1sH4y1o7XW/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
 
-然后是游戏回！这次玩的游戏是《马里奥派对》~也可以叫《虚拟男团大战AI》，真的一波三折，反转反转再反转，在现场真的要笑死我了🤣结果万万没想到最后的赢家是艺俊kkk顺便一提，玩游戏时候的诺亚真的好娇啊，感觉一直在撒娇，真的好可爱💜 [PLAVE切片中字｜直击最后翻盘现场!!｜充满gas的感言环节 @231013](https://www.bilibili.com/video/BV1Gj411x7Ru/?spm_id_from=333.1245.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+然后是游戏回！这次玩的游戏是《马里奥派对》~也可以叫《虚拟男团大战AI》，真的一波三折，反转反转再反转，在现场真的要笑死我了🤣结果万万没想到最后的赢家是艺俊kkk顺便一提，玩游戏时候的诺亚真的好娇啊，感觉一直在撒娇，真的好可爱💜 [PLAVE切片中字｜直击最后翻盘现场!!｜充满gas的感言环节](https://www.bilibili.com/video/BV1Gj411x7Ru/?spm_id_from=333.1245.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
 
 <!-- endtimeline -->
 
