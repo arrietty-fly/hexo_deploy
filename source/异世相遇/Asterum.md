@@ -6,13 +6,47 @@ aside: false
 
 {% timeline 2023 %}
 
+<!-- timeline 12-18 -->
+
+<img src="Asterum/231218 MBTI.jpg" alt="231218 MBTI" style="zoom: 35%;" />
+
+加入了PLAVE的Weverse社区～第一次用这个app，然后就顺便也加入了红毛乐童五小妹叉姬的社区～
+
+点进去之后，发现了关于新mbti的测试结果，惊讶地发现艺俊尼居然变成了T人，反倒是诺亚变成了F人…还有斑比也从小蝴蝶变成了intj，虎子还是entp，队内唯一的e人，河玟终于澄清了其实是infj的事实…
+
+斑比的话，T的含量57%，J含量51%，感觉还是和原先的INFP差距不大，wvs上也是很多不相信斑比是intj的韩噗哈哈哈哈，不过艺俊的99％的J含量属实是惊讶到我了，这是得多自律的一个人啊…不过想想也确实，毕竟艺俊可是从不熬夜准时睡觉准时六点起床打扫卫生的人呢，自制力是真的很强…不过话说诺亚变成了F人，以后是不是都不能再说诺t啊了哈哈哈哈😂我就说嘛，看泡泡上诺亚经常深夜感性的样子，怎么会是T人捏哈哈哈哈大概一半一半了~又或者是在深夜做的mbti也说不定...
+
+<!-- endtimeline -->
+
+<!-- timeline 12-14 -->
+
+<img src="Asterum/231214.jpg" alt="231214 诺亚&斑比" style="zoom: 55%;" />
+
+久违的漂亮line在一起直播的日子！感觉上一次漂亮line一起直播都在六夏回归前好几个月了......
+
+刚开播俩人就在躺放，不得不说诺亚对躺放是真心的...最搞笑的就是斑比把两个凳子放在诺亚的身上，整了一个上下铺笑死哈哈哈哈哈，只能说两位的精神状态也和本人一样美丽呢😇等两人终于坐下来之后，视觉上一眼看过去感觉诺亚比斑比高了好多，是因为这个帽子的缘故吗哈哈哈哈哈😂
+
+然后还要庆祝的就是——《Merry PLLIstams》单曲视频在油管时下流行音乐板块中排行第一！🥳
+
+然后又突然起承转健身（漂亮line的话题十分跳跃，电波莫名契合，几乎没有一秒空音频…）银虎打来了电话，向首长汇报了自己今日的健身成果…想到虎子之前还在泡泡上说了一大堆关于健身流程的话题，甚至邀约噗哩一起去健身房约会xswl😂还是斑比心疼我，担心我做侧平举不对容易长斜方肌，“不做也很漂亮”哈哈哈哈～可以看出斑比真的很害怕噗哩们在应援时真做侧平举呢呵呵^^笑死了，诺亚还叫虎子洗澡时练习跳舞，说这样更能看清舞蹈线条…我只能说诺亚的脑回路总是那么清奇，总是能一本正经地说出奇怪的话，然后一旁的斑比表示出了“舞担の不解”哈哈哈哈🤣 [都银虎(热爱健身版)来电p(^_^)q｜“哥为什么让我洗澡的时候跳舞” ](https://www.bilibili.com/video/BV1664y1V7zX/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+然后艺俊也打来了电话，诺亚问到关于应援侧平举怎么样，艺俊反问有必要吗？然后诺亚立马就决定不做了哈哈哈哈，我发现了，诺亚只有在艺俊面前才会这么听话，接着艺俊还说只做30秒，艺俊你就宠他吧…最后诺亚还说“他说暖乎乎躺着在看，我的心也变得暖乎乎了呢”，这句话真的很难不让人磕椰奶 [艺俊来电（诺亚/斑比）](https://www.bilibili.com/video/BV1Ha4y1R7mj/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+然后是初雪的cha，笑死了两个人怎么挽个手都这么曲折，默契值为0😂不过最终的成果是很好看的，啊我真的很爱看漂亮line互动，请多多接触好吗🤗💜💗 [Bamby和Noah的初雪challenge!! （feat:挽个手有这么难吗啵line_](https://www.bilibili.com/video/BV17N411V74Y/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7)还有新歌的倍速舞蹈挑战，笑死了诺亚还尝试了四倍速居然还真有，两人奇怪的胜负欲开始了… [4倍速舞蹈挑战是第一次吧!Merry PLLIstmas舞蹈挑战](https://www.bilibili.com/video/BV1j94y1N73K/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+然后还有sc问到“5岁银虎vs5个银虎”，斑比无条件选择5岁银虎，诺亚也选5岁，原因是为了在虎子5岁时就让他练习舞蹈基本功，等虎子长大了就能当上舞蹈第二名了🤣至于rap和vocal“让他自己看着办”，笑死所以最终还是放养的吗哈哈哈哈 [“5岁银虎🆚5个银虎” ](https://www.bilibili.com/video/BV1mG411e7Wb/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 
+
+最后的游戏环节，玩了《卡比的美食节》和《快艇骰子》，这次真的看到了粉红的星之卡比，真的和斑比很像啊ww游戏全程两人的嘴就没停过…玩骰子的时候，诺亚还忽悠新手斑比，笑死我了最后还是输给了最后翻盘的斑比，赌狗到最后一无所有啊诺亚…
+
+<!-- endtimeline -->
+
 <!-- timeline 12-12 -->
 
 今天是《Merry PLLIstmas》Special Video出来的日子！从四点半就开始在平板面前蹲点了哈哈，好吧...其实在预告图放出来那天开始，我就开始期待着了，接下来的几天预告那几句旋律时不时就出现在脑海里😊~终于等到五点🕔️，先去网易云音乐看了一眼专辑封面，真的超可爱的！看过去就好像我家的五个胡桃夹子回家了，然后敲门说着“妈咪，是我～”😙
 
 <img src="Asterum/Merry PLLIstmas COVER.jpg" alt="Merry PLLIstmas 封面" style="zoom: 10%;" />
 
-然后是最重磅的MV了！开头的旋律导入部分，真的真的很像进入了童话世界，如同迪士尼动画电影般精致的渲染画面~🏰🌟然后是诺亚的神，仙导入，开口的第一句就很抓耳😇~之后特别是艺俊的低音，这个声线真的很好听！然后是诺亚和斑比的特写镜头，漂亮line真的很美很美ww然后切到全体镜头的时候，看到只有斑比的双脚不着地哈哈哈哈😄还有诺亚的低音配合着斑比的高音和声，漂亮line的牵手~
+然后是最重磅的MV了！开头的旋律导入部分，真的真的很像进入了童话世界，如同迪士尼动画电影般精致的渲染画面~🏰🌟然后是诺亚的神仙导入，开口的第一句就很抓耳😇~之后特别是艺俊的低音，这个声线真的很好听！然后是诺亚和斑比的特写镜头，漂亮line真的很美很美ww然后切到全体镜头的时候，看到只有斑比的双脚不着地哈哈哈哈😄还有诺亚的低音配合着斑比的高音和声，漂亮line的牵手~
 
 最最最有亮点的，就是斑比的bridge，那一点雪花❄️缓缓掉落在斑比的鼻尖，场景的灯光也暗了下来，这一刻仿佛就像歌词里的“全世界都停止的这个瞬间”，仿佛这一刻只有斑比在闪闪发光，配合斑比清透的歌声，真的很美很梦幻啊——！！之后还有五人的小品环节哈哈，可以叫做《诺亚公主择偶记》👸🏻✨️总之整个mv看下来，无论是音乐质量、画面、运镜、编舞都很完美！！！我很喜欢这个圣诞礼物~🎄🎁🥰
 
@@ -98,6 +132,70 @@ PLAVE Digital Single 'Merry PLLIstmas'
 
 <!-- endtimeline -->
 
+<!-- timeline 12-06 -->
+
+<img src="Asterum/231206.jpg" alt="231206 诺亚&银虎" style="zoom: 25%;" />
+
+久违的诺line合播～刚开播俩人就开始剧透圣诞曲，“我也来剧透一个”、“要不再来一个？”“我也再来一个”…你们noline是在参加剧透大赛吗！？不愧是剧透妖精韩诺亚旗下的noline啊真是无所畏惧，感觉能听到艺俊在背后喊“安怼——!!!”🤣然后果然艺俊就打电话来了，开口深吸了一口气也剧透了一段笑死，打不过就选择加入了吗艺俊啊😂这下笑得诺亚直接笑趴在地，虎子直接吓到穿模哈哈哈哈~然后在诺亚对艺line跑火车之后，河玟也打电话过来了笑死…是会准时收看哥哥们的直播，时刻警惕哥哥们跑火车的虚假放送，也是哥哥唱歌也会跟着一起唱的小猫捏～还会把唱歌的视频发给哥哥哈哈，哈特软软～
+
+然后斑比也打电话来了，声音传来的那一刻我还觉得恍惚，想着这是谁啊…？声音真的好低沉啊，完全没想到会是斑比，虽然好像那个情境下也只剩下斑比没打电话了，但是还是有些难以置信…这个声线感觉好像没睡醒哈哈，不过低沉的还挺sexy的，听说这段还上了韩趋哈哈，大家都觉得太攻了吗哈哈哈哈 [艺斑河来电合集（诺亚/银虎）](https://www.bilibili.com/video/BV1LN4y1a79j/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+聊到台历和新周边毯子，俩人又开始随地大小演，不得不吐槽一句，诺亚难道是oc大师吗？怎么又是paca又是posing，现在又是羊驼奶奶的…我愿称之为“诺亚宇宙”哈哈😇不过时空警察来此，台历还是售罄了啊喂，甚至因为订单量过大都要整一个单独生产线专门生产了，你们果然还是小看了噗哩们的强大购买力... [“不要担心台历售罄!都克尔·杰克逊会亲自用魔法制作!”](https://www.bilibili.com/video/BV14u4y1372Q/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+然后是KTV环节，还加了电音…最喜欢的是诺line合唱的《I'm not sorry》和虎子的《Red eye》～还有一首小黄歌《Oasis》，看直播的时候完全没听出来，俩人唱得一本正经的，虎子也有自动消音，有一说一，虎子憨憨的时候很憨很可爱，但是帅的时候也是真帅啊！然后这小黄歌的旋律也还挺好听的，不知不觉听了好几遍有点上头，虽然歌词是真的很涩涩😳[𝟐𝟑𝟏𝟐𝟎𝟔｜诺line电音KTV｜直播翻唱](https://www.bilibili.com/video/BV1sC4y1c7hN/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+<!-- endtimeline -->
+
+<!-- timeline 12-04 -->
+
+<img src="Asterum/231204.jpg" alt="231204 艺俊&斑比&河玟" style="zoom: 60%;" />
+
+今天有海豚声乐课的第二堂，练习曲是Love always run away～这次的学员依旧是斑比和河玟，感觉这次斑比没走神了哈哈哈哈，三个人的音色是真的好听呢~😇
+
+为了报答艺俊的师恩，接着就是恐怖游戏《Don't Scream》，笑死了哈哈，在此之前本来是说这次游戏玩马里奥赛车的，结果艺俊被傻乎乎地骗了，于是艺俊问道“我的声乐教室有什么做的不好的吗？”哈哈哈哈哈，甚至猫猫考虑到了玩一般的恐怖游戏会费嗓子，所以特地准备了安静的不怎么需要用嗓子的恐怖游戏，你人还怪好的咧哈哈哈哈，看到弹幕里有人说这是《猫的报恩》🤣🤣 [礼物开盒体验](https://www.bilibili.com/video/BV1se411o7KF/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+玩的时候，豆丝甚至还关灯了哈哈哈哈，海豚破防大叫哈哈哈哈，但是不得不说这个游戏还真挺恐怖的，场景做的非常写实，还真有种身临其境的感觉，我看直播的时候也有点害怕啊啊啊，感觉如果一个人玩这个游戏会很恐怖，身边要是有人一起那还好 [恐怖游戏完整版（艺俊/斑比/河玟）](https://www.bilibili.com/video/BV1m94y1j7vu/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+三个人玩恐怖游戏的反应挺有趣的，首先河玟一点都不害怕，甚至还一边看艺俊玩一边悠闲地唱儿歌 [在恐怖游戏里唱儿歌的哈民 ](https://www.bilibili.com/video/BV1AN411j7fS/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)到河玟玩的就像是速通版本，时不时还逗一逗害怕的哥哥们哈哈，特别有安全感捏～然后艺俊和斑比两个胆小鬼就不用说了，感觉全程都处于一种沉浸式的游戏体验中，草木皆兵一惊一乍的，我看着直播感觉游戏本身倒不恐怖，感觉他俩最恐怖…还有斑比，明明自己也吓得够呛，还老怪他哥一惊一乍的哈哈哈哈，到自己回合的时候还自信地说“我来展示一下通关”，果然天塌下来有斑比的嘴硬顶着呢😁
+
+<!-- endtimeline -->
+
+<!-- timeline 11-30 -->
+
+<img src="Asterum/231130.jpg" alt="231130 斑比&河玟" style="zoom: 45%;" />
+
+久违的舞蹈line～我莫名很喜欢这一对组合，难道是因为身高体型差的原因吗哈哈哈哈？如果从mbti的角度来看的话，小蝴蝶和绿老头还是挺出得来的组合呢，记得上次电台斑比也说自己和忙内的关系最亲，有时候忙内就像哥哥一样照顾自己，这个真的很难不磕!!!先插一段今晚很磕53的切片，事实证明小蝴蝶是无法抵抗直球年下的呢...小猫也是真的很会拿捏四个哥哥😇 [“哥是把我忘了吧”“看来只有我在意”|斑line现状](https://www.bilibili.com/video/BV13u4y1L7Sn/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 
+
+然后就是翻跳，真的很久没看到舞line一起跳舞了！[舞蹈line连跳16首 莫非他们真的是身体记忆天才？！](https://www.bilibili.com/video/BV1xc411q7vy/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 最喜欢的是斑比的姐姐真漂亮 [Bamby/蔡丰玖-《姐姐真漂亮》翻跳直拍](https://www.bilibili.com/video/BV1sG411q7YN/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 还有两人一起的Mmmm～[Bamby/蔡丰玖-《Mmmh》翻跳直拍](https://www.bilibili.com/video/BV1TG411v7xG/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+跳到一半的时候，作曲z的电话打来了！[误入花果山的电话连线…胡言乱语大派对…](https://www.bilibili.com/video/BV1Te411Z7D8/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 一接通电话就传来一阵一阵的怪叫，感觉有人又在剧透了哈哈…不过艺俊的一句话让我挺在意的，“我们是虚拟爱豆嘛，加油努力吧！”语气里面似乎有点无奈有点安慰的感觉…回头看了看切片的弹幕，大家都说可能是因为年末投票，他们因为是虚拟爱豆而被抨击的那件事…怎么说呢...我也看过那些黑子的帖子，言语里的恶意真的很让人恶心，甚至公然在广场上开盒…很心疼努力投票的韩噗，明明约好了联合投票，给别人送票了却还要被各方骂，事后连诚恳的道歉都没有，对面粉丝的素质也就这样了…但是最终结果，我们还是得到了MMA投票数第二名，并且和第三名拉开了2%的差距！这样下去，相信我们会越来越火的！！！
+
+然后诺亚还突然接了一句“斑比很漂亮”也很奇怪，队长就突然说要挂掉电话就走了…感觉很像是诺亚又在剧透什么，但是忙内一脸懵逼的表情，斑比好像懂了什么的样子，又说不是剧透…太难猜了！感觉这句话，难道诺亚是在指斑比的中之人长的很漂亮吗，有理由怀疑是这个意思…如果是这个意思的话，说明他们有看到那些公然开盒的帖子吗…？那他们心里该有多难受啊......反正不管怎样，你们五个都是很优秀很帅气的孩子！！！相信经过这一段风波之后，会有更多人认识你们，喜欢上你们并支持你们的，因为你们真的很棒很值得！！😢
+
+最后是合成大西瓜，见证历史的时刻，斑比日思夜想的大西瓜在今天终于合成了！！[蔡选手和柳教练齐心合力战胜大西瓜的一天 ](https://www.bilibili.com/video/BV1Ha4y1f7aW/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 玩之前还做了一个西瓜公约，合成大西瓜了就让诺亚买西瓜哈哈哈哈 [西瓜公约 成功了就让诺亚买西瓜 ](https://www.bilibili.com/video/BV1tH4y1179h/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)豆丝也是很宠，甚至今天还加班了，最后的ending song是西瓜颂，好可爱好欢快的歌曲，喜欢～[西瓜颂~最可爱的一集！！ 直播Ending Song](https://www.bilibili.com/video/BV1Qw41187w6/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 然后今天直播结束后，看到微博上推特上好多太太都纷纷画图庆祝了这历史性的一刻哈哈哈，画的都好萌啊！！
+
+一些太太们的贺图~😇🍉
+
+https://weibo.com/7880262404/4973908497793262
+
+https://weibo.com/5857049762/4973931733976880
+
+https://weibo.com/5940574740/4973904816767011
+
+https://weibo.com/6613460890/4973903763999313
+
+https://weibo.com/5656704668/4974446580599676
+
+https://weibo.com/1952207525/4973919217648355
+
+https://weibo.com/5143372154/4974138106317893
+
+https://weibo.com/6310409523/4973910682239686
+
+[【PLAVE直播回放全场熟肉】时隔半年的舞line直播在你的舒适点上爽跳 | 不玩出大西瓜就不结束的直播…？结果是](https://www.bilibili.com/video/BV1Yu4y1V7wG/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+<!-- endtimeline -->
+
 <!-- timeline 11-29 -->
 
 <img src="Asterum/seed.jpg" alt="诺亚 - 《Seed》（原唱：TaeYang）" style="zoom: 50%;" />
@@ -161,8 +259,6 @@ PLAVE Digital Single 'Merry PLLIstmas'
 翻唱的评论区里的一个评论也让我颇有感触：“水族馆可能也就是你的大海吗？今天看到一个演唱会现场爱豆们坐在花车上和粉丝们挥手的画面，突然就想到我们雾，好像做不到的时候心痛痛的。 但是听了你们的歌又好像被治愈了，不需要说什么，心意相通的话，我们也在看着同一片大海。”...是啊，PLAVE和PLLI所看向的，一直都是同一片大海啊，仅仅这一点，就足够了😢
 
 还有广告模仿环节，模仿了很多沙雕广告的台词和剧情，很惊讶居然能在这里看到章子怡哈哈哈  ["欧巴!"错了重来!"｜诺亚河玟广告三连播](https://www.bilibili.com/video/BV1Zc411B7tJ/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)  /  [河玟令人晕厥的广告演技+声带模仿](https://www.bilibili.com/video/BV1vw411n7Vg/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)  /  [小动物之间爱吵吵闹闹都是正常现象](https://www.bilibili.com/video/BV1hN411M73f/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)  /  [1551怼是要怼的 贴贴也不会落下](https://www.bilibili.com/video/BV1ye411f7R9/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 
-
-
 
 [【PLAVE直播回放全场熟肉】艺诺河放送 |《你的大海》初次公开&背后behind | PLAVE PPL PR时间 诺亚的带货助手竟是那位…？](https://www.bilibili.com/video/BV1uQ4y1t7Sm/?spm_id_from=333.788.recommend_more_video.-1&vd_source=683accdf4a366c372d15625bf59c99d7)
 
@@ -252,6 +348,8 @@ https://weibo.com/5145651854/Ntk2N4VRV 尤其是这一段亲亲电台的cut，�
 
 💙[蔡丰玖｜初雪小诗之解析](https://www.bilibili.com/video/BV1ev411c7kn/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)  最后是艺俊和斑比两人写的自作诗，关于初雪的！F属性大爆发，斑比真的是小蝴蝶🦋🦋https://weibo.com/7874735016/Nt24pDJsM
 
+[【plave全场中字熟肉】🫐🍓莓莓z双人播｜刺激又紧张的合成大西瓜游戏｜初雪小诗和高考礼物💙💗_](https://www.bilibili.com/video/BV1sb4y1T7JR/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 
+
 <!-- endtimeline -->
 
 <!-- timeline 11-17 -->
@@ -292,6 +390,20 @@ https://weibo.com/1789755462/NsES4hgT7
 
 <!-- endtimeline -->
 
+<!-- timeline 11-13 -->
+
+<img src="Asterum/231113.jpg" alt="231109 诺亚&银虎&河玟" style="zoom: 35%;" />
+
+今天的组合是诺亚&银虎&河玟，这个组合名应该叫什么？我知道了！就叫诺亚公主和他养的小猫和小狗吧～
+
+今天有羊驼的声乐教室！应该是羊驼的首次声乐课堂，很期待来着呢！！艺俊的声乐课堂，就像那种温柔耐心的幼师哈哈，很好奇诺亚是怎样的哈哈，想起之前河玟说起正式录音的时候流了很多汗，因为坐在那里的诺亚看起来很可怕很严肃的样子…所以我一直觉得诺亚在这方面是一个很严肃很严谨的人，所以也觉得如果诺亚来教课的话，估计会是那种恶魔导师一样的感觉…（Ps：但是认真工作的男人真的很帅啊啊啊——）
+
+不过很意外，今天的声乐教室诺亚也是很温柔细致的语气，一点一点地教给我们从开嗓到唱歌，虽然我听不懂韩语，但是看着感觉甜甜的～插入一些有意思的切片~[“逗你是因为喜欢你”by韩诺亚学长 ](https://www.bilibili.com/video/BV12Q4y1t7fQ/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) /  [“举一反三”都银虎｜“唱得超烂”哈米尼(◐‿◑)﻿ ](https://www.bilibili.com/video/BV1PG411D7iA/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)  / [都银虎的摇滚挑战/翻唱優里-参宿四(Betelgeuse) ](https://www.bilibili.com/video/BV14C4y1E7NV/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)  /  [你的每个瞬间 - 韩诺亚cover｜“哥你是哪个组合的?”“好巧啊我也是=(^.^)=”](https://www.bilibili.com/video/BV1Da4y1m76x/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)  /  [被诺slighting迷惑的45和豆丝](https://www.bilibili.com/video/BV12w411T7P8/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)  /  [确诊芝士语气 诺亚模仿show](https://www.bilibili.com/video/BV1zg4y1Q7wt/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)  
+
+然后又到了泡泡堂时间！[诺银河泡泡堂大战豆丝 ](https://www.bilibili.com/video/BV1Ea4y1D71a/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)这次还抓了三个正要下班的豆丝一起玩3v3，我真的看着全程要被笑死了，三个人菜菜的，赢了一局之后就开始狂妄自大挑衅豆丝s，最后被豆丝s连续爆杀，看来赢的那一局终究是被放水的哈哈哈哈，还能听到诺亚被爆杀后的嘤嘤嘤，堪称legend的一场~ [韩诺亚的碎碎念攻击/诺line与豆丝的爱恨纠缠/诺亚银虎](https://www.bilibili.com/video/BV14e411Q7x5/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+<!-- endtimeline -->
+
 <!-- timeline 11-09 -->
 
 <img src="Asterum/231109.png" alt="231109 艺俊&河玟" style="zoom: 45%;" />
@@ -316,7 +428,7 @@ https://weibo.com/1789755462/NsES4hgT7
 
 <!-- timeline 11-06 -->
 
-<img src="Asterum/231106.jpg" alt="231105 亲亲Radio 狗狗line" style="zoom: 70%;" />
+<img src="Asterum/1106.jpg" alt="231105 亲亲Radio 狗狗line" style="zoom: 80%;" />
 
 💜[漂亮line的“请多关照”｜斑line得到认可啦~](https://www.bilibili.com/video/BV1Az4y1K7wR/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 看得出斑比真的很喜欢诺亚给自己取的“粉红小个子”的称号，以及对斑line的执着哈哈哈哈，诺亚的嘴也真是很能扯...然后评论区大家说的“13有种新婚后爱的美感”，还有斑比每次牵手都是手背朝上等着别人来牵自己，阿一古...
 
@@ -333,6 +445,8 @@ https://weibo.com/1789755462/NsES4hgT7
 💜[GANG BEASTS菜鸡互啄_](https://www.bilibili.com/video/BV1ow411M7bM/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 熟悉的游戏！这下五个人都玩了一遍这个游戏kkk  
 
 💗[玩游戏的精神状态也很美_](https://www.bilibili.com/video/BV1gQ4y1n776/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)  斑比随地大小躺，把我给逗笑了
+
+[【全场中字】231106诺亚斑比銀虎 燃冬line S属性大爆发switch+蔡老师拟声词舞蹈课_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1LG411X7BN/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
 
 <!-- endtimeline -->
 
@@ -418,9 +532,9 @@ https://weibo.com/1789755462/NsES4hgT7
 
 难得看见VLAST卖二次元的吧唧，虽然是联动的kkk不过要等到年底的时候才线上发货，呜呜我知道等待是我的命运...
 
-| 吧唧 27 | 证件照 27   | 亚克力立牌 65 | 鼠标垫 33   | 珠珠钥匙扣 49 | 亚克力钥匙扣 43 |
-| ------- | ----------- | ------------- | ----------- | ------------- | --------------- |
-| 胶带 38 | 胶卷书签 22 | 抱枕 149      | 亚克力卡 82 | 明信片集 86   | 背景板 159      |
+| 吧唧 27 |  证件照 27  | 亚克力立牌 65 |  鼠标垫 33  | 珠珠钥匙扣 49 | 亚克力钥匙扣 43 |
+| :-----: | :---------: | :-----------: | :---------: | :-----------: | :-------------: |
+| 胶带 38 | 胶卷书签 22 |   抱枕 149    | 亚克力卡 82 |  明信片集 86  |   背景板 159    |
 
 <img src="Asterum/ANIPLUS.jpg" alt="PLAVE X ANIPLUS" style="zoom: 50%;" />
 
@@ -471,6 +585,8 @@ https://weibo.com/1789755462/NsES4hgT7
 河玟加入斑line的新特效“01开花”！然后是银虎看斑比的直拍的锐评反击时刻😆看这小子挑刺的样子 [【PLAVE】银虎的反击 reaction锐评斑比丨看这小子挑刺的样子丨《六夏》《Siren》《Love Lee》reaction斑比部分｜纯正43味](https://www.bilibili.com/video/BV1Ee411R7uv/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 还有网购零食，嗯嗯...应该可以看做是猫猫狗狗在网购自己的猫粮和狗粮吧~然后就是河玟舞蹈老师的授课时间，虎子今天学了三首歌哈哈哈哈 [PLAVE银虎&河玟直播在线教学如何翻跳教学RIIZE《Siren+Get A Guitar》](https://www.bilibili.com/video/BV1Ky4y1P7vn/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 然后还有Rap和清唱Loving You Girl（超爱！）[【PLAVE】RAPline的生唱实力是？？！|《RINDAMAN》&《loving you girl》](https://www.bilibili.com/video/BV1b94y1b7Gn/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7)
 
 最后的截图时间，竖屏的虎子真的好帅啊！❤‍🔥[PLAVE切片中字｜来自竖屏虎的冲击…有点承受不住了σ(^_^;) ](https://www.bilibili.com/video/BV1t94y1L7FV/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+[【自用全场中字】舞蹈review | 翻跳挑战实习 | 等候室零食购物 | 银虎河玟 ❤ 🖤 231020](https://www.bilibili.com/video/BV1bj411s7hB/?vd_source=683accdf4a366c372d15625bf59c99d7)
 
 <!-- endtimeline -->
 
@@ -534,6 +650,8 @@ https://weibo.com/7874735016/Noe6efTeu
 
 然后是游戏回！这次玩的游戏是《马里奥派对》~也可以叫《虚拟男团大战AI》，真的一波三折，反转反转再反转，在现场真的要笑死我了🤣结果万万没想到最后的赢家是艺俊kkk顺便一提，玩游戏时候的诺亚真的好娇啊，感觉一直在撒娇，真的好可爱💜 [PLAVE切片中字｜直击最后翻盘现场!!｜充满gas的感言环节](https://www.bilibili.com/video/BV1Gj411x7Ru/?spm_id_from=333.1245.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
 
+[【自存中字】斑line宣布仪式！首长们的马里奥派对 | 艺俊&诺亚&斑比💙💜💗 | 231013](https://www.bilibili.com/video/BV1PC4y1S7iS/?vd_source=683accdf4a366c372d15625bf59c99d7)
+
 <!-- endtimeline -->
 
 <!-- timeline 10-12 -->
@@ -589,11 +707,9 @@ To. 致世界上最珍贵的噗哩🎁
 
 今晚是制作人z~直播在线制作logo song，不愧是制作人line~尤其是虎子的绝对音感！😉
 
-不得不提的是，今晚的直播肉眼可见的来了很多新PLLI，弹幕跳得好快，根本看不过来，看来冰火歌会还是起到了一些作用hhh
+不得不提的是，今晚的直播肉眼可见的来了很多新PLLI，弹幕跳得好快，根本看不过来，看来冰火歌会还是起到了一些作用哈哈哈😂然后有一个点超好笑，就是艺俊说自己订阅了其他成员的泡泡，然后吐槽说成员的泡泡经常发“亲爱的”、“我爱你”等等这些腻歪的情话，真是五十俊笑百步虎哈哈哈，明明艺俊在泡泡也经常这样😂只能说你们三媚粉程度真是不相上下
 
-然后有一个点超好笑，就是艺俊说自己订阅了其他成员的泡泡，然后吐槽说成员的泡泡经常发“亲爱的”、“我爱你”等等这些腻歪的情话hhh
-
-真是五十俊笑百步虎哈哈哈，明明艺俊在泡泡也经常这样😂只能说你们三媚粉程度真是不相上下
+[【自存中字】作曲s之夜~ 艺俊&诺亚&银虎💙💜❤ | 231005](https://www.bilibili.com/video/BV1De411R7oX/?vd_source=683accdf4a366c372d15625bf59c99d7)
 
 <!-- endtimeline -->
 
@@ -694,6 +810,8 @@ CICF的特别舞台，PLAVE还准备了一小段的中文歌翻唱《月亮代�
 
 今晚玩了画风很可爱的双人小游戏《面包与年糕》，好久不见的游戏回！两支小企鹅尊嘟很可爱，尤其是收绳甩绳的时候~后面因为卡关了好久，豆丝实在看不下去，于是帮忙加上了外挂“无限跳跃”，直接一飞冲天直冲云霄山顶，真的又可爱又爆笑！🤣🤣   [【PLAVE短切】卡關了嗎？沒關係企鵝本來就會飛](https://www.bilibili.com/video/BV1du411c7c7/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
 
+[【PLAVE全场中字/中字熟肉】 NOAH诺亚&YEJUN艺俊 袋鼠格斗课程 六夏应援法 导唱泄露 2023.09.21](https://www.bilibili.com/video/BV1AG411e7sp/?vd_source=683accdf4a366c372d15625bf59c99d7)
+
 <!-- endtimeline -->
 
 <!-- timeline 09-19 -->
@@ -718,7 +836,9 @@ CICF的特别舞台，PLAVE还准备了一小段的中文歌翻唱《月亮代�
 
 模拟考试结束之后，斑比好不容易终于松了一口气，结果还有考试，这次是ASTERUM模拟考试🤣 豆丝们出的题都很有sense，比如“选出诺亚的羊驼的的所有能力”、“出道曲Wait for you歌词中等待着你一共出现几次”和成员名台词填空...笑死我惹🤣 [【PLAVE切片中字】成员也不会的Asterum模拟考｜只有斑比受伤的世界｜论诺亚的羊驼有多少能力｜河玟加入PLAVE最棒的一点是？](https://www.bilibili.com/video/BV19F411U71q/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 还有超可爱的斑比开花~！[PLAVE 中字切片|柳河玟：被斑比哥圈粉是一件很正常的事情|230914noah&bamby&hamin合播](https://www.bilibili.com/video/BV1cN4y1X7tu/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)🌸🌸
 
- 还有最后的KTV回！最喜欢的是诺亚的《Love always run away》[Love Always Run Away - 诺亚](https://www.bilibili.com/video/BV1pk4y1w76v/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7) 🎶然后今晚最惊艳的是斑比的超帅RAP！我先感叹一句六边形战士！🎙︎[PLAVE切片｜诺斑哈暴风RAP组 《当当当》｜蔡斑比RAP惹！！！ @230914](https://www.bilibili.com/video/BV1kh4y1w7Rd/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 
+ 还有最后的KTV回！最喜欢的是诺亚的《Love always run away》[Love Always Run Away - 诺亚](https://www.bilibili.com/video/BV1pk4y1w76v/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7) 🎶然后今晚最惊艳的是斑比的超帅RAP！我先感叹一句六边形战士！🎙︎[诺斑哈暴风RAP组 《当当当》｜蔡斑比RAP惹](https://www.bilibili.com/video/BV1kh4y1w7Rd/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 
+
+[【全场中字】230914诺亚斑比河玟 脑袋空空漂亮line天才小猫星辉艺高模拟考+放学后练歌房](https://www.bilibili.com/video/BV1sz4y1P7sB/?vd_source=683accdf4a366c372d15625bf59c99d7)
 
 <!-- endtimeline -->
 
@@ -773,6 +893,8 @@ For Eunho：
 然后今晚斑比、银虎、河玟和诺亚都打来了电话！📞尤其要说的是最后压轴的诺亚，一开口就整活装诺亚的爷爷可还行，笑死😂然后艺俊问诺亚要送什么生日礼物，弹幕的大家好有sense，什么送健身卡送蓝莓鸡胸肉奶昔的都有哈哈哈哈，然后诺亚清唱了一段生日歌，甜甜的~不愧是我嗑的椰奶🙋‍♀️ 然后还有河玟，还专门写了信给艺俊，署名是“PLAVE艺俊的粉丝河玟” 听完信的艺俊和河玟都有点哽咽😢大家都是很真诚的孩子...[【PLAVE切片中字】让艺俊爆哭的生日电话｜来自河玟最真挚的信｜要买劳力士的FLEX诺亚｜斑比前辈的暖心经验谈｜今天银虎是100%的艺Line](https://www.bilibili.com/video/BV1zh4y1Y7bH/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
 
  最后艺俊还写了一封信给PLLI ✉😢 [【PLAVE切片/中字💙】230912 艺俊 生日直播🎂 给噗哩们的信｜每天都很幸福的海豚🐬 约定要报答噗哩们珍贵的爱](https://www.bilibili.com/video/BV16z4y1j78b/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)  感谢你能称为PLAVE，感谢能够与你们相遇，感谢你们给予的真诚和爱，总是带给我快乐和温暖，要平噗啊💙
+
+[【PLAVE全场中字熟肉】💙南公主降临💙艺俊生日直播 🎂 PLAVE Yejun Birthday Live 🎂 💙 20230912](https://www.bilibili.com/video/BV1vp4y1A7X4/?vd_source=683accdf4a366c372d15625bf59c99d7)
 
 <!-- endtimeline -->
 
