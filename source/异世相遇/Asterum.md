@@ -6,6 +6,31 @@ aside: false
 
 {% timeline 2023 %}
 
+<!-- timeline 12-28 -->
+
+<img src="Asterum/231228.jpg" alt="231228 B站年度报告" style="zoom: 30%;" />
+
+B站的年度报告出来了！果不其然，年度视频是斑比的姐姐真漂亮翻跳，想起这个视频刚出来的时候真的一整天都在循环🥰直到现在也还是看不厌～然后今年也是把PLAVE刻入DNA的一年，至于那个乱入的“水浒传”哈哈，是因为家里的电脑B站上也是我的账号，我爷爷爸爸都是用我的账号在B站看的水浒传哈哈哈哈😂好吧，今年是被PLAVE霸屏的一年～
+
+<img src="Asterum/CP大选.jpg" alt="CP大选" style="zoom: 30%;" />
+
+今天还有官咖里年度CP的评选～居然能看到官方举办这种CP向的投票活动哈哈哈哈，今天看到推特上好多噗哩在给自己的CP做海报拉票哈哈哈哈😆感觉还挺有趣的～然后正好明天还是五人直播，不知道投票结果会不会当场公布，好期待明天的直播啊～既然如此，那我就押一个YATAZ第一，哥line第二吧～
+我当然是选了我的入坑初心4399了😊不过我感觉椰奶和莓莓z也很好磕～最近舞line也有点好磕，昨天还一起吃烤肉和一起睡觉了哈哈哈哈😇不过河玟好像四个哥哥家里都去过哈哈，也经常一起睡，这里就不得不提十分令人震惊的yeline边听你的大海边睡觉，还有诺亚和河玟睡觉听梦话了...河玟睡遍PLAVE（bushi）不过要说最意难平的一对CP就是漂亮line了，真的真的很希望漂亮line能够多一点互动和接触【恳求】，就是喜欢这种半熟不熟的感觉，强扭的瓜也挺甜的😋（磕！！都可以磕！！！）
+
+<!-- endtimeline -->
+
+<!-- timeline 12-27 -->
+
+<img src="Asterum/231227.jpg" alt="231227 狗勾ine" style="zoom: 55%;" />
+
+久违的狗狗line直播，印象里狗狗line一起直播还是在出道百日那时候，也相隔好久了呢～还换了台历里面的新衣服，弹幕有人说可爱有人说丑哈哈，我觉得这衣服吧…感觉确实是直男穿衣的风格，接下来我就不继续说了…话说背景后面的奖杯也多了好多啊泪目ㅠㅠ
+
+不过这俩人貌似对狗狗line这个说法存疑哈哈，虎子还在坚定自己的狼塑笑死，俩人还讨论起自己是属于什么品种的狗狗，要我说虎子对斑比犯贱的时候是西伯利亚哈士奇，对噗哩就是可爱软软的萨摩耶，艺俊就是高情商和智商还带点小心机的边牧～插一个艺俊对虎子调情的切片 [南艺俊媚弟媚噗哩 但表情太让人生气 咕咕z是网络小说男主人设 24喊话舞line我们基本技很好](https://www.bilibili.com/video/BV1Ye411z78E/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 虎子懵懵的好可爱，高攻低防好好笑啊…
+
+然后最近wvs上艺俊和虎子因为饭量的问题展开了激烈的讨论…虎子最近在努力减肥，所以吃的很谨慎 https://weibo.com/7889250653/4983684455467428 倒是艺俊一直在吃好吃的，真是羡慕这种怎么吃都不会胖的体质呐…引得某只小狗都要流口水了，真是罪大恶极呐…https://weibo.com/7882551693/4983676532431434 不过有一说一，虎子还是好好吃饭吧，想吃什么就吃什么吧，不用太逼着自己的...然后两人聊了一个小时的食谱，从周一到周三...话说你们五个最近在wvs上不是聊吃饭就是吃饭，该说你们难道是饭桶男团吗哼唧🤨
+
+<!-- endtimeline -->
+
 <!-- timeline 12-21 -->
 
 <img src="Asterum/melon & billboard.jpg" alt="melon & billboard" style="zoom: 30%;" />
@@ -20,6 +45,22 @@ aside: false
 
 <!-- endtimeline -->
 
+<!-- timeline 12-21 -->
+
+<img src="Asterum/231221.jpg" alt="231221 诺亚&河玟" style="zoom: 65%;" />
+
+久违的15合播～！但是今天的直播看似只有两个人，实则是五人直播哈哈哈哈，因为斑比艺俊虎子都来了～
+
+斑比是来一起玩马里奥派对的，笑死看得出斑比对这个游戏是真心的😂[透明人放送是流行吗🫥｜“粉红小个子只练了胸吧?!” ](https://www.bilibili.com/video/BV1Yw41147Dy/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 玩之前，诺亚还跟斑比说要空中漂浮哈哈哈哈，撒娇的语气…但是斑比抱不动诺亚哈哈，但是抱得动河玟，不过放下来之后喘得也很厉害啊哈哈哈哈，这一段真的很好磕，漂亮line请多这样接触好嘛呜呜🥺然后马里奥派对游戏过程中也有很多有趣的片段～[诺亚&河玟 你们不要再打啦！一场关系到全部财产的精彩对决 节目效果满分！（feat.拱火的透明莓莓z）](https://www.bilibili.com/video/BV1uG411k73g/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) / [河玟究竟做了什么让诺亚的沉默震耳欲聋？（feat.看戏狂笑的莓莓z）纯正1551风味 逗哥哥真的太好玩了](https://www.bilibili.com/video/BV12b4y1V7Xk/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 还有51的饭，感叹一句忙内已经知道怎么吃透诺亚这个家伙了哈哈... [队内爱憎关系的哥忙z直播TMI大放送 | 我们才不是破局z啊是天生一对 但是其他人我不好说 Noslighting大成功?](https://www.bilibili.com/video/BV1KN4y187PK/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) / [plave｜1551漫谈节选（上）家人们开饭了](https://www.bilibili.com/video/BV16j411H7LG/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 还有一个游戏《快艇骰子》也很有趣！今天两人的运气真的好到离谱，请问这是赌神和赌王的对决吗？！那么难骰的点数都能让他俩骰到了可还行，神奇的一局…
+
+最后又是白鹤，只能说斑比的西瓜、诺亚的骰子、河玟的白鹤都可以并称三大执念了啊喂！最后豆丝的精神状态也很搞笑，骑白鹤十分配合，还有河玟的那个“1”，看直播的时候真的惊叹豆丝的sense哈哈再加上弹幕大家发的霸道豆丝轻轻宠”更好笑了啊😂我证明，河玟129m我看到了！！
+
+刚好昨天还发了lmlm的翻唱，然后今天ending也是放了这首，还有生唱！[现场高音给我听傻了 (ﾟoﾟ;;｜结束曲LMLM](https://www.bilibili.com/video/BV1fi4y1a7ry/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 虎子如刀一样准的音准，还有诺亚的高音真的很惊艳！下播后还一直在刷这段切片，很喜欢～
+
+[【PLAVE直播全场中字熟肉】Noah&Hamin(？) 破局z的2023年发光的游戏TOP3（feat. 五人直播）](https://www.bilibili.com/video/BV1yj411J745/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+<!-- endtimeline -->
+
 <!-- timeline 12-20 -->
 
 <img src="Asterum/网易云音乐2023年度听歌报告.jpg" alt="网易云音乐2023年度听歌报告" style="zoom: 30%;" />
@@ -27,6 +68,22 @@ aside: false
 网易云音乐的2023年度听歌报告出来了～果然今年的年度歌手、年度专辑和年度歌曲都被PLAVE占领了哈哈，尤其是年度歌单的十首里就有八首是PLAVE的，连伴奏都进了年度歌单，不过有一说一，要不是数据截止到12月5号，我觉得最新的一首圣诞曲也能入年度歌单里面，因为我最近一直在循环听哈哈😇
 
 不过话说回来，今年我一共听了530首歌，但是年度歌单里八成还是我推哈哈，主要是我推的歌真的都是仙曲啊，请大家都来听吧～🥺不过因为我一般都很少在音乐软件上听歌来着，我听歌主要还是在B站上听哈哈，可以说现在网易云音乐软件就是我时不时用来循环我推的歌的工具了哈哈，本来以前还会时不时听一听日推来着…还是有点好奇今年B站的年度报告会是怎样的呢？🤔
+
+<!-- endtimeline -->
+
+<!-- timeline 12-18 -->
+
+<img src="Asterum/1218.jpg" alt="231218 艺俊&斑比&银虎" style="zoom: 25%;" />
+
+今天原来是T人的聚会…
+
+笑死，因为今天wvs上的新mbti引起了噗哩们的质疑，大家都觉得斑比不可能是intj，所以今晚的直播斑比直接当场重做了一遍题目哈哈哈哈，有一说一，我觉得这一次测估计又是完全不一样的结果，因为斑比的F/T和J/P的数字都是在50%左右，感觉是可以随时切换的那种…所以还是得看八维才对，但就是题量太大了，如果让诺亚来做的话不得烦死他啊哈哈😆
+
+然后最后测出的结果是intp，有点意外哈哈，看来小鹿你还有多重人格啊，又是infp，又是intj、intp的哈哈，就差一个infj就凑齐了呵呵^^😂测的过程也很有趣，旁边的虎子好像很了解斑比似的一直在说，到底这是斑比测还是虎子测啊？还是说这是你们xql秀恩爱的伎俩吗？🤔 [YATAZ是否天生缘分? ](https://www.bilibili.com/video/BV1E64y1p7oo/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 不过不管是infp/intj/intp，和entp的适配度都高达90%-100%，只能说真的很般配呢两位，不愧是我一眼就相中的CP😊
+
+还有游戏回，2023直播过的游戏Top3，玩马里奥派对的时候[年终游戏大盘点 马里奥派对游戏全程 12.18 ](https://www.bilibili.com/video/BV1he411B7dZ/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)斑比和艺俊一脸正经地诈虎子，屑屑的🤭 [腹黑莓莓合伙行骗，且看银虎如何脱险](https://www.bilibili.com/video/BV1qC4y1M7DF/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 三个屑哥哥又开始逗猫，质疑河玟的白鹤110m的成绩，于是河玟立马打电话过来了哈哈哈哈😂然后今天直播快结束的时候，河玟甚至还来了公司要当场证明自己的白鹤成绩哈哈，于是加班到了九点半，还是没能走到110m，但也最高走到了44m，这个游戏是真的难啊☹️怜爱了河玟，不过有一说一，屑哥哥们能不能别老调侃忙内了呜呜，我相信河玟没说谎…感觉河玟F人的话还是很在意别人的说法的，我曾作为infj也能体会，就是不太喜欢别人说我说谎造价，明明是清白的却还要被说成是虚假的，就很难接受，你可以说我不行但你绝对不可以说我在说谎，因为我根本没有说谎，开玩笑也不行…算了，毕竟也是节目效果嘛没必要当真，毕竟哥哥们都是T人啊河玟…
+
+不过说起来，哥几个玩白鹤游戏的神情感觉坚定地像是要入党似的，wb上还有噗哩做成了货币，说这是噗国货币，大家都好有sense啊哈哈哈哈笑死😂[PLAVE 白鹤游戏爱玩拦不住好认真 ](https://www.bilibili.com/video/BV19i4y1a7oP/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) /  https://weibo.com/6374331059/4981498513459323 还有最后豆丝的精神状态也很搞笑，骑白鹤十分配合，看直播的时候真的惊叹豆丝的sense哈哈 [今天直播的结束曲是《与白鹤同行》feat.河玟尼惨叫|231218yejun&bamby&eunho合播](https://www.bilibili.com/video/BV1M64y1p7Sp/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 真的很喜欢这种大家一起玩的氛围，这也是我为什么喜欢PLAVE的一个原因之一，就是公司和爱豆之间的关系很和谐很有爱，而不是像别的公司只是相互利益的雇佣关系…
 
 <!-- endtimeline -->
 
@@ -698,6 +755,14 @@ https://weibo.com/7874735016/Noe6efTeu
 
 <!-- endtimeline -->
 
+<!-- timeline 10-15 -->
+
+<img src="私语札记/卡比.jpg" alt="Letter" style="zoom: 25%;" />
+
+虽然买不起斑比的定制娃，但是买得起卡比！真的可爱~💗🍑🍓
+
+<!-- endtimeline -->
+
 <!-- timeline 10-14 -->
 
 <img src="Asterum/双厨狂喜.jpg" alt="双厨狂喜" style="zoom: 40%;" />
@@ -898,6 +963,33 @@ CICF的特别舞台，PLAVE还准备了一小段的中文歌翻唱《月亮代�
 
 <!-- endtimeline -->
 
+<!-- timeline 09-19 -->
+
+<img src="Asterum/泡泡.jpg" alt="BUBBLE with EUNHO" style="zoom: 70%;" />
+
+<img src="私语札记/BUBBLE with EUNHO.jpg" alt="BUBBLE with EUNHO" style="zoom: 70%;" />
+
+今天买了虎子的泡泡~！是很新奇的体验！以后可以每天和虎子说早安和晚安了🥰🥰
+
+（话说回来，本来是不打算买这个泡泡的，因为对这些并不感兴趣来着，每月还要花钱...但是当听说虎子最近因为黑子而不开心的时候，就立刻想要买虎子的泡泡了，因为想要每天告诉虎子PLLI真的很爱他，希望虎子能在满满的爱意里，不要在意那些恶言恶语）
+
+<!-- endtimeline -->
+
+<!-- timeline 09-16 -->
+<img src="私语札记/Letter.jpg" alt="Letter" style="zoom: 15%;" />
+信终于写好了！！！
+虽然想五人都写一封，奈何人工翻译很贵我又话痨，所以只写了给斑比和虎子的。还是第一次写这么多的韩语，浅浅记录一下～
+
+<!-- endtimeline -->
+
+<!-- timeline 09-15 -->
+
+<img src="私语札记/第六个夏天 With PLAVE.jpg" alt="第六个夏天 With PLAVE" style="zoom: 15%;"/>
+
+和PLAVE一起度过的第六个夏天，结束了～这次的小卡都好美！
+
+<!-- endtimeline -->
+
 <!-- timeline 09-14 -->
 
 <img src="Asterum/230914.jpg" alt="20230914 诺亚&斑比&河玟" style="zoom: 100%;" />
@@ -1026,6 +1118,22 @@ For Eunho：
 
 <!-- endtimeline -->
 
+<!-- timeline 12-29 -->
+
+<img src="Asterum/大海.jpg" alt="大海" style="zoom: 50%;" />
+
+<img src="Asterum/大海2.jpg" alt="大海" style="zoom: 50%;" />
+
+24号那晚的回归直播 Plave和vlast的大家 你们真的…真的真的很好😢
+
+真的最近核污水的事情让人很揪心，最失望的莫过于没有公众人物肯为此发声...
+
+但是PLAVE的大家真的很好，能在黑板上写下这句话，也算是发声了吧，心里起码得到了一丝慰藉
+
+看字迹大家说是艺俊写的，真的是天使呢...
+
+<!-- endtimeline -->
+
 <!-- timeline 08-28 -->
 
 <img src="Asterum/230828.jpg" alt="230828 斑比&银虎" style="zoom: 50%;" />
@@ -1118,6 +1226,14 @@ PLAVE首张mini专辑‘ASTERUM : The Shape of Things to Come’正式回归了�
 
 <!-- endtimeline -->
 
+<!-- timeline 08-14 -->
+
+<img src="Asterum/活着.jpg" alt="活着" style="zoom: 100%;" />
+
+斑比就是我活着的动力呐~
+
+<!-- endtimeline -->
+
 <!-- timeline 08-11 -->
 
 <img src="Asterum/230811.jpg" alt="230811 艺俊&斑比&河玟" style="zoom: 50%;" />
@@ -1146,6 +1262,14 @@ PLAVE首张mini专辑‘ASTERUM : The Shape of Things to Come’正式回归了�
 
 <!-- endtimeline -->
 
+<!-- timeline 08-10 -->
+
+<img src="Asterum/VLAST.jpg" alt="VLAST" style="zoom: 80%;" />
+
+VLAST迟早要把你们的白t都烧了🔥
+
+<!-- endtimeline -->
+
 <!-- timeline 07-17 -->
 
 <img src="Asterum/诺亚 - 参宿四 (Betelgeuse).jpg" alt="诺亚 - 参宿四 (Betelgeuse)" style="zoom: 12%;" />
@@ -1156,6 +1280,14 @@ PLAVE首张mini专辑‘ASTERUM : The Shape of Things to Come’正式回归了�
 诺亚现在能自由地做着喜欢的事，唱着喜欢的歌，做自己的音乐，得到了越来越多人的喜爱和认可，真好啊...
 
 [【翻唱】诺亚 - 参宿四 (Betelgeuse) (原唱 : 優里 (Yuuri) (Covered by Noah)｜PLAVE](https://www.bilibili.com/video/BV16P411k7zw/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+<!-- endtimeline -->
+
+<!-- timeline 07-16 -->
+
+<img src="Asterum/周边.jpg" alt="周边" style="zoom: 80%;" />
+
+YATAZ，出动！！！
 
 <!-- endtimeline -->
 
