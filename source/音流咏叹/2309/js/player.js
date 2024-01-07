@@ -54,10 +54,10 @@ class Musics {
         },
         {
             id: 5,
-            title: 'Someone like you',
-            singer: '苍穹',
-            songUrl: './songs/《someone like you》 瑞安Ryan feat.苍穹.mp3',
-            imageUrl: './images/songs/《someone like you》 瑞安Ryan feat.苍穹.jpg'
+            title: 'Your Ocean',
+            singer: 'Hoppipolla',
+            songUrl: './songs/Hoppipolla-Your Ocean.mp3',
+            imageUrl: './images/songs/Hoppipolla-Your Ocean.jpg'
         },
         {
             id: 6,

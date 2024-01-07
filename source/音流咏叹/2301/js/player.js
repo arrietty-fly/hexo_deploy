@@ -47,10 +47,10 @@ class Musics {
         },
         {
             id: 4,
-            title: 'Hurt',
-            singer: 'New Jeans',
-            songUrl: './songs/New Jeans-Hurt.mp3',
-            imageUrl: './images/songs/New Jeans-Hurt.jpg'
+            title: 'W/X/Y',
+            singer: 'Tani Yuuki',
+            songUrl: './songs/《W X Y》— Tani.mp3',
+            imageUrl: './images/songs/《W X Y》— Tani.jpg'
         },
         {
             id: 5,

@@ -40,10 +40,10 @@ class Musics {
         },
         {
             id: 3,
-            title: 'Checkmate',
-            singer: 'milet',
-            songUrl: './songs/milet「checkmate」.mp3',
-            imageUrl: './images/songs/milet「checkmate」.jpg'
+            title: 'GODS',
+            singer: 'NewJeans',
+            songUrl: './songs/GODS.mp3',
+            imageUrl: './images/songs/GODS.jpg'
         },
         {
             id: 4,
