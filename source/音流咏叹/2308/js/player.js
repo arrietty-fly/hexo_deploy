@@ -47,10 +47,10 @@ class Musics {
         },
         {
             id: 4,
-            title: 'Black Mamba',
-            singer: 'aespa',
-            songUrl: './songs/aespa Black Mamba.mp3',
-            imageUrl: './images/songs/aespa Black Mamba.jpg'
+            title: 'ətˈæk 0N tάɪtn',
+            singer: '澤野弘之&小林未郁',
+            songUrl: './songs/ətˈæk 0N tάɪtn.mp3',
+            imageUrl: './images/songs/ətˈæk 0N tάɪtn.jpg'
         },
         {
             id: 5,
