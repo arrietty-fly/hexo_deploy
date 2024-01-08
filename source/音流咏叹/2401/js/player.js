@@ -40,10 +40,10 @@ class Musics {
         },
         {
             id: 3,
-            title: 'Bon Voyage',
-            singer: 'YooA',
-            songUrl: './songs/YooA - 森林之子 (Bon Voyage).mp3',
-            imageUrl: './images/songs/YooA - 森林之子 (Bon Voyage).jpg'
+            title: 'みちしるべ（路标）',
+            singer: '茅原实里',
+            songUrl: './songs/みちしるべ（路标）茅原实里.mp3',
+            imageUrl: './images/songs/みちしるべ（路标）茅原实里.jpg'
         },
         {
             id: 4,
@@ -75,17 +75,17 @@ class Musics {
         },
         {
             id: 8,
-            title: '群青',
-            singer: 'YOASOBI',
-            songUrl: './songs/群青 YOASOBI.mp3',
-            imageUrl: './images/songs/群青 YOASOBI.jpg'
+            title: 'Summer Ghost',
+            singer: '夏日幽灵',
+            songUrl: './songs/《Summer Ghost》夏日幽灵.mp3',
+            imageUrl: './images/songs/《Summer Ghost》夏日幽灵.jpg'
         },
         {
             id: 9,
-            title: 'グランドエスケープ (Grand Escape)',
-            singer: 'RADWIMPS feat.三浦透子',
-            songUrl: './songs/グランドエスケープ (Grand Escape) RADWIMPS feat.三浦透子 .mp3',
-            imageUrl: './images/songs/グランドエスケープ (Grand Escape) RADWIMPS feat.三浦透子 .jpg'
+            title: 'Cardigan',
+            singer: 'Taylor Swift',
+            songUrl: './songs/cardigan - Taylor Swift.mp3',
+            imageUrl: './images/songs/cardigan - Taylor Swift.jpg'
         },
         {
             id: 10,
