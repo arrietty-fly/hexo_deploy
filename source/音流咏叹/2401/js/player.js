@@ -48,7 +48,7 @@ class Musics {
         {
             id: 4,
             title: 'Anthropic Greatness',
-            singer: '重返未来：1999',
+            singer: '重返未来1999',
             songUrl: './songs/《重返未来：1999》人之伟大  Anthropic Greatness.mp3',
             imageUrl: './images/songs/《重返未来：1999》人之伟大  Anthropic Greatness.jpg'
         },
