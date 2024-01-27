@@ -68,7 +68,17 @@ aside: false
 
 <img src="Asterum/240115.jpg" alt="240115" style="zoom: 40%;" />
 
-最近韩国很流行断句吗哈哈，泡泡和直播里都能看到，感觉还挺有趣的哈哈，五个人的断句情景剧都各有特色和笑点哈哈哈哈😆尤其是虎子的，已经很久没有看到虎子撒娇了哈哈，还是豆丝懂我爱看什么😉今天直播里斑比也有玩这个，糯米滋来咯~ [“这里有糯米糍出没~”｜太可爱是要被我吃掉的!!!](https://www.bilibili.com/video/BV1nT4y187fJ/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+最近推上很流行断句，感觉还挺有趣的，五个人都各有特色和笑点哈哈😆
+
+https://weibo.com/1952207525/4989375161830028
+
+https://weibo.com/6856954043/4990257858610159
+
+https://weibo.com/6591628792/4988298133244682
+
+https://weibo.com/6591628792/4990265693832119
+
+尤其是虎子的，已经很久没有看到虎子撒娇了哈哈，还是豆丝懂我爱看什么😉今天直播里斑比也有玩这个，糯米滋来咯~ [“这里有糯米糍出没~”｜太可爱是要被我吃掉的!!!](https://www.bilibili.com/video/BV1nT4y187fJ/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
 
 今天直播里的舞蹈接力的游戏也很有趣 [“isolation不能停”|奇怪的舞蹈基本功接力第一名](https://www.bilibili.com/video/BV1kW4y1c7gg/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 很考验人的记忆力，我承认我的记忆力和斑比差不多，都是七秒钟的记忆…还有随机舞蹈 [随机舞蹈哪家强｜什么都会柳河玟｜一点不累蔡斑比｜非常完美韩诺亚](https://www.bilibili.com/video/BV1Fa4y127JG/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 很惊讶河玟居然每一首都能跳，记忆力是真的很强！其实从河玟能精准记住直播中的每一个梗，以及记得很多有趣的梗很有sense这一点看来，就觉得河玟的记忆力很好了哈哈😊随舞的时候很有趣，诺亚在其中浑水摸鱼，总是虚晃一枪，自信地进场，之后又自信地瞬间退场哈哈哈，真是为难我们诺亚了哈哈哈，瞬间就回想起了3why那时候，也是在斑比的游乐场，也是和舞line在一起跳舞，那时候把公主累的坐在板凳上一动不动，仿佛失去了灵魂的样子哈哈哈哈😂不过今天的随舞，公主主打一个气氛组就完事了~放几个舞蹈切片~[Elevator/电梯 challenge蔡斑比](https://www.bilibili.com/video/BV1o5411i7vW/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) / [斑比这段十分钟速成的Perfect Night](https://www.bilibili.com/video/BV1vt4y1R7We/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) / [可爱](https://www.bilibili.com/video/BV1vt4y1R7n1/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) / [Like I Do](https://www.bilibili.com/video/BV1CK4y1z7ok/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 
 
