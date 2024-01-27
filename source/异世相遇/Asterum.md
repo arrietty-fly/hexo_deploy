@@ -6,6 +6,46 @@ aside: false
 
 {% timeline 2024,orange %}
 
+<!-- timeline 01-25 -->
+
+<img src="Asterum/24012502.jpg" alt="240125" style="zoom: 45%;" />
+
+刚开场就是双簧哈哈 [不是双簧是声带模仿！|南斑比和韩河玟出没](https://www.bilibili.com/video/BV18w411j7vm/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 原来你们五个今天一整天都待在一起啊😃今天的主题是选取理想型世界杯，听到了好多歌的翻唱，虽然只有片段，不过也很满足😇[艺俊清唱《去看星星吧》一小节feat.麻烦女友（？）诺亚](https://www.bilibili.com/video/BV1tK4y117W5/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 这一段有点搞笑哈哈😂今天也有剧透，但不多，只知道周二五人在一起做了什么，还一起吃饭哈哈 [剧透周二五人赛百味吃饭有神秘日程？诺亚金鱼记忆力 算不清楚一周见了几面 也不知道做了什么](https://www.bilibili.com/video/BV18Q4y1c7gD/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) / [ASTERUM（暂时）未解之谜——艺俊的鲸鱼朋友去哪儿了|20240125*会是剧透吗](https://www.bilibili.com/video/BV1964y1w7nu/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 然后场景里的鲸鱼也全都不见了，时空缝隙也回到了出道前的状态，感觉确实这次回归和时间倒流有关，果然哥五个要去拯救世界了吗！
+
+<!-- endtimeline -->
+
+<!-- timeline 01-25 -->
+
+<img src="Asterum/240125.jpg" alt="棉花娃娃抢到!" style="zoom: 45%;" />
+
+开心！因为不放心足足定了三个闹钟，准时准点蹲守着微店的预售，终于让我抢到诺亚斑比银虎的棉花娃娃了~🥰🥰说起来这还是我第一次抢预售，看群里足足有一千个人，我就知道不简单，预售开始后三分钟就销量突破五百下架了诺亚和银虎，七分钟后斑比下架，实在是惊险…期待娃娃到家的那天，噢噢还要买好看的娃衣~以后可以抱着一起入睡吗！
+
+<!-- endtimeline -->
+
+<!-- timeline 01-22 -->
+
+<img src="Asterum/240122.jpg" alt="240122" style="zoom: 45%;" />
+
+今天的直播一开门，就看到虎子穿着灰色的卫衣哈哈哈哈，和旁边坐着的斑比穿着情侣装可还行😂感觉是不是VLAST运营有人看到那条吐槽了啊哈哈，之前就有人说虎子穿秋季校服里面还要穿黑卫衣，然后平常也黑卫衣单穿，有人说这黑卫衣都要穿臭了哈哈哈哈🤣挺好的，虎子的冷白皮也挺适合灰卫衣的，感觉衬着旁边的斑比的皮肤更粉了哈哈😗真的好粉啊斑比，全身上下都粉粉的kk
+
+然后看场景是练舞室，我就知道今天的直播不简单，看来今天轮到虎子的受难日了哈哈😂今天虎子的舞步还是那么绚烂和繁忙，感觉全场舞蹈我只看得见虎子啊啊啊——但是没关系，跳舞最重要的就是自信和气势！[舞蹈课的正确打开方式](https://www.bilibili.com/video/BV1X94y1K7EA/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) / [不知道為什麼覺得這段很好笑](https://www.bilibili.com/video/BV12Q4y1F7g1/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) / [银虎的地板必杀技](https://www.bilibili.com/video/BV1dZ4y1J7qJ/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) / 
+
+今天又狠狠磕到了4399！[“怎么不打电话给我”“哥你喜欢斑比哥吗” ](https://www.bilibili.com/video/BV1GV41197Fb/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 总结来说就是虎子爽约了斑比，斑比打了电话给河玟叫他来自己家哈哈，然后虎子还在泡泡上说“唯一感到冷的时候 就是被人遗忘的时候”（这句话还莫名有点非主流...？）所以这到底是什么燃冬？尤其是河玟直接问“哥你喜欢斑比哥吗”，真的好直截了当啊哈哈，感觉艺俊都没这么敢嗑哈哈哈哈🤣还有一个片段 [你們yataz把我跟河玟嗑暈了](https://www.bilibili.com/video/BV1zN4y1H7pR/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 把斑比写进歌词，斑比又给这段rap词编舞，我就不多说了，直接4399锁死😇🔒 [银虎爸妈评银虎跳舞：已放弃😀_](https://www.bilibili.com/video/BV1JZ4y1n7cQ/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 还有这段，想不通虎子为什么要斑比对你爸爸妈妈说些什么呀？[yataz和和美美](https://www.bilibili.com/video/BV1JT4y1b7Mn/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 然后今天的yataz也吵架了，纯正43味，看河玟好像已经习惯了哈哈哈哈
+
+最后还有一个另类的节奏游戏 《Bits & Bops》，还挺有趣的~而且看得出斑比对游戏是真心的，一遇到游戏就变得异常认真和激动...[今天的目标是 粉碎键盘！！](https://www.bilibili.com/video/BV18K411Y7k7/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 键盘：我觉得我还可以抢救... [論斑比玩節奏遊戲玩得多開心｜叭叭叭｜唉咕｜爽朗的笑聲｜哈敏尼的小學生哥哥](https://www.bilibili.com/video/BV1HN4y1H724/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 
+
+还得知了一些斑比的TMI [用嘴听古典音乐？但每天合成大西瓜的感性谁懂](https://www.bilibili.com/video/BV1Ca4y1k7bL/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 原来这家伙其实天天都在玩合成大西瓜😅而且到底为什么吃炸鸡必须得配古典音乐？？还是哈尔移动城堡的哈哈笑死，你小子其实一直都是infp吧！！还有帅气的舞步~ [谁懂斑比这段freestyle有多帅！](https://www.bilibili.com/video/BV1PQ4y1A7yR/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) / [杀疯了！虚拟爱豆自编舞蹈的水平！甚至配乐还是队友的自创rap！](https://www.bilibili.com/video/BV1t5411y7Uo/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 
+
+<!-- endtimeline -->
+
+<!-- timeline 01-20 -->
+
+<img src="Asterum/240121.png" alt="棉花娃娃~" style="zoom: 15%;" />
+
+第一次迫切地想要拥有一只棉花娃娃🥺以前一直不解为什么会有人买个棉花娃娃爱不释手的，难道是变态和恋物癖吗？没想到现在终于还是轮到了我…但是这两只诺亚和斑比的娃娃真的好可爱ww即使一只就要89元人民币，但还是请上天保佑我能够抢到成团拜托呜呜😭😭
+
+<!-- endtimeline -->
+
 <!-- timeline 01-20 -->
 
 <img src="Asterum/240120.jpg" alt="240120" style="zoom: 35%;" />
