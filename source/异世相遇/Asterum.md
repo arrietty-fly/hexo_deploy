@@ -6,6 +6,20 @@ aside: false
 
 {% timeline 2024,orange %}
 
+<!-- timeline 02-10 -->
+
+<img src="Asterum/240210.jpg" alt="公主生日快乐！" style="zoom: 80%;" />
+
+今天是除夕-春节，也是诺亚公主的生日🎂💜生日快乐！我的公主~
+
+今晚公主准备了好多歌曲 [《韩诺亚的生日礼物》《Liar韩诺亚》《是噗哩的生日才对》](https://www.bilibili.com/video/BV1nu4m1K7wx/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 这对我的耳朵很好😇据说一直忙到了第二天的早上七点才睡，泡泡上七点发的泡泡看似刚起床打招呼，实则是刚忙完准备去睡了啊啊，精心准备礼物的公主真的很好~🥺 [七点早安大揭秘｜危险的爱幕后花絮](https://www.bilibili.com/video/BV1JC411476R/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 还有这个王冠也很霸气很好，虽然和我预想的不太一样，但是莫名很符合诺亚那超凡脱俗的气质（？然后今天其他成员都打了电话来 [都银虎来电☎️｜“我爱你” ](https://www.bilibili.com/video/BV1xU421o7rw/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) “哥 我电话可以打久一点吗” 这句话真的好戳好甜好小狗🥰看得出诺亚是银虎很依赖的哥哥呢，是亦师亦友的存在，真好啊~一辈子能够遇见这样一个人在身边真的很珍贵啊！还有斑比的来电 [蔡斑比来电㊗️｜你们漂亮line( ; _ ; )/~~~](https://www.bilibili.com/video/BV1Np421o7UR/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 我发现真的，斑比在诺亚面前真的很娇，经常会看到他难得撒娇的样子呵呵，今天漂亮line也变熟了很多，黏黏糊糊的嘿嘿~💜💗今晚河玟也来了[“我不是说了要去见家人吗”|河玟尼惊喜登场](https://www.bilibili.com/video/BV1CB421z7e8/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 还亲手画了羊驼蛋糕送给诺亚，是很亲的家人呢~ [柳河玟“我那连蜡烛都吃的寿星哥哥”](https://www.bilibili.com/video/BV1xH4y1h7CG/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)  话说我在直播中途才发现右边还有上次五人合播的乡下桌子哈哈哈哈，诺亚说是魔法失灵了，所以传送到了宫殿里哈哈哈 [韩诺亚魔法失灵之乡村桌子in宫殿](https://www.bilibili.com/video/BV1Ly42187js/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 书接上回了是吗，很有sense的大家呢😂 插入一个噗哩们去诺亚生咖的vlog~ [NOAH广州0127生咖，let’s go!！(⁎⁍̴̛ᴗ⁍̴̛⁎)](https://www.bilibili.com/video/BV1ux4y1f7DV/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) / [带韩娱铁子感受一下二棒的生日线下 Noah生日快乐！](https://www.bilibili.com/video/BV1tK421C7Er/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 
+
+最后ending song的时候，被诺亚骗了！只见公主一脸平静的样子假装放的是原唱，实则是凌晨和斑比一起录音的新Cover《Dangerously》！！虽然一下子就听出来了诺亚的声音，但是一开始还是有些不敢确信哈哈，直到斑比的声音出来之后真的很激动！这是斑比和诺亚的第一首合唱啊啊啊——我们漂亮line背着我偷偷变熟了，真不错啊真不错~😇 [ Noah & Bamby Cover - dangerously ( 原唱：Charlie Puth )](https://www.bilibili.com/video/BV13t421a7ZY/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 两人唱得好有宿命感，感觉都能感受到那种撕心裂肺的互相纠缠的爱情剧！下播后立马找切片单曲循环了，一直等到公主把音频发在wvs上，又不知不觉到凌晨了，但是真的太好听了，怎么听也听不够啊呜呜——
+
+[【PLAVE/全场中字】240209 诺亚公主的生日直播｜漂亮line《dangerously》翻唱初公开](https://www.bilibili.com/video/BV1yz421d7t8/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+<!-- endtimeline -->
+
 <!-- timeline 02-07 -->
 
 <img src="Asterum/020701.jpg" alt="虎子 泡泡" style="zoom: 20%;" />
@@ -25,6 +39,22 @@ aside: false
 <img src="Asterum/0207.jpg" alt="1341-1" style="zoom: 30%;" />
 
 至此，A版的五人概念照就齐全了！最喜欢的是虎子这张~但是看到很多人还是表达了不满，说太素了，想要色彩更华丽、配饰更丰富的服装...但是说实话，他们到底是韩国男团，形象虽然是三渲二，但本质是现充啊，对于一年四季只穿黑白灰棕的韩国人，你还能指望他们能穿出多鲜艳华丽的服装啊？？搞清楚，这里不是日本的二次元，他们穿的衣服一定是要符合本次回归专辑概念的，而不是单纯好看华丽就够了的啊！而且以我对他们的了解，他们要是穿着日偶的那些华丽服装和配饰，我反而觉得很奇怪很尴尬，只能说日漫和韩漫真的是两个世界，你不能一味地追求趋同啊，你也得看合不合适啊！我早就想说了，这些纯二次元粉丝，到底什么时候才能明白这一点？？如果接受不了这一点的话，请离开。
+
+<!-- endtimeline -->
+
+<!-- timeline 02-07 -->
+
+<img src="Asterum/240207.jpg" alt="1341-1" style="zoom: 30%;" />
+
+久违的五人直播！💙💜💗❤️🖤我说今天怎么突然又回乡下了，原来今晚游戏里有狼人杀哈哈，豆丝做的天黑请闭眼的白天黑夜切换挺不错~还有雪地的脚印也挺不错，这个技术之前我只在米哈游的鹿鸣直播那里看到过，不过差别就是雾这里的雪似乎是细软的，用脚踩雪雪会化作水融化，鹿鸣那里的雪是带点重量的积雪，不过都挺自然的应该就是南方雪和北方雪的区别吧~看来VLAST的技术还是不错的，虽然老是被大家吐糟技术总是用在一些意想不到的地方哈哈😂看到雪融化变黑，莫名就想起斑比初雪时作的诗了哈哈~
+
+第一环节玩的游戏是谁是卧底 [谁是卧底游戏cut](https://www.bilibili.com/video/BV16642137CS/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 只能说哥五个真的太了解彼此了笑死，谁是卧底只需要一个眼神就能知道哈哈哈哈🤣根本藏不住一点！[你们属于是谁偷偷放了屁都能一眼看出来😀💦_](https://www.bilibili.com/video/BV1bp421R7Xk/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 尤其是yataz当卧底的时候，互相一个眼神就知道卧底是彼此，你们这...太离谱了吧，直接4399❤️💗印象深刻的片段主要有：卧底虎子猜到panda但被队友骗改答案，聪明但单纯的小狗~[聪明小狼~在线答题~｜单纯易被骗的ENTP](https://www.bilibili.com/video/BV15x4y117Rd/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) / 斑比开局被识破卧底身份，然后其他人都在逗斑比，斑比还在那里嘴硬🤣 [斑比开局即输 被玩弄了一整局](https://www.bilibili.com/video/BV1Nv42127Dp/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 在那里偷偷扳手指数数也太可爱了吧ww😊 [卧不了一点/美美上当/只有蔡斑比一人受伤的世界/偷偷掰手指数数/萌](https://www.bilibili.com/video/BV1px4y117Vs/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) / 插一个帅气思考的小狗 [都银虎 又乖又帅的小狗](https://www.bilibili.com/video/BV1ku4m1N7va/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) / 韩诺亚，一个单纯的结晶体哈哈，还有一个重大新闻，韩诺亚他终于哭了！但是是笑哭的哈哈😂 [谁家好人玩谁是卧底能哭成这样](https://www.bilibili.com/video/BV1D7421N7mU/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)/[韩诺亚一败涂地](https://www.bilibili.com/video/BV1eK421C7WY/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 话说这段虎子给狼的提示词是“永远的爱”，说因为公狼一生只爱一头母狼，就像他一辈子爱PLLI...我的天，虎子真的好会，听到这句话的时候，我真的有心动😳虽然我一向不相信什么“永远”、“一辈子”这种话，但是在PLAVE这里我听到了太多永远在一起的告白和誓言，无论最终结局如何，我们在一起的现在，这个瞬间，对于我来说就是永恒的，我们在一起的那些回忆是永远不会消逝的，在我们的心里永远保存着。
+
+第二个游戏是黑手党游戏，也就是狼人杀~[黑手党游戏cut](https://www.bilibili.com/video/BV1dy42187kD/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 第一局五人就在那里自爆身份笑死，虎子也是顺着直接说自己是黑手党，请问你们是在玩真心话大冒险吗，就看说出来你信不信是吗😂[他真的是狼 | 黑手党与医生双向奔赴 ](https://www.bilibili.com/video/BV1kC411x7qg/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)结果最后没想到虎子赢到了最后，第一个黑夜就迫不及待地把你斑比哥杀了，然后在那里幸灾乐祸笑个不停，让你做黑手党还真是爽到你了~最后一个夜晚，虎子杀医生艺俊，艺俊保护黑手党虎子，真是drama啊哈哈哈哈，何尝不是一种医生和黑手党的双向奔赴呢😂 还有诺亚黑手党这一局也很有趣 [“到底谁是医生？”“我是医生吗？” ](https://www.bilibili.com/video/BV1WB421r7E7/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 斑比第一夜就被刀了，然后坐在雪地里放生自己笑死，最后结束大家都在问医生是谁，找来找去直接忽略了一旁的斑比笑死，因为死得过于早而被遗忘哈哈哈哈，一点游戏体验感都木有🤣而且不得不说诺亚公主的直觉真的好准，每一局都精准猜到黑手党是谁 [黑手党游戏｜无限直觉的公主和无论怎么样都会先出局的心碎限定小熊｜粗剪](https://www.bilibili.com/video/BV17u4m1K7VY/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 最惨的莫过于斑比了，无论是做黑手党还是平民医生，老是最先出局哈哈哈，简直毫无游戏体验，尤其是被自己的开花特效暴露黑手党身份的这一局超搞笑 [因过于华丽的特效音惨遭淘汰的蔡斑比](https://www.bilibili.com/video/BV11Z421z7TC/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 然后今天诺亚公主的笑声也是几乎贯穿全场哈哈，感觉每个切片都能听见背景bgm公主的笑声~最后插入斑比又一个10w播放量的出圈视频 [蔡斑比好！雪球坏！](https://www.bilibili.com/video/BV1gJ4m1t7QD/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 路人都觉得超可爱~😙
+
+最后大家一起堆雪人很好玩~[和噗拉夫雪宝的合影 制作过程艰难 诺亚找树枝眼花却怪下雪 斑比和雪宝合为一体 银虎不会滚雪球](https://www.bilibili.com/video/BV1ap421o75E/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 斑比这家伙又开始了，看到雪人没有脚所以自己和雪人融为一体了是吗哈哈，太可爱了😇还有最后大家一起在雪地里打滚的画面也很温馨 [今晚最爱的画面♡能喜欢你们真好(;_;) ](https://www.bilibili.com/video/BV12C411x7c5/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 我爱你们~💙💜💗❤️🖤
+
+[【240207 PLAVE 全场中字】谁是卧底/黑手党游戏 久违的五人直播](https://www.bilibili.com/video/BV1EA4m1G7gx/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
 
 <!-- endtimeline -->
 
@@ -62,6 +92,22 @@ aside: false
 
 <!-- endtimeline -->
 
+<!-- timeline 02-02 -->
+
+<img src="Asterum/240202-1.png" alt="240202" style="zoom: 35%;" />
+
+<img src="Asterum/240202-2.png" alt="240202" style="zoom: 35%;" />
+
+等待了很久的yataz❤️💗合播~整场直播看下来，两人的氛围真是...不说了，直接4399😊第一个环节是给对方设计服装穿搭，两位的画技只能说实在是抽象...[一种新型的非物理打架方式 看懂的人都哭了](https://www.bilibili.com/video/BV15J4m147Y8/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 两人画彼此的时候，表面看起来气氛平和，实则两人暗地里较劲哈哈哈哈🤣全场最抽象的莫过于第二轮斑比画的虎子狗勾，笑死了...一个画雪人一个画狗，你们还记得这个环节是设计服装穿搭吗？？直到第三环节两人终于开始正经画了，虎子的服装穿搭配色还挺高级的，挺有Y2K的风格~斑比画的也不错，还把第二轮画的狗勾循环利用可还行😆
+
+今天玩的游戏🎮️是拆弹游戏《保持交流就没人爆炸》[YATAZ拆弹专家 欢喜冤家的合作游戏](https://www.bilibili.com/video/BV1CK42117wE/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 我还是第一次听说这个游戏，据说是合作游戏，一个人负责看画面拆弹，一个人只看说明书，需要彼此互相交流提供信息，在有限时间内把诈弹上的所有机关拆除。感觉还挺有趣的游戏，每次都能在这里发现好玩的游戏真好，长见识了~😊只能说yataz不愧是yataz，玩合作游戏真的挺有默契的，而且虎子也是真的牛逼，说明书那么复杂，第一次看居然那么快就能解出来，换我看那么多字和图画都要晕过去了...只能说不愧是虎子，解密的时候认真严肃的样子也是真的好帅啊谁懂😢
+
+最后的截图时间我一定要说一句，虎子和斑比的身高差真的太萌了...虎子把斑比揽过来的动作，结合这斑比的游乐场场景，还穿着同样蓝色系的休闲服，颇有一种小情侣来游乐场约会游玩的既视感谁懂...今天还有一个磕糖点[楚门的世界中最明显的NPC 开头2分钟互看了27次？是一定要对视才能说话吗](https://www.bilibili.com/video/BV1MZ421r75e/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 斑比说这是楚门的世界，豆丝是演员，虎子是“让自己混乱的角色”😋
+
+[【240202 PLAVE 直播全场中字】Bamby&Eunho 斑比银虎 画画 拆弹游戏 4399](https://www.bilibili.com/video/BV1tU421o7Gc/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+<!-- endtimeline -->
+
 <!-- timeline 02-01 -->
 
 今天刷豆瓣小组群时，看到讨论概念的帖子下面，有人贴出了这个分析...
@@ -78,6 +124,14 @@ aside: false
 
 <!-- endtimeline -->
 
+<!-- timeline 01-29 -->
+
+<img src="Asterum/240129.jpg" alt="240129" style="zoom: 65%;" />
+
+今天玩的游戏是IQ游戏 《Q REMASTERED》🎮️看他们三个动脑筋的样子，直播间有小笨蛋！🤭 [【PLAVE】南艺俊画了一把大的｜老师啊下次这种智商游戏我们外星人小班就不参加了](https://www.bilibili.com/video/BV1UT4m1U7Ez/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 然后还有给表情包填字，弹幕的大家都好有梗笑死🤣🤣 [不是我说中噗的弹幕这么有sense的吗？](https://www.bilibili.com/video/BV1Y5411C7Vk/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 不过这个环节据说韩噗那里有人不满的，还打sc跳脸说这个环节很无聊，骂豆丝没有好好策划直播环节，总是让成员自己发挥...但是说实话，我早就忍某些人很久了，某些人呢当他们是什么？是来取悦你让你开心的杂耍演员吗？只要直播有一个环节让你觉得无聊觉得不开心了，你就要去职责他们吗？虽然这个sc字面上没有职责成员，但是你说这个环节无聊不也是在给他们增加无形的压力吗，让他们感到抱歉和愧疚，怀疑自己觉得自己没有做好......希望他们没有看到这个跳脸的sc吧，我一直觉得只要能看到他们就行了，就算是两个小时都只是沟通放松也无所谓，我一个字都听不懂也没关系，只要他们坐在那里就好了，只要他们一直开心幸福就好了。而且从24开年以来的直播都很legend，直播效果很好，看得出豆丝真的很用心在做，仅仅只是这一场直播有些平淡，就要否定豆丝的所有努力和付出吗？而且今天本来河玟身体也不舒服，说话都迷迷糊糊的很迷糊的状态，这两个环节已经是很好照顾到成员的身体了，我觉得豆丝做得很好！
+
+<!-- endtimeline -->
+
 <!-- timeline 01-28 -->
 
 [IMG_1341.mov](https://www.bilibili.com/video/BV1KN4y1J7Bx/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7)
@@ -90,9 +144,7 @@ aside: false
 
 [今天发的那个视频里的...](https://weibo.com/6613460890/4995394889318487) 然后也有提到视频里的流星颜色，很像plli的颜色，不禁联想到之前关于2024年的剧透里，就有提到请plli来Asterum的话语，如果这个流星就是指plli的话，也就是说plli最终来到了Asterum吗？？结合台历的机票，134-1航班是asterum和terra的往返航班，也有可能是PLAVE来到了地球...总之很期待！
 
-<!-- endtimeline -->
-
-<!-- timeline 01-28 -->
+------
 
 <img src="Asterum/0128-1.jpg" alt="诺亚の泡泡" style="zoom: 45%;" />
 
@@ -111,6 +163,8 @@ aside: false
 <img src="Asterum/24012502.jpg" alt="240125" style="zoom: 45%;" />
 
 刚开场就是双簧哈哈 [不是双簧是声带模仿！|南斑比和韩河玟出没](https://www.bilibili.com/video/BV18w411j7vm/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 原来你们五个今天一整天都待在一起啊😃今天的主题是选取理想型世界杯，听到了好多歌的翻唱，虽然只有片段，不过也很满足😇[艺俊清唱《去看星星吧》一小节feat.麻烦女友（？）诺亚](https://www.bilibili.com/video/BV1tK4y117W5/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 这一段有点搞笑哈哈😂今天也有剧透，但不多，只知道周二五人在一起做了什么，还一起吃饭哈哈 [剧透周二五人赛百味吃饭有神秘日程？诺亚金鱼记忆力 算不清楚一周见了几面 也不知道做了什么](https://www.bilibili.com/video/BV18Q4y1c7gD/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) / [ASTERUM（暂时）未解之谜——艺俊的鲸鱼朋友去哪儿了|20240125*会是剧透吗](https://www.bilibili.com/video/BV1964y1w7nu/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 然后场景里的鲸鱼也全都不见了，时空缝隙也回到了出道前的状态，感觉确实这次回归和时间倒流有关，果然哥五个要去拯救世界了吗！
+
+[【PLAVE/全场中字】240125 艺俊诺亚双人合唱曲选曲32强赛](https://www.bilibili.com/video/BV1UC4y167p7/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
 
 <!-- endtimeline -->
 
@@ -156,6 +210,8 @@ aside: false
 
 最后还玩了玩具熊的五夜后宫，据说是玩具熊系列里最恐怖的版本哈哈，感觉今天的确是艺俊受难日，又是rap又是恐怖游戏的哈哈🤣也是难得看到虎子和河玟出现在同一场恐怖游戏里，这两大护法是真的牛，玩具熊几次突脸都纹丝不动，表情毫无波澜的…对比坐在中间的艺俊就吓得魂不守舍的，我真的会笑死啊啊啊——不过最终还是连第一夜都没过就下播了，不过据说下周一是忙内line和斑比，是不是斑比就得接着玩这个游戏了?很期待啊，傲娇的斑比在虎子面前玩恐游会是怎样的表现呢，会是逞强假装不怕，还是被弟line保护着呢哈哈😮我真的很期待啊豆丝，请玩🥺
 
+[【PLAVE|全场中字】都银虎的RAP课堂|作词天才南艺俊|恐怖游戏|240119](https://www.bilibili.com/video/BV1QH4y1e7nk/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+
 <!-- endtimeline -->
 
 <!-- timeline 01-19 -->
@@ -170,7 +226,15 @@ aside: false
 
 很想感叹一句，世界上居然真的有这么像小狗的人类😇没错，我说的就是虎子…真的很可爱啊啊啊谁懂🥺
 
-首先，虎子曾说自己吃饭很快，因为怕被别人抢走，这不就是经典的小狗护食吗…喜欢睡艺俊家的地板，因为有地暖睡起来很温暖，并且认为睡床不太礼貌，这不就是妥妥的小狗吗…就连性格上也很像一只黏人的快乐小狗，媚粉媚哥很有一套，然后也是队内唯一的e人哈哈，不知为啥光是看着虎子坐在那里，我就感到很开心哈哈😊如果非得说虎子是什么品种的狗勾，我觉得虎子在斑比面前是西伯利亚哈士奇，在哥line面前则是乖巧的萨摩耶~
+以下归纳虎子是狗勾🐶的证据：（长期更新❗️）
+
+1.队友说虎子吃饭很快，虎子解释说怕被别人抢走（经典小狗护食）
+
+2.喜欢睡艺俊家的地板，因为有地暖睡起来很暖和（感觉能看到小狗在地板上打滚的开心样~）
+
+3.爱吃，有时一天能吃五人份，还总是时不时聊到吃的。有一次和斑比吃饭还因为面太好吃，笑得十分天真烂漫，以至于吓到斑比哈哈（贪吃小狗！）[2023最后一顿🍜... ](https://www.weibo.com/7651777117/NzHbS4QB8?pagetype=viewer)
+
+4.[试图驯服仙人掌，以至于手碰到刺流血也不放弃](https://www.bilibili.com/video/BV1wp421f7FT/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) “到底谁会赢，我赢还是你赢” （充满好奇好胜心的小狗...）
 
 <!-- endtimeline -->
 
@@ -223,6 +287,8 @@ https://weibo.com/6591628792/4990265693832119
 今天直播里的舞蹈接力的游戏也很有趣 [“isolation不能停”|奇怪的舞蹈基本功接力第一名](https://www.bilibili.com/video/BV1kW4y1c7gg/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 很考验人的记忆力，我承认我的记忆力和斑比差不多，都是七秒钟的记忆…还有随机舞蹈 [随机舞蹈哪家强｜什么都会柳河玟｜一点不累蔡斑比｜非常完美韩诺亚](https://www.bilibili.com/video/BV1Fa4y127JG/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 很惊讶河玟居然每一首都能跳，记忆力是真的很强！其实从河玟能精准记住直播中的每一个梗，以及记得很多有趣的梗很有sense这一点看来，就觉得河玟的记忆力很好了哈哈😊随舞的时候很有趣，诺亚在其中浑水摸鱼，总是虚晃一枪，自信地进场，之后又自信地瞬间退场哈哈哈，真是为难我们诺亚了哈哈哈，瞬间就回想起了3why那时候，也是在斑比的游乐场，也是和舞line在一起跳舞，那时候把公主累的坐在板凳上一动不动，仿佛失去了灵魂的样子哈哈哈哈😂不过今天的随舞，公主主打一个气氛组就完事了~放几个舞蹈切片~[Elevator/电梯 challenge蔡斑比](https://www.bilibili.com/video/BV1o5411i7vW/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) / [斑比这段十分钟速成的Perfect Night](https://www.bilibili.com/video/BV1vt4y1R7We/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) / [可爱](https://www.bilibili.com/video/BV1vt4y1R7n1/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) / [Like I Do](https://www.bilibili.com/video/BV1CK4y1z7ok/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 
 
 今天玩的游戏是八号出口！[地铁8号出口游戏完整版cut](https://www.bilibili.com/video/BV1WQ4y1w75N/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 看的时候很惊讶，可以说这是唯一一个他们玩的游戏里我熟悉的哈哈，很期待他们通关会要多久哈哈，但是总感觉要加班🙂也是从这个游戏里，刷新了我对诺亚的认知，原来公主是怕这种细思极恐的超现实的东西哈哈 [被游戏吓到神同步的漂亮line](https://www.bilibili.com/video/BV19k4y1Q7U3/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 明明上次和虎子玩娃娃工厂都没这么怕，甚至还有点烦躁来着哈哈哈哈😂而且看得出诺亚真的挺怕黑的，听他说过漆黑的练习室很可怕，关灯都是要喊着离开赶紧跑的那种哈哈，这样也好可爱啊啊😇
+
+[【PLAVE直播回放全场熟肉】PLAVE第一届随机舞蹈 | 拟声词challenge大赏 | 八号出口逃出游戏（ft.退勤阿加西）](https://www.bilibili.com/video/BV1FQ4y1A7bn/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
 
 <!-- endtimeline -->
 
@@ -283,6 +349,8 @@ https://weverse.io/plave/artist/1-133034570
 下半场则是最重磅的虚拟偶像看面相，还没看就忍不住笑出声了我…[虚拟爱豆赛博看相 ](https://www.bilibili.com/video/BV1oK411s7sr/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)神奇这到底又是哪位豆丝想出来的哈哈哈，果然vlast整个公司上下的精神状态都很不一般啊😘看评论区有人说quiz和看面相都是原本无限挑战的传统，想起PLAVE的现任pd确实是原本无挑的pd来着哈哈，那可是韩国的国民综艺！所以由此可以看出，PLAVE在韩国很火的确是有原因的呢，不仅仅是成员们的实力和有趣的灵魂、化学反应，vlast的技术，当然也少不了pd的策划哈哈😉
 
 看面相环节，最印象深刻的就是斑比的，大师说斑比43岁可成为公司代表哈哈，可是我们家孩子现在才二十多岁啊大师🤣不过话说为什么一定要是43这个数字？对不起又让我磕到了…然后还有问到大师虎子到底是狼还是狗，大师沉思了片刻只给了个“有点暧昧…”这个回答，笑死我了啊啊🤣还有最破局的八字居然是莓莓z，大师说南艺俊遇到斑比的时候会有气场被压制，压力增大的可能性哈哈，然后看到评论区就有人说是因为艺俊察觉到斑比暗恋自己而无法给出确切回应而感到苦恼，笑死还是跟着太太们磕好吃啊😊怎么说，感觉虚拟偶像看面相这个片段，可以竞选一下我心中的2024年度片段，实在是没想到2024年才刚开始，就给我来了个这么大的惊喜哈哈哈哈😇
+
+[【PLAVE直播回放全场熟肉】世界最初虚拟偶像观相 | 新年传统quiz趣味问答 奖品是和忙内约会一天?!](https://www.bilibili.com/video/BV1We411m7B2/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
 
 <!-- endtimeline -->
 
@@ -349,6 +417,8 @@ SMA的颁奖典礼结束了…PLAVE还是只拿了个新浪潮明星奖（New wa
 首先Bang奖的话，听微博上有姐妹说这是取自韩国的一部动画片段，里面的主角也是外星人哈哈哈哈https://weibo.com/7877641619/4984404440780028 所以也可以说这是最佳外星人奖；然后研究对象奖给了斑比，斑比以美丽突出的精神状态拿下了此奖，简直实至名归啊恭喜！！Da奖颁给了虎子，意为进步最大奖，虎子的舞蹈在今年取得了巨大的进步，让我们恭喜虎子~然后是羽加迪姆勒维奥奖，是哈利波特里的漂浮魔法的咒语，在圣诞礼物视频里诺亚曾经有说过，所以也可以理解为最佳特效奖？当看到vcr里诺亚召唤任意门时，这个任意门特效就已经秒了哈哈😂昨天不是有CP投票吗，原来今天还真的有颁奖 [2023年度A星<最梦幻的COUPLE>颁奖仪式完整版_](https://www.bilibili.com/video/BV1we411q7hh/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)投票总数第一名是哥line，据说外网哥line才是美帝，其次是yataz，好吧我没有押对，不过我是杂食，什么CP我都可以磕~🤭
 
 想象以上奖颁给了PLAVE全员~终于有团体奖了，然后五个人都说了自己的得奖感言哈哈😘[2024一起书写历史吧_](https://www.bilibili.com/video/BV1Ww411G7UU/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 最后还有一个“大奖”颁给了PLLI，当看到弹幕窗一步一步跳到中间时，还挺惊讶的但是非常有趣！！[恭喜噗哩得獎啦！！！](https://www.bilibili.com/video/BV1e64y1J7Qs/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)2023年噗哩们都辛苦了，PLAVE和VLAST的大家也都很有心，最终的大奖给了我们，真的很难不感动😭😭然后最后还跳了出道曲，是公式服版！[“梦开始的地方”《Wait for you》 ](https://www.bilibili.com/video/BV1j94y1c71d/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)斑比的三段高音再现，还是如当初那般惊艳~这是梦开始的地方啊😢
+
+[【半场中字】231229 2023 Plave年末颁奖典礼(上)_](https://www.bilibili.com/video/BV1ej421X7fm/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
 
 <!-- endtimeline -->
 
@@ -466,6 +536,8 @@ B站的年度报告出来了！果不其然，年度视频是斑比的姐姐真�
 还有sc问到“5岁银虎vs5个银虎”，斑比无条件选择5岁银虎，诺亚也选5岁，原因是为了在虎子5岁时就让他练习舞蹈基本功，等虎子长大了就能当上舞蹈第二名了🤣至于rap和vocal“让他自己看着办”，笑死所以最终还是放养的吗哈哈哈哈 [“5岁银虎🆚5个银虎” ](https://www.bilibili.com/video/BV1mG411e7Wb/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 
 
 最后的游戏环节，玩了《卡比的美食节》和《快艇骰子》，这次真的看到了粉红的星之卡比，真的和斑比很像啊ww游戏全程两人的嘴就没停过…玩骰子的时候，诺亚还忽悠新手斑比，笑死我了最后还是输给了最后翻盘的斑比，赌狗到最后一无所有啊诺亚…
+
+[【全场中字】231214诺亚斑比 漂亮line闲聊健身美妆 初雪cha噗诞N倍速 大战AI卡比南艺俊+敌蜜决裂之别赌了_](https://www.bilibili.com/video/BV1mW4y1A7CZ/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
 
 <!-- endtimeline -->
 
@@ -586,6 +658,8 @@ PLAVE Digital Single 'Merry PLLIstmas'
 玩的时候，豆丝甚至还关灯了哈哈哈哈，海豚破防大叫哈哈哈哈，但是不得不说这个游戏还真挺恐怖的，场景做的非常写实，还真有种身临其境的感觉，我看直播的时候也有点害怕啊啊啊，感觉如果一个人玩这个游戏会很恐怖，身边要是有人一起那还好 [恐怖游戏完整版（艺俊/斑比/河玟）](https://www.bilibili.com/video/BV1m94y1j7vu/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
 
 三个人玩恐怖游戏的反应挺有趣的，首先河玟一点都不害怕，甚至还一边看艺俊玩一边悠闲地唱儿歌 [在恐怖游戏里唱儿歌的哈民 ](https://www.bilibili.com/video/BV1AN411j7fS/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)到河玟玩的就像是速通版本，时不时还逗一逗害怕的哥哥们哈哈，特别有安全感捏～然后艺俊和斑比两个胆小鬼就不用说了，感觉全程都处于一种沉浸式的游戏体验中，草木皆兵一惊一乍的，我看着直播感觉游戏本身倒不恐怖，感觉他俩最恐怖…还有斑比，明明自己也吓得够呛，还老怪他哥一惊一乍的哈哈哈哈，到自己回合的时候还自信地说“我来展示一下通关”，果然天塌下来有斑比的嘴硬顶着呢😁
+
+[【PLAVE全场中字】已证实的圣诞剧透｜海豚声乐课堂第二辑｜久违的恐游 请不要尖叫噢](https://www.bilibili.com/video/BV1Jw411J76t/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
 
 <!-- endtimeline -->
 
@@ -1031,6 +1105,8 @@ https://weibo.com/1789755462/NsES4hgT7
 
 这场直播吃醋的水饺艺俊&河玟斑比开花真的好好笑哈哈哈哈
 
+[【全场中字】231027第一届Plave秋季猪…运动会正式开幕！](https://www.bilibili.com/video/BV1He41167LB/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+
 <!-- endtimeline -->
 
 <!-- timeline 10-22 -->
@@ -1324,6 +1400,8 @@ CICF的特别舞台，PLAVE还准备了一小段的中文歌翻唱《月亮代�
 今晚还有游戏回！游戏名叫《Gang Beasts》，这次虎子终于不是游戏黑洞了kkk有个关卡艺俊还被海里的鲨鱼亲故叼走了，艺俊大叫“我是海豚啊！”🤣然后很多局都是一边艺俊和虎子对打，河玟在旁边悠闲的玩，然后要么是艺俊和虎子一起被车创飞，要么就是自投罗网掉河里，然后小猫直接躺赢哈哈哈哈，还有艺俊从章鱼手里起死回生也很搞笑😂 [【中字】和平生活中的PLAVE 🕊︎ 由《萌萌小人大乱斗》解除封印？🎮 🔓｜PLAVE Highlight](https://www.bilibili.com/video/BV1vu4y167ny/?spm_id_from=333.788.recommend_more_video.-1&vd_source=683accdf4a366c372d15625bf59c99d7)
 
 最后是KTV回，连唱了六首歌~🎙最喜欢的是虎子唱的《Off my face》，甜甜的虎虎~❤  [PLAVE切片中字｜Off My Face - 银虎cover｜害羞小狗唱后感有 @230919](https://www.bilibili.com/video/BV1i84y1S7jX/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 
+
+[【PLAVE全场中字/中字熟肉】YEJUN艺俊&ENHO银虎&HAMIN河玟 游戏 Gang Beasts KTV](https://www.bilibili.com/video/BV1Gc411474K/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
 
 <!-- endtimeline -->
 
