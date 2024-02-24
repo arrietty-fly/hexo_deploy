@@ -6,6 +6,68 @@ aside: false
 
 {% timeline 2024,orange %}
 
+<!-- timeline 02-20 -->
+
+[PLAVE 迷你二辑《ASTERUM : 134-1》Highlight Medley 音乐试听](https://www.bilibili.com/video/BV1Xx421Z7Kn/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+音源试听终于等到了！足足从上个月底等到现在，下次VLAST能不能不要把战线拉这么长！
+
+首先先夸一句豆丝的美术设计还是很好看~（但是为什么服设...）然后每一首都很喜欢，都是第一次听就很入耳的仙曲~尤其是主打和from这两首真的第一次听就感觉很惊艳的感觉！抒情曲就是PLAVE的绝对领域~六首歌的曲风都不尽相同，看得出制作line真的很棒，尝试各种曲风真的很好~我最喜欢的还是主打，有一种盛大电影happy ending落幕的感觉，很感动~配合歌名就是“带着爱落幕”，真浪漫啊，作为ASTERUM三部曲的终曲，这首歌真的太适合了！然后第一首watch me woo我看评论区有人说这是最近欧美流行的afrobeat潮流，在现在的KPOP里很少见，只能说制作line真的好棒啊！我突然就理解了为什么A套服装会有蓝白的丝带了，这让我回忆起了之前看过的我被威胁的那部剧场版动画的黄毛男主，感觉这次的舞台会有很强烈的舞蹈呢！真的很期待~~然后from果然很催泪，感觉歌词有提到“睡不着的夜晚”，就想起艺俊失眠的那些天，想到他们会不会也有丧气emo的时候呢...然后是我们的电影，感觉是很适合作为演唱会落幕的歌曲！[🍿️演唱会退场曲 ...](https://weibo.com/6856954043/5004572212859138) 然后虚拟偶像这首歌和我想的抒情曲不太一样，果然是diss黑子的那种呢哈哈，感觉那也很有趣！歌词也很有“嚼劲”，是想让人跟着一起唱出来的~然后还有每个人的画面也很好看，所以为什么不做pb啊呜呜呜呜😢总之爱信等！💙💜💗❤️🖤
+
+<!-- endtimeline -->
+
+<!-- timeline 02-20 -->
+
+<img src="Asterum/240222.jpg" alt="240222" style="zoom: 90%;" />
+
+今天直播logo song的时候听到斑比和河玟的怪叫了哈哈哈哈笑死 [PLAVE切片中字｜非常安静的开场(^^) ｜阿舅可酿LASSSGO~](https://www.bilibili.com/video/BV1Ux4y1k7cJ/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 开幕的时候还故意装作一副认真严肃的样子哈哈哈🤣🤣今天是舞蹈line，很期待会不会剧透主打歌的编舞！漏了，但是豆丝手速很快哈哈😂话说今天有舞line的直播，还有yataz的亲亲电台，还有十一点最期待的专辑试听，噗哩们又幸福了~~今晚玩了最近抖很火的小矮人滤镜，笑死了这下你俩真成小学生了可还行😂 [PLAVE切片中字｜舞line随地大小演之《是你欺负我弟弟吗》 ](https://www.bilibili.com/video/BV1KS421T7Ls/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 后半场是玩手游，菜菜的很安心，两把都匹配到了国人，ID叫“醇厚的小丑”我要被这个ID笑死了哈哈哈，最好笑的是小丑哥两句都是败方MVP，怎么也带不动这俩菜鸟哈哈哈哈😂小丑哥都不禁感叹一句：小丑竟是我自己，我觉得你俩还是比较适合玩合成大西瓜，听说合成大西瓜有双人版了，斑比知道了不会又要上头了吧哈哈哈哈哈
+
+<!-- endtimeline -->
+
+<!-- timeline 02-20 -->
+
+<img src="Asterum/playlist.jpg" alt="playlist" style="zoom: 90%;" />
+
+专辑的Track List终于公布了，最期待的一集！有足足六首歌，五首新歌真好~尤其是第三首《虚拟偶像》真的莫名很戳泪点...很好奇这首歌的风格会是怎样的呢？是对黑子的反击和diss，还是作为虚拟偶像的一些感想呢？真的很期待这首！而且看到也有人说，这首音源放出来之后，当人们搜索“虚拟偶像”的时候，顶部就会出现这首歌...真的是很大的野心呢！然后From也是，看推上有人贴出了Dear.PLLI和From的关联，感觉这首应该也是给粉丝的歌呢！[“所以说 放音源的话...](https://weibo.com/6591628792/5003652567663362) 就像是一封情书的开头和结尾，真的好浪漫啊制作人line😭😭还有第五首我们的电影 [우리 영화...](https://weibo.com/1952207525/5003632360030260) 想起了虎子之前在泡泡里发过的一句话，人生就像是一部电影，而这部电影里美好的瞬间都有彼此...他说：“真的很荣幸plave能在PLLI那样美丽又灿烂的人生这部电影中 成为被装饰记录下的一幕”，这句话也是我想说的啊，你们在我的人生电影也是很重要的存在😢😢然后是主打歌，有谐音梗！不过way 4联想到指南针的话，就是指东南西北四个方向，也就是说way 4 luv是指在寻找爱的路途~所以这趟旅途你们果然是来terra找PLLI的是吗！然后第一首watch me woo，看评论区有人说woo的单词有求爱的意思，哇哦...感觉好暧昧，会是一首怎样的歌呢？
+
+<!-- endtimeline -->
+
+<!-- timeline 02-19 -->
+
+<img src="Asterum/240219.jpg" alt="240219" style="zoom: 90%;" />
+
+今天直播一开始就被虎子吸引了目光...真的，戴着眼镜的虎子真的好帅啊😇[【PLAVE｜都银虎】Eunho20240219直播特写镜头+截图time](https://www.bilibili.com/video/BV13J4m1s7KC/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 诺亚一开始就在那里发泡泡笑死，直播都开始了还在发泡泡真是绝了...[【PLAVE切片中字】直播过程还在坚持发泡泡的诺line 甚至还两次？！仿佛在跟我汇报行程](https://www.bilibili.com/video/BV1wK42187it/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 有一种面对面打电话的感觉哈哈哈哈🤣直播一半的时候诺亚和银虎又在发泡泡了，还一副给家里人报备的语气，这难道就是传说中的嫂子？？所以嫂子竟是我自己？而且我总算发现规律了，只要他们三一起的组合，一定会有健身的内容！不过诺亚那个紧身的瑜伽裤真的很生草哈哈哈[有点太癫了受不了了｜被皮套人的裤子拖孩80了｜虚拟男团直播](https://www.bilibili.com/video/BV1D1421Z7Wg/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 然后让我震惊的是，诺亚和河玟居然真的是在健身房初遇的...你们是真的喜欢健身啊😅[plave｜猫驼初遇花絮，但是鸡胸肉汁](https://www.bilibili.com/video/BV1Q2421F7nu/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)尤其是诺亚当时还带着鸡胸肉汁，这实在是太震撼了谁懂！？？只能说一句，如果我也有像诺亚这样的毅力和决心，什么事情干不成功啊😮今天的厨房模拟器诺亚也做了草莓鸡胸肉奶昔，果然还是让他得偿所愿了，虽然颜色有点像威廉哈哈哈哈，唯一能吃的就是河玟做的牛排了哈哈😂
+
+<!-- endtimeline -->
+
+<!-- timeline 02-17 -->
+
+<img src="Asterum/240217.jpg" alt="HMA" style="zoom: 90%;" />
+
+恭喜PLAVE获得了HMA虚拟艺人特别奖！[【PLAVE领奖中字】2023HMA 虚拟艺人特别奖获奖中字](https://www.bilibili.com/video/BV1uj421X7zA/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 今天早早地蹲在直播里，等了好久看了好多艺人才终于等到PLAVE的舞台ww[【4K 舞台】PLAVE《 The 6th Summer 》SBS M.31st HMA 20240217](https://www.bilibili.com/video/BV18S421P77i/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 等了好久的新舞台啊呜呜，VLAST下次回归真的不能再多一些打歌舞台吗😭今天的舞台五个人都戴上了噗哩送的耳返，真好看啊真好看~现场的噗哩们好多都来应援了，应援声真的很大，真的很感动😭 [应援声太美好了(;_;) PLAVE@HMA2023｜前方记者(本人)传来的影像｜成为噗哩后的每一天都很幸福](https://www.bilibili.com/video/BV1P6421M7rn/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) / [PLAVE|HMA第六个夏天舞台现场（鸣叫again）|场子突然热了起来](https://www.bilibili.com/video/BV1A4421F7nv/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)  / [噗哩们好牛的应援！02.17 HMA “第六个夏天”4K舞台+受赏](https://www.bilibili.com/video/BV1T6421M7DN/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 还有一些坐在下面的其他艺人的reation哈哈，应援声真的好大哈哈 [【PLAVE/金在奂】金在奂前辈对六夏以及噗哩应援的reaction 20240217 HMA](https://www.bilibili.com/video/BV1PA4m1V7Fc/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 总之今晚是一个很开心的夜晚！开心开心~感觉更期待演唱会了ww
+
+<!-- endtimeline -->
+
+<!-- timeline 02-16 -->
+
+<img src="Asterum/240216.jpg" alt="240216" style="zoom: 90%;" />
+
+今天艺俊嗓子生病了呢...不能唱歌但是就这样静静坐着也很好~河玟今天准备了乱春的编舞 [《乱春》艺俊河玟镜面舞 河玟自编舞](https://www.bilibili.com/video/BV18H4y1a7qy/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 是很优雅舒缓的编舞，现代舞的感觉，还挺有意境的，感觉演唱会可以有这种环节~当然艺俊和河玟也有蝴蝶结和巧克力，还有《梦色蛋糕师》翻跳挑战~[梦色蛋糕师对忙双人cha](https://www.bilibili.com/video/BV17A4m1G7NN/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)（话说上一场直播豆丝进度条写的还是蝴蝶结+巧克力，今天这场直播就改成蝴蝶结+威廉了哈哈哈哈真的笑死）
+
+<!-- endtimeline -->
+
+<!-- timeline 02-14 -->
+
+<img src="Asterum/240214.jpg" alt="240214" style="zoom: 80%;" />
+
+今天是情人节！所以今天的直播是粉色的哈哈，三个人都穿了3why的粉衣服😇豆丝做了粉色的蝴蝶结和脸颊巧克力，粉色的蝴蝶结很可爱，尤其是诺亚和斑比一眼看过去我还以为是漂亮的小女孩😊但是那个脸颊巧克力就算了，感觉像粘上了威廉...🤣一开始哥三聊了好久的吃的，解锁每日一吃（1/1）后面聊到之前的翻唱Dangerously [PLAVE切片中字｜危险的爱录音花絮2｜全员超高音🉑?_? ](https://www.bilibili.com/video/BV1Ux4y117rR/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 没想到斑比还会给英文标注韩文音译，好像我以前努力学英语的样子笑死😂斑比的高音部分甚至还唱到了F#5，还用的真声！？可以看出斑比的音域真的很高，天生的优势呢，诺亚也是真的很擅长调教的制作人呢！
+
+[PLAVE切片中字｜情人节礼物💝翻唱纯享｜我就是最幸福的噗哩](https://www.bilibili.com/video/BV1S2421c7Ys/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 今晚最喜欢的是斑比翻唱的L-O-V-E🥰 [《L-O-V-E 中英歌詞》桃子真的好甜 ！！都出汁了！！](https://www.bilibili.com/video/BV15v421k7qb/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 唱的甜甜的~（难得没有怪叫）还有诺亚和银虎的 [PLAVE切片中字｜致犹豫的恋人们｜小品更有意思的一集◉‿◉](https://www.bilibili.com/video/BV1g6421M7up/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 、[【PLAVE】银虎直播生唱《Call you mine》｜歌词版  ](https://www.bilibili.com/video/BV1iv421y7n4/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)还翻跳了梦色糕点师，也是甜甜的~话说这应该算是宅舞？最二次元的一集！
+
+诺亚设计蛋糕环节，展示了一下诺亚的画技...[蛋糕设计大师韩诺亚_](https://www.bilibili.com/video/BV1g6421M73s/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 一开始还很正常，越到后面越不对劲了喂！为什么蛋糕上还有posing的肌肉和paca啊——所以这就是传说中的鸡胸肉蛋糕吗？谢谢我不吃🙃后面的游戏环节，玩的游戏也是厨房模拟器，由斑比掌厨...说是制作草莓蛋糕，但是怎么蛋糕糊掉了啊？甚至烤草莓...用了的厨具随地乱扔，斑比这小子算是玩到这个游戏的精髓了可还行😂最后的成品我就不评价了，甚至还卖出去了可还行，不过弹幕里有人说“豆丝辛苦了豆丝先吃”真的笑死我了🤣hh总之今天情人节很开心，正好是我最喜欢的诺亚斑比银虎~情人节也能出来营业真好~
+
+<!-- endtimeline -->
+
 <!-- timeline 02-10 -->
 
 <img src="Asterum/240210.jpg" alt="公主生日快乐！" style="zoom: 80%;" />
