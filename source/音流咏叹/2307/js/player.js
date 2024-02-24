@@ -40,17 +40,17 @@ class Musics {
         },
         {
             id: 3,
-            title: 'DINOSAUR',
-            singer: '乐童音乐家',
-            songUrl: './songs/乐童音乐家 DINOSAUR.mp3',
-            imageUrl: './images/songs/乐童音乐家 DINOSAUR.jpg'
+            title: '恶魔之子',
+            singer: 'ヒグチアイ',
+            songUrl: './songs/恶魔之子 ヒグチアイ.mp3',
+            imageUrl: './images/songs/恶魔之子 ヒグチアイ.jpg'
         },
         {
             id: 4,
-            title: 'Generation',
-            singer: 'tripleS AAA',
-            songUrl: './songs/tripleS AAA Generation.mp3',
-            imageUrl: './images/songs/tripleS AAA Generation.jpg'
+            title: 'Jet',
+            singer: '银赫x金孝渊x李泰容x罗渽民x成灿x金玟庭xGiselle',
+            songUrl: './songs/银赫x金孝渊x李泰容x罗渽民x成灿x金玟庭xGiselle Jet.mp3',
+            imageUrl: './images/songs/银赫x金孝渊x李泰容x罗渽民x成灿x金玟庭xGiselle Jet.jpg'
         },
         {
             id: 5,
@@ -68,10 +68,10 @@ class Musics {
         },
         {
             id: 7,
-            title: '打上花火',
-            singer: 'DAOKO&米津玄师',
-            songUrl: './songs/DAOKO&米津玄师《打上花火》.mp3',
-            imageUrl: './images/songs/DAOKO&米津玄师《打上花火》.jpg'
+            title: 'TOP',
+            singer: 'Stray Kids',
+            songUrl: './songs/Stray Kids TOP -Japanese ver.mp3',
+            imageUrl: './images/songs/Stray Kids TOP -Japanese ver.jpg'
         },
         {
             id: 8,
