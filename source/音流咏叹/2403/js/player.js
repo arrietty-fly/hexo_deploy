@@ -82,10 +82,10 @@ class Musics {
         },
         {
             id: 9,
-            title: 'Monster',
-            singer: 'IRENE & SEULGI',
-            songUrl: './songs/IRENE & SEULGI Monster.mp3',
-            imageUrl: './images/songs/IRENE & SEULGI Monster.jpg'
+            title: 'Wolf in Sheep’s Clothing',
+            singer: 'Swiblet',
+            songUrl: './songs/Wolf in Sheep’s Clothing - Swiblet.mp3',
+            imageUrl: './images/songs/Wolf in Sheep’s Clothing - Swiblet.jpg'
         },
         {
             id: 10,
