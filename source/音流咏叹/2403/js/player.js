@@ -75,10 +75,10 @@ class Musics {
         },
         {
             id: 8,
-            title: 'W△vin’ FL△g',
-            singer: 'BAE',
-            songUrl: './songs/Paradox Live BAE《W△vin’ FL△g》.mp3',
-            imageUrl: './images/songs/Paradox Live BAE《W△vin’ FL△g》.jpg'
+            title: 'Monster',
+            singer: 'IRENE & SEULGI',
+            songUrl: './songs/IRENE & SEULGI Monster.mp3',
+            imageUrl: './images/songs/IRENE & SEULGI Monster.jpg'
         },
         {
             id: 9,
