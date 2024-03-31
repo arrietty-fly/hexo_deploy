@@ -6,6 +6,223 @@ aside: false
 
 {% timeline 2024,orange %}
 
+<!-- timeline 03-25 -->
+
+<img src="Asterum/240328.jpg" alt="240328" style="zoom: 90%;" />
+
+今天直播之前，虎子说自己拿着秒表计时自己吃完意大利面要多长时间，结果是47秒...弹幕里有人说“我们PLAVE有自己的秒表”真的笑不活我了哈哈哈哈哈🤣 [喝面达人都银虎!下次挑战炸酱面!](https://www.bilibili.com/video/BV1ix421Q7Pm/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 真的是在喝饭啊wuli小狗康阿几，必须得给小狗买一个慢食碗才行🤭[爆笑MV配音！这个程度完全是配音界丢失的人才吧](https://www.bilibili.com/video/BV1sp421m7bm/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 中间还给MV配音，河玟真的好有sense，模仿哥哥们真的很像！那个燃气费真的太好笑了吧，怎么感觉真的是诺亚能干得出来的事情...然后虎子配音斑比部分的时候，还被斑比发泡泡问为什么我的声音是那样哈哈哈哈🤣你小子现在是越来越不怕你哥打你了，估计是又皮痒了，话说今天的直播也是时不时起承转斑比的一天，你小子是真的超爱你斑比哥😊[【翻唱中字】银虎《摇篮曲》(原唱: IU) | 不会再有可怕的梦了 把你没有尽头漫长的悲伤 现在都送走吧 | 什么梦都不要做 好好睡一觉吧](https://www.bilibili.com/video/BV1T1421D7hv/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) / [银虎cover《Lullaby》《我的野蛮女友》](https://www.bilibili.com/video/BV1Aq421P74d/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) / [银虎河玟《上坡路》](https://www.bilibili.com/video/BV1WC411t7TJ/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 今天也唱了很多歌~感觉河玟真的在哥哥的指导下进步了很多~ [一起来上外语课｜“英语哈吉嘛！“SO SAD😆” ](https://www.bilibili.com/video/BV11A4m1A7vb/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 今天还聊到了外语课，听说英语老师经常点河玟回答问题哈哈哈，然后河玟回答不上来就用日语回答哈哈哈，sense有！虎子虽然说自己日语不好，但是发音也还是很标准呢，果然音感好的人学语言也很有优势呢😊今天忙内z还玩了合作游戏，这一刻我才明白，合作游戏才是忙内z的恐怖游戏😂而且猫猫狗狗一起直播的时候，感觉两个人都软软萌萌的，河玟会耐心教虎子，虎子也会很宠河玟，总之就是很可爱！
+
+<!-- endtimeline -->
+
+<!-- timeline 03-27 -->
+
+[【PLAVE/中字】240327 USA获奖+WAY 4 LUV舞台cut](https://www.bilibili.com/video/BV1gx421X7V2/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+祝贺连续斩获USA的两个新人奖！！火火的很安心~可以期待睡衣派对了！！🥳🥳
+
+新舞台的intro也好好听，编舞也很有优美，就像是微风吹动着柳絮飞舞的感觉~而且听起来还是全开麦，一点垫音都没有啊——但是唱的还是很稳很好听，宝宝们真的很棒！现场plli们的应援也很响亮很整齐~~😙
+
+<!-- endtimeline -->
+
+<!-- timeline 03-26 -->
+
+<img src="Asterum/240326.jpg" alt="240326" style="zoom: 90%;" />
+
+今天melon的月卡就结束了！总结下来，差不多平均每首歌听了1200遍~浅浅记录一下
+
+这是我第一次用melon听歌，体验感还不错，界面UI设计很好看，数据也很直观~
+
+下次回归我还会再回来的😊
+
+<!-- endtimeline -->
+
+<!-- timeline 03-25 -->
+
+<img src="Asterum/240325-1.jpg" alt="240325" style="zoom: 60%;" />
+
+<img src="Asterum/240325-2.jpg" alt="240325" style="zoom: 60%;" />
+
+线上票今天终于开放售卖了~立马下单了嘿嘿😆差不多花了260多块钱，真的很期待14号那天的演唱会live~
+
+这还是我第一次买演唱会的线上票，希望未来可以买到线下票去韩国看现场的舞台~😙
+
+话说今年还要买应援棒，感觉今年的追星花销得突破2000了ww
+
+<!-- endtimeline -->
+
+<!-- timeline 03-25 -->
+
+<img src="Asterum/240325.jpg" alt="240325" style="zoom: 90%;" />
+
+上一次漂亮line一起直播还是在噗诞，都这么多月过去了！终于！！[我们六个把日子过好比什么都重要](https://www.bilibili.com/video/BV1ot421G7tb/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 话说昨天还和艺俊一起看爱乐之城，今天又和虎子看明日的我与昨日的你约会，现在又来看漂亮line的直播了😗plli才是真正的时间管理大师，看这俩家伙吃醋控诉的样子哈哈哈好可爱，虽然但是我们六个真的不能一起好好过日子嘛🥺[演唱会斑比脱上衣?｜YATAZ跳Trouble Maker?](https://www.bilibili.com/video/BV1R1421Q779/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 话说这次演唱会也是由他们五个编排，期待一个4399双人舞！而且今晚还有恐游！[类8号出口游戏完整cut｜Dead End Exit 8（诺亚/斑比）](https://www.bilibili.com/video/BV1Cm421J7yy/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 似乎还是国人做到游戏，突然看到一大堆方块字哈哈哈，第一个医院关卡没什么恐怖的感觉，但是到第二关公寓的时候恐怖程度突然上升几个level...我宣布最新的胆小鬼组合诞生！😆
+
+<!-- endtimeline -->
+
+<!-- timeline 03-18 -->
+
+<img src="Asterum/240321.jpg" alt="240321" style="zoom: 90%;" />
+
+本来今天是三人直播的，但是因为艺俊声带小结需要少出声所以没有来...看到官方消息说艺俊将减少活动的消息，那一刻心里是很害怕紧张的，也是第一次听说这个病，评论区有人科普是声带过度劳累导致的，严重的情况甚至需要手术...看来他们最近回归加上临近演唱会真的有练习很多，但是还是希望他们五个能以身体健康放在第一位，毕竟留得青山在才有柴烧啊，回想起来这一年以来感冒的感冒，得新冠的，生病的生病，真的还是要注意身体健康啊切拜...😥😥
+
+[【PLAVE】WAY 4 LUV接力舞蹈](https://www.bilibili.com/video/BV1eu4m1T7sS/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 今天放出了舞蹈接力，斑比这次的小表情都好可爱！还磕到了好多CP，吃得好饱😙然后依然是欧巴的那个话题，你们真的很执着 [《欧巴三原则》｜“队内最欧巴的是谁” ](https://www.bilibili.com/video/BV1A2421P7Xb/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 反正斑比和河玟你俩就算是欧巴，那也是宝宝欧巴~然后今天还重现了河玟难以忘怀的吃平壤冷面撒娇的经典场面，原来斑比这小子平常私下里就是个喜欢撒娇的桃子精！[“哥哥太可爱了怎么办” ](https://www.bilibili.com/video/BV1xi421971s/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 谢谢河玟，今天也让我吃到了一口桃子🍑真的太可爱了ww然后今天舞line也跳了帅气的舞cha，斑比真的帅啊，超出建模的震感十分强烈，爱看请多来😘[《PLAVE 斑比》New School Bamby vs Old School Bamby](https://www.bilibili.com/video/BV1gt421G7mp/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 
+
+<!-- endtimeline -->
+
+<!-- timeline 03-18 -->
+
+<img src="Asterum/240318.jpg" alt="240318" style="zoom: 90%;" />
+
+今天是noline~又名公主和她的骑士，总是给我一种姐狗的感觉😊延续了上次河玟的欧巴的话题[ “PLAVE内至少得有一个欧巴吧？”｜被plli宠得越来越萌的诺亚和银虎](https://www.bilibili.com/video/BV1Pu4m1u7LT/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 两人一致赞同被plli宠得变得越来越可爱，不知不觉就撒娇了哈哈哈哈😂“完全就是软萌小鸡啊”、“太可爱了我们诺亚”首先是质疑，然后接受，最后成为kkk话说我也觉得他们五个好可爱啊，就是无论做什么都觉得可爱，只能说陷入爱的人们最终都会变成这样...那句话说的没错，当你觉得一个人做什么都觉得可爱的时候，你就完全陷入爱的漩涡里了！！然后今天也reation了舞台直拍，聊到舞台中途消失去哪了，诺亚说自己去宫殿睡觉了，银虎说自己去打了一盘守望先锋...你俩真是... [史上最初爱豆打歌中途去网吧打守望先锋😇_](https://www.bilibili.com/video/BV1YH4y1s7Cp/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 想起莓莓z直播的时候，斑比说自己去了金字塔顶端吃汉堡，艺俊说自己去了待机室整理妆容，[【PLAVE】幕后采访-音中舞台消失的外星人篇｜直击虚拟男团打歌舞台后台（伪）](https://www.bilibili.com/video/BV1hm411k77Y/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 你们还真是不是一家人不进一家门啊...然后每次noline一起直播就能听到很多翻唱live，尤其是那种炸场子的歌，今天也是大饱耳福的一天~上一次两人合播唱了涩涩的OASIS，这次也唱了歌词涩涩的good boy😳再加上一起唱过的actually男友和男闺蜜，真的不得不说你们noline真的性张力很强😵平时这两人的泡泡也老是勾人，真的很难不做梦女啊哟罗本😭还有这首两人都唱过的 [终于给我蹲到诺line合唱这个了 | If I have you only - Nerd Connection](https://www.bilibili.com/video/BV1KC411h7Jy/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 也很好听~~
+
+[【PLAVE全场直播中字熟肉】诺亚银虎💜❤️| 2024.03.18 |幕后故事 | 翻唱 | 音乐中心 reaction](https://www.bilibili.com/video/BV1fi421X7bi/?spm_id_from=333.788.recommend_more_video.-1&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+<!-- endtimeline -->
+
+<!-- timeline 03-15 -->
+
+<img src="Asterum/240315.jpg" alt="240315" style="zoom: 90%;" />
+
+终于放出了团体直拍和个人直拍~大饱一波眼福🤗🤗
+
+[【PLAVE】WAY 4 LUV 团体直拍｜音乐中心 | MBC240309](https://www.bilibili.com/video/BV1N2421K78z/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+[【PLAVE】WAY 4 LUV 艺俊个人直拍 | 音乐中心 | MBC240309](https://www.bilibili.com/video/BV1cD42177dr/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+[【PLAVE】WAY 4 LUV 诺亚个人直拍 | 音乐中心 | MBC240309](https://www.bilibili.com/video/BV1ny421v73G/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+[【PLAVE】WAY 4 LUV 斑比个人直拍 | 音乐中心 | MBC240309](https://www.bilibili.com/video/BV1kK421v7vu/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+[【PLAVE】WAY 4 LUV 银虎个人直拍 | 音乐中心 | MBC240309](https://www.bilibili.com/video/BV1hr421n76q/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+[【PLAVE】WAY 4 LUV 河玟个人直拍 | 音乐中心 | MBC240309](https://www.bilibili.com/video/BV1gr421n7Ei/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+话说银虎那个流星的动作又在看眼色哈哈哈哈，虽然他本人在泡泡上说不是在看眼色kk以及艺俊那个弯着身子小碎步绕后的动作真的很有小偷的内味哈哈哈对不起，这是别的噗哩告诉我的😂今天的莓莓z直播九reation了舞台直拍，真是每次回归的固定环节呢，这次艺俊的截图技术依旧稳定发挥，截出来的斑比好漂亮啊~~还聊到了歌词behind[歌词创作Behind，我们之间双向奔赴的浪漫](https://www.bilibili.com/video/BV1fi421R7wH/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 真的是很美很有意境的歌词呢，在现在KPOP充斥着洗脑重复的环境下的一股清流呢😇“A to T，I'm driving now ”其中的A是指Asterum，T则是噗哩所在的terra，真的是要来terra的概念呢，这怎么不是双向奔赴呢~编舞也完美对应了歌词，舞line也很棒！那个流星向下坠落的动作真的很美~然后最近由河玟发起的关于怎么成为欧巴的话题，在五小漫里流传...[Plave难题之“如何成为欧巴”](https://www.bilibili.com/video/BV1qK421v7YV/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) / [河玟尼学废了吗|南艺俊的金牌欧巴讲座](https://www.bilibili.com/video/BV1W6421w7F7/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 要我说普雷五里面就没有欧巴，你们都是宝宝😃你们是小兔小鸡小仓鼠小狗小猫，普雷五里根本就没有欧巴！😄如果非要选一位欧巴出来的话，可能虎子有一点吧，毕竟调情帝王...
+
+<!-- endtimeline -->
+
+<!-- timeline 03-12 -->
+
+<img src="Asterum/240312.jpg" alt="一周年直播！" style="zoom: 90%;" />
+
+今天是出道一周年的日子！🍾💐正好前几天还拿了三大台的一位，真的是出道一周年最好的礼物🎁💐开场唱了出道曲，心中永远的白月光~还有这次回归的主打四爱🎙最初入坑的契机就是wait for you的初舞台，如今一眨眼一年过去了，我对他们的喜欢却从来没有倦怠，还一天比一天更爱他们，回顾和他们一起走过的每一天都是那么幸福和满足😊今天他们也回顾了初次五人直播，想起来这也是在B站的第一场直播呢，我也不禁回忆起初次看他们直播的那个时刻，那时的感动和开心也历历在目，真好~[PLAVE 1st Anniversary Message 💌](https://www.bilibili.com/video/BV1Vx4y1Q7ny/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) / [PLAVE 1st Anniversary Interview🎤 出道一周年采访](https://www.bilibili.com/video/BV1zm411Z7RT/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 在这个采访里面有个地方很动容，当问到五人“觉得成为PLAVE真是太好了的瞬间是...?”五人的回答都是“成为PLAVE的每一天铅笔”😉有一个抓周的环节，神奇的箱子里真是啥都有笑死，足球红枣格莱美奖杯韩币听诊器，尤其是斑比抓到钱都跑笑死，斑比这个小财迷😂欠债人设不倒！[外星人来抓周！艺俊队长失格 蔡代表携款潜逃 诺LINE与健身的不解之缘 忙内河玟竟然会多子多孙？爆笑的一周年直播🛸](https://www.bilibili.com/video/BV1o6421c7vN/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 
+
+最后的读信环节，写给过去的自己的信✉️[ “致一年前的自己”｜爆哭读信环节](https://www.bilibili.com/video/BV1Dy421e75h/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 最没想到的是斑比居然哭了...得一位的时候也哭了呢，斑比原来是一个小哭包呢~还有诺亚、艺俊也相继哭了...虽然很久之前我还期待着哪一天能看到他们哭的样子，但是当这一天真的来的时候，看着他们低头哽咽抽泣的样子，我的心情却很复杂，感到很难过...知道他们一路走来很不容易，这个一位对于他们来说，等待的并不是只有一年300多天，而是足足十年3000多天的时间...斑比是读到成员和豆丝的时候哭的，诺亚则是读到噗哩说过的话而哭的，诺亚哭的时候还是无声的，但是能明显听到眼泪打在纸张上的声音😢“我们是总有一天要相见的命运啊”、“谢谢你没有放弃，让我一眼就能找到你”看得出诺亚的泪点是噗哩们给予的爱...以后都会是幸福的泪水！我爱你们💙💜💗❤️🖤
+
+[【PLAVE直播回放全场熟肉】PLAVE1st Anniversary | 周岁豆抓周活动 | 面对一年前的自己无法止住的泪水开关 24.03.12](https://www.bilibili.com/video/BV1Hx421C7pw/?spm_id_from=333.788.recommend_more_video.-1&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+<!-- endtimeline -->
+
+<!-- timeline 03-09 -->
+
+<img src="Asterum/240309.jpg" alt="音中一位！" style="zoom: 90%;" />
+
+[【PLAVE】240309 SHOW!音乐中心「 WAY 4 LUV 」舞台](https://www.bilibili.com/video/BV1iW421c7k8/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+今天是初舞台出来的日子！从一点开始就在蹲MBC的直播，这次等了好久看了好多其它组合的舞台都没等到，想着以前都是前几个就出来的，难道今天是要压轴了吗hh不过确实这次是进入了一位候补的，所以放在最后几个出来也很正常，毕竟电视台也需要收视率呢...不过因为要上班所以还是没能等到，直到回家刷微博收到一大片一位粗卡的动态，是PLAVE的第一个三大台的一位啊！！真的很惊喜！！[【PLAVE/中字】240309 SHOW!音乐中心 一位+感想 恭喜首个三大一位✨🎉_](https://www.bilibili.com/video/BV1pw4m1d749/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 而且竞争的另外两个还是歌曲大火的LE SSERAFIM和BIBI，在这种情况下拿下一位更加有含金量了！[音乐中心一位的reaction及获奖感言](https://www.bilibili.com/video/BV1Fr421n7Nc/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 还在wvs发了现场reation，反应也超可爱超激动，有种身临其境的感觉，如果周六我不上班的话，我的反应肯定和他们五个一样激动和紧张hhh话说这次比分前两个很悬，音源分没必过注水怪，放送分没必过大火的女团LE SSERAFIM，看到前两个的比分真的有心一凉的感觉...但是最后的事前投票和生放送投票我们两个都是满分！！真的不得不说噗哩姐们真的活力太猛了！！真的很热血很感动啊😢早就说了我们PLAVE是一部热血番！这可是三大台的一位！据说今天得一位还上了一会儿微博的热搜总榜，🔥🔥的很安心~未来我们要拿更多的一位！[宝宝们😿 ](https://weibo.com/6591628792/5010070903720639)
+
+<!-- endtimeline -->
+
+<!-- timeline 03-07 -->
+
+<img src="Asterum/240307.png" alt="240307" style="zoom: 90%;" />
+
+今天的直播聊到了昨晚去快闪店的事！[“噗哩的脚印很可爱” ](https://www.bilibili.com/video/BV1nx421y7PJ/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 说看到了噗哩的脚印觉得很可爱可还行hhh然后还有录音花絮！[蔡丰玖的“奇妙”涂鸦✍️ ](https://www.bilibili.com/video/BV1EK421478K/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 还有粉红小不点的自尊心~不过画手印，以及躺下来的身体描边，小tips都好可爱啊ww[PLAVE斑比Watch Me Woo!录音花絮中字｜蔡～斑～比～“南艺俊干了件大事”_](https://www.bilibili.com/video/BV13Z421a72S/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 这段感觉电电的，有一种异域风情笑死了...连视频的标题都自带波~浪~但是还是不得不说，斑比的高音很清爽不刺耳，低音的时候莫名很性感呢...[艺俊的录音花絮｜作曲z的专业美大爆发](https://www.bilibili.com/video/BV1i2421M7Ds/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 录音室 作曲z的绝对领域！慕强批的天堂！[PLAVE《虚拟偶像》出生前版本｜地球人和外星人都听不懂的语言+全程'滴滴滴滴滴'的rapper](https://www.bilibili.com/video/BV1kj421U7L5/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 虚拟偶像的导唱版就很搞笑了hhh尤其是诺亚，感觉精神状态很美🤣评论区说是诺亚想唱给黑粉所以唱得阴阳怪气的，艺俊和虎子就还正常笑死...正式音源还是收敛了太多🤣[3个录音指导任君选择｜“工作的时候都很性感” ](https://www.bilibili.com/video/BV1Sr421H7Sh/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)然后聊到三个制作人line的录音指导风格，看得出录音的时候诺亚的压迫感的确很强哈哈，三个人的录音指导风格三人三色，然后也说斑比对自己要求很高，即使制作人line说已经best了，但是斑比还是会说“我不出录音室”哎一古，真的认真又可爱啊...   [“不是我固执，是身体不听使唤” ｜舞蹈练习室 银虎篇](https://www.bilibili.com/video/BV1Gx4y1Q73P/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 还有舞蹈练习室的花絮！果然银虎又是重点关注对象哈哈哈哈😂最后银虎咬牙说着“录音室见！”的样子也很有趣笑死...咱们制作人line和编舞line还真是有来有回啊哈哈哈哈🤣而且莫名的，河玟教舞蹈的时候语气很像教孩子的幼师kkk原来我们yeline也是幼师line吗哈哈哈...今天直播三人还跳了easy！[艺俊 斑比 银虎 EASY 翻跳 Challenge 原曲 LE SSERAFIM](https://www.bilibili.com/video/BV1hr421W799/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 跳的很好呢，尤其是wave和提跨的动作！最后ending的时候，斑比仰视的样子跳起来够相机的样子也好可爱ww[宝宝够不着，宝宝想得到，蔡斑比蹦起来的样子～](https://www.bilibili.com/video/BV1B2421K7xV/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)  
+
+<!-- endtimeline -->
+
+<!-- timeline 03-06 -->
+
+[【PLAVE】恭喜我们孩子得初一位了TT 哭天喊地叫妈妈真的哭笑不得](https://www.bilibili.com/video/BV1Mz42197ee/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+[【PLAVE】出道后首个一位粗卡嘿！！！🎉🎉🎉_](https://www.bilibili.com/video/BV1Bx4y1D7x4/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+今天是PLAVE获得第一个1位的日子！Show Champion 1位！！一位粗卡！😆😆
+
+听见他们的现场录音感觉他们都激动地哭了...而且事实是斑比真的哭了，声音都哽咽了还被虎子记录下来哈哈哈 [宝宝们呜呜呜呜呜嘣咕嗓子哑的一开始都没敢认](https://weibo.com/1952207525/5009009652274455) 声音哑哑的懵懵的哈哈，好可爱~~出道才一年就拿到了1位，我们以后也会拿更多更多的一位的！💙💜💗❤️🖤
+
+<!-- endtimeline -->
+
+<!-- timeline 03-06 -->
+
+【一周年快闪💌】💙💜💗❤️🖤
+
+今天又是季度pcm的一天...尤其是那个全息合影，感觉好真实啊，就好像真的在一个次元一样😭😭
+
+但是又突然想到，如果我也去玩的话，那我岂不是只能到他们的肩膀？就连五个人里最矮的斑比也足足有一米七四的啊...不过斑比这小子很挺会，合影的时候会微微低头和噗哩对视，比心也会蹲下来比心哈哈~💗然后还有一些vlog~[VLOG｜PLAVE一周年快闪and闲逛](https://www.bilibili.com/video/BV1Hz421Q78E/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) / [超主观极S的快闪商品鉴赏以及签名打卡！|一起来逛PLAVE周年快闪吧](https://www.bilibili.com/video/BV1Cu4m1u78k/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 
+
+https://weibo.com/6591628792/5010070903720639
+
+https://weibo.com/6856954043/5007052408359727
+
+https://weibo.com/7874735016/5007092647989211
+
+https://weibo.com/7562861850/5007106314864440
+
+https://weibo.com/6591628792/5007128005707779
+
+https://weibo.com/5143372154/5007162357582213
+
+https://weibo.com/7874735016/5007184458943488
+
+https://weibo.com/3251547692/5007281529817006
+
+https://weibo.com/6631876115/5007469363332310
+
+[天呐？今天快闪店内到处都是成员们的亲笔涂鸦](https://weibo.com/6856954043/5009229645352153) 而且他们今天半夜的时候还特地去了快闪店留下了亲笔的涂鸦😭留下的涂鸦和文字太可爱了呜呜😭原来这就是泡泡上说的惊喜呢~有一种时空交错的实感，虽然不能同时见面，但是却又感觉如影随形...[哎哟昨晚11点多一起去快闪店了](https://weibo.com/7562861850/5009230622884907) 签名的时候斑比还跳起来签，一定要签在最上面hhhh据说艺俊还帮了一把斑比哈哈哈哈，然后第二天噗哩们都在各个角落寻找足迹，有一种捉迷藏找礼物找小彩蛋的感觉，好有趣啊~[【PLAVE】五小寶大晚上跑去快閃商場快樂塗鴉](https://www.bilibili.com/video/BV1Fz421Q7mJ/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 就像艺俊说的那样，我们不止在屏幕上见面...以后请多多办这种线下活动吧！即使我去不了韩国，但是看看噗哩们的返图也很幸福...
+
+<!-- endtimeline -->
+
+<!-- timeline 03-04 -->
+
+<img src="Asterum/240305.jpg" alt="'Hello, Asterum!'" style="zoom: 90%;" />
+
+PLAVE THE 1ST FAN CONCERT
+'Hello, Asterum!'
+
+2024.04.13 SAT 6PM - 04.14 SUN 5PM (KST)
+
+------
+
+PLAVE的第一场演唱会官宣了！🤗🤗
+
+[大发 昨天有个韩噗发... ](https://weibo.com/6613460890/5008554043377923) 早在四号的时候，就有韩噗预测四月份有演唱会，且演唱会场馆就在奥林匹克路424...源自台历里的神秘数字“202404882424”，结果今天发出了官宣还真是这个地方！只能说vlast真的很喜欢藏小线索，韩噗也像小侦探一样hhh但是据说这个场馆只有3000个位置😭但也不是vlast不想租大的，但是演唱会场地需要提前好几个月预约，但那个时候他们还没有像现在这么火，被很多主办方以“不知道虚拟偶像的票价怎么定价”而拒绝了...反正这一次演唱会想去也没钱也抢不到票，下次继续努力吧！有生之年我一定要看一场PLAVE的演唱会！！努力赚钱努力赚钱，赚到不会因为机票钱和票钱而心疼的程度才行！🙂🙂
+
+<!-- endtimeline -->
+
+<!-- timeline 03-04 -->
+
+<img src="Asterum/240304.jpg" alt="240304" style="zoom: 90%;" />
+
+今天两人一起玩了ChatGPT，让AI制作剧本，诺亚河玟来演，难道这就是传说中的虚拟人玩转AI吗哈哈哈😂尤其是AI写的台词没带敬语，诺亚直接让AI三次返工，还特别提醒河玟是弟弟诺亚是哥哥🤣如果AI有意识的话，不得吐槽一句有完没完啊笑死...然后昨天还视频签售了来着，今天河玟就教诺亚怎么撒娇😂明明河玟也不擅长撒娇哈哈哈，一个敢教一个敢学！[、河玟老师的签售速成课 沉浸式课程 一节课速成、](https://www.bilibili.com/video/BV1WK42147cL/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 最重磅的就是w4l的导唱版，也就是demo，因为还没有填词只有作曲所以听起来像外星语，诺亚说这是Asterum语😂导唱版也很好听，有一种复古宏大的感觉~不愧是制作人line！还有录音花絮，河玟和斑比的花絮 [斑比无限循环.mp3｜斑比呜呜.mp3 ](https://www.bilibili.com/video/BV1Cx4y1r78b/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 看得出斑比真的对自己要求很高呢，妈妈很欣慰😘然后制作人line也很可靠！再次感叹，这就是制作团的实力啊，我真的很喜欢听这些制作幕后的故事，请摩多摩多~
+
+[【PLAVE直播全场中字熟肉】Noah&Hamin 这回遇上真AI了...前方爆笑注意颧骨酸痛！（mini2录音behind&PLAVE电影制作）](https://www.bilibili.com/video/BV1jj421U7R2/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+<!-- endtimeline -->
+
+<!-- timeline 02-29 -->
+
+<img src="Asterum/240229.jpg" alt="240226" style="zoom: 90%;" />
+
+回归后的第二场五人直播！今天的衣服是第二套~这次回归真的大发了呢，感觉专辑成绩简报都有些太长了哈哈哈哈😂最有趣的是闻各自的香片的环节，每个人的反应都很有趣哈哈哈哈 [【PLAVE/熟切】论中话问的香卡试闻环节 斑比连连爆金句引直播间肋骨断裂声响不停(?)](https://www.bilibili.com/video/BV1ei421Z7yc/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 很好奇虎子和斑比的香片，诺亚说虎子的香片是钱的味道，艺俊说是成功人士的味道哈哈哈哈哈，斑比的香味则是神秘的香味，霍格沃兹和平壤冷面？？然后是应援法，感觉这次主打的应援忙忙的哈哈哈哈😂 [速拆一下PLAVE的mini2（hamin/noah ver.）_](https://www.bilibili.com/video/BV1Ex4y1C7TT/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) / [VLOG｜PLAVE线下快闪](https://www.bilibili.com/video/BV1Gt42187yz/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) / [【中字】Plave Way 4 Luv迷你2辑录音幕后花絮](https://www.bilibili.com/video/BV1CF4m157zP/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) / [PLAVE20240301现代首尔 演出完整版｜楼上楼下全是人！现在就期待WHY 4 LUV的现场舞台了](https://www.bilibili.com/video/BV14z421X7Lf/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 
+
+<!-- endtimeline -->
+
+<!-- timeline 02-26 -->
+
+<img src="Asterum/240226.png" alt="240226" style="zoom: 90%;" />
+
+[PLAVE 《WAY 4 LUV》MV【中文CC字幕】](https://www.bilibili.com/video/BV1Um411S7gy/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+今天是忙碌的一天！先是参加了推特总攻和melon切瓜，因为五点还没有到下班时间，所以直到六点下班先是拿耳机听了歌，回家后才看的MV！第一首听到的是虚拟偶像，听到他们的声音就立马笑出来了hh然后下一首又是from又立马变得伤感了起来，虽然还没看MV和歌词，但是光是听着就觉得很开心又很共鸣，这个时候我突然很感叹，他们真真实实地影响着我的生活，仅仅只是听着他们的歌声，就好像我的情绪总是会受到他们的影响，果然已经陷入很深了吗...
+
+回到家立马看了MV，开场的诺亚就很惊艳！看得出这次真的花了很大的精力和金钱，感觉每一帧都可以截图当桌面壁纸的程度，惊艳的镜头简直数不清...藏的细节也有很多[PLAVE回归曲Way4Luv MV解析original版（争取做最快更全的新歌解析）](https://www.bilibili.com/video/BV1yC411W77x/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 我承认之前是我对你声音太大了VLAST，你把我的钱拿走吧😭😭然后这次的主打曲也很好听，是第一次听就能get的仙曲，果然制作人line从来不会让我失望！MV最后的五个黑衣人也恨吊人胃口，难道下一次回归就是暗黑风？？讲述五小漫拯救Asterum的故事？？
+
+今晚的直播最喜欢的就是live~~[【直播切片】PLAVE《ASTERUM : 134-1》专辑歌曲直播现场版.zip](https://www.bilibili.com/video/BV1PH4y1E74r/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7) 感觉五个人就像吃了CD一样稳真的很强！尤其要夸夸四爱的编舞！！真的很好看，和歌曲很适配~尤其喜欢虎子那段bridge的编舞！看直播的时候感觉每一分每一秒都很幸福哈哈哈哈，真好啊~🥰🥰 回归大发大发！！[【PLAVE】回归新特效！可爱！！！_ ](https://www.bilibili.com/video/BV1Qu4m1c73o/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)换了新的特效，是梦幻风格的特效~ [【PLAVE熟切】被拉进收录曲feat的威廉代表nim首秀❗️出道粗卡嘿🎉_](https://www.bilibili.com/video/BV14m411f7Cn/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 以及虚拟偶像最后的“真的大发了呢，耶耶”居然还是威廉的声音嘛哈哈哈哈笑死🤣
+
+[【PLAVE直播回放全场熟肉】迷你二辑 'ASTERUM : 134-1'COMEBACK LIVE ｜宇宙最强自作团携高质量自作曲回归 成员们的晚饭是CD吗？](https://www.bilibili.com/video/BV16K421t7Ub/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+<!-- endtimeline -->
+
 <!-- timeline 02-20 -->
 
 [PLAVE 迷你二辑《ASTERUM : 134-1》Highlight Medley 音乐试听](https://www.bilibili.com/video/BV1Xx421Z7Kn/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
@@ -65,6 +282,8 @@ aside: false
 [PLAVE切片中字｜情人节礼物💝翻唱纯享｜我就是最幸福的噗哩](https://www.bilibili.com/video/BV1S2421c7Ys/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 今晚最喜欢的是斑比翻唱的L-O-V-E🥰 [《L-O-V-E 中英歌詞》桃子真的好甜 ！！都出汁了！！](https://www.bilibili.com/video/BV15v421k7qb/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 唱的甜甜的~（难得没有怪叫）还有诺亚和银虎的 [PLAVE切片中字｜致犹豫的恋人们｜小品更有意思的一集◉‿◉](https://www.bilibili.com/video/BV1g6421M7up/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 、[【PLAVE】银虎直播生唱《Call you mine》｜歌词版  ](https://www.bilibili.com/video/BV1iv421y7n4/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)还翻跳了梦色糕点师，也是甜甜的~话说这应该算是宅舞？最二次元的一集！
 
 诺亚设计蛋糕环节，展示了一下诺亚的画技...[蛋糕设计大师韩诺亚_](https://www.bilibili.com/video/BV1g6421M73s/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 一开始还很正常，越到后面越不对劲了喂！为什么蛋糕上还有posing的肌肉和paca啊——所以这就是传说中的鸡胸肉蛋糕吗？谢谢我不吃🙃后面的游戏环节，玩的游戏也是厨房模拟器，由斑比掌厨...说是制作草莓蛋糕，但是怎么蛋糕糊掉了啊？甚至烤草莓...用了的厨具随地乱扔，斑比这小子算是玩到这个游戏的精髓了可还行😂最后的成品我就不评价了，甚至还卖出去了可还行，不过弹幕里有人说“豆丝辛苦了豆丝先吃”真的笑死我了🤣hh总之今天情人节很开心，正好是我最喜欢的诺亚斑比银虎~情人节也能出来营业真好~
+
+[【全场中字】240214诺亚斑比银虎 整期都是吃的情人节](https://www.bilibili.com/video/BV18J4m177om/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
 
 <!-- endtimeline -->
 
