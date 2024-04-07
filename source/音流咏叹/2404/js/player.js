@@ -92,7 +92,7 @@ class Musics {
             title: 'FLOWER SHOWER',
             singer: '金泫雅',
             songUrl: './songs/【金泫雅】FLOWER SHOWER.mp3',
-            imageUrl: './images/【金泫雅】FLOWER SHOWER.jpg'
+            imageUrl: './images/songs/【金泫雅】FLOWER SHOWER.jpg'
         },
             
         ]
