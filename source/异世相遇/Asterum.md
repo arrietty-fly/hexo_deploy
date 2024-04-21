@@ -2,9 +2,52 @@
 title: ASTERUM with PLAVE
 date: 2023-10-7 12:30:51
 aside: false
+password: 134-1
+abstract: Enter password to read. 
+message: 艺俊家的门牌号是？
 ---
 
 {% timeline 2024,orange %}
+
+<!-- timeline 04-18 -->
+
+<img src="Asterum/240418.jpg" alt="240418" style="zoom: 50%;" />
+
+久违的直播！今天的直播讲了好多演唱会的制作幕后 [YATAZ《NEXT LEVEL》选曲花絮](https://www.bilibili.com/video/BV14J4m1H7jn/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) /  [关于「On the ground」cover舞台的幕后故事](https://www.bilibili.com/video/BV1dp421D7JS/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 以及演唱会结束后五人一起喝酒庆祝的故事哈哈~[PLAVE公主揭老底｜斑比忙内一起哭哭+猫猫嘴硬](https://www.bilibili.com/video/BV1sC41137oo/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) / [集体破防的小聚会 | 做的很好艺俊](https://www.bilibili.com/video/BV12w4m1m77W/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) /  [演唱会后聚餐醉酒趣事+啵line酒量说｜爆笑预警](https://www.bilibili.com/video/BV1GJ4m1W7sX/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 哎一古这个真的听的心软软，豆丝递蛋糕斑比忙内感动地抱在一起哭什么的~不过看到这个切片视频的热评第一有些泪目...要等粉丝都走了才可以和工作人员一起庆祝什么的，再拍一些永远无法公开的照片，真的怜爱了...我们以后只流幸福的泪水吧！[选斑比被亲是正确的，由诺亚来亲是正确的 | Watch me woo直播舞台存档](https://www.bilibili.com/video/BV1AF4m1P7nM/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 然后还讲了WMW的编舞幕后，耶啵line上大分~今天的直播也跳了WMW和我们的电影~[Our Movie｜Watch Me Woo｜熟悉的吵吵闹闹的结尾～🥰 ](https://www.bilibili.com/video/BV1uE421K7JG/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 还有哭泣的拳头返场 [哭泣的拳头 诺亚、河玟、艺俊 cut｜怎么换乘之后还有后续是吧哈哈哈](https://www.bilibili.com/video/BV17E421K7Mv/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 其他人感觉都是在调情，只有wuli斑比和虎子是真吵架（）然后昨天wvs哥line都在睡觉没人遛狗 [Weverse｜240417](https://weibo.com/7874735016/5024170724822498) / [要遛狗才行呢](https://weibo.com/5499093017/5024499164777379) 结果今天整场直播虎子精力充沛地不行哈哈哈哈 [“们诺line是这样的感觉啊…” ](https://www.bilibili.com/video/BV1zH4y1N7CC/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 虎子是真的纯正的e人啊，快乐小狗一只哈哈kiyo~
+
+<!-- endtimeline -->
+
+<!-- timeline 04-19 -->
+
+<img src="Asterum/0420.jpg" alt="240419" style="zoom: 50%;" />
+
+官方的线上周边满额活动，买了应援棒和军装卡~总共花了¥301.81💸这套军装卡是观看预览图就很心动的感觉🥰必须拿下，还有期待WMW的满额卡~所以截止目前半年不到，我花了多少钱呢？目前的话，加上演唱会和专辑，总共花了807.12元了💸再加上下半年的回归，估计今年得突破一千了，但是很开心，都是我的宝贝啊~
+
+<!-- endtimeline -->
+
+<!-- timeline 04-14 -->
+
+<img src="Asterum/演唱会3.jpg" alt="演唱会" style="zoom: 50%;" />
+
+<img src="Asterum/演唱会1.jpg" alt="演唱会" style="zoom: 50%;" />
+
+<img src="Asterum/演唱会2.jpg" alt="演唱会" style="zoom: 50%;" />
+
+今天就是线上演唱会进场的日子！提前一个小时就点进场按钮了，但是四十分钟后才终于算是进来了，因为网卡一直显示黑屏来着，可急死我了...还是电脑的谷歌浏览器快一些！说起来，演唱会前发的官方应援棒的使用指南[PLAVE官方应援棒使用指南✨_](https://www.bilibili.com/video/BV1Wx4y1a7of/?spm_id_from=333.999.list.card_archive.click&vd_source=683accdf4a366c372d15625bf59c99d7) 五个人的声音都好好听啊🥰虽然没有应援棒也无法到现场，但是看的津津有味的...
+
+进去之后先是发现右下角的哑铃应援棒，点一下还会冒泡泡，无论是线上还是线下豆丝的布置都很用心呢~比如这个进场的隧道布置就真的很像是穿越时空来到了Asterum一样，很有意思！[从Terra走向了Asterum](https://weibo.com/6613460890/O9xphmzsW) 然后进来之后，就看到弹幕窗有非常显眼的粉紫色的留言条，是他们发的实时弹幕呢~一个接着一个来的呢，真可爱~诺亚给斑比削香瓜吃，耶啵line好~诺亚想看斑比慌张的样子，诺亚坏！[演出开始前小粉粉在演唱会直播间的公屏聊天合集](https://weibo.com/5143372154/5023142759630165) / [聊天窗留言全员](https://weibo.com/3251547692/5023088691121826)
+
+终于等到演唱会开始了，开场动画真的做的很好很震撼，很有氛围感和紧张感！感觉是由一大串代码建构成的世界，穿过赛博街道和飘满花瓣的云层、雨林以及湿地，最终迎来了出场曲wait for you的开幕~也就是梦开始的地方！这场舞台的白制服和星空背景太好看了！看流星划过蓝紫色的星空，搭配出道曲太有宿命感了~[开场动画 ](https://weibo.com/6613460890/5022746126321216)
+
+今天磕CP也磕得很饱！换乘恋爱的VCR到底是哪一个豆丝想出来的啊哈哈，真的太有sense了，很有那个内味哈哈~先是椰奶的后背抱，诺亚双手环住艺俊的肩膀，头依偎在艺俊的后背，这一幕真的太好磕了谁懂...简直就是典型的父母爱情，我忍不住在弹幕上发了一句爸爸妈妈~后有yataz的爱情来得太晚了合唱，虎子步步紧逼、斑比连连后退不敢对视的动作，你们真的没有背着我在谈吗？！唱完之后河玟紧急堵柜门的也太好笑了哈哈，还说除了他都不要相信，所以之前在爱豆拉说yataz在交往果然是真的是吗？？后面的watch me woo的舞台也磕到了漂亮line，诺亚唱到“目光相碰的瞬间You're Alright”的时候，捏着斑比的下巴靠近自己，那个角度看过去还以为真的亲上了呢，真的太涩了... [watch me woo](https://www.bilibili.com/video/BV1tC411V7xE/?spm_id_from=333.788.recommend_more_video.1&vd_source=683accdf4a366c372d15625bf59c99d7) /  [watch me woo!舞台演唱会完整版！13大卖特卖](https://www.bilibili.com/video/BV1Dt421A7E3/?spm_id_from=333.788.recommend_more_video.9&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+噗诞和六夏有改编弦乐版的！[Merry PILLstmas 管弦乐版](https://www.bilibili.com/video/BV1QT4212774/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) / [Merry pllistmas 现场后排舞美特效 安可了好多次真的好幸福](https://www.bilibili.com/video/BV1p1421Z72U/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7)  听得很爽，尤其是六夏，变得更有力量和热血了，那种又盛大华丽又带点悲伤的感觉~话说六夏舞台出来前的动画导入也做的很有感觉，配合成员们略有伤感的台词 [六夏VCR的台词](https://weibo.com/3251547692/5024310622162511) 就像是在看电影一样，想必坐在下面的噗哩们也一定有着同样的想法吧！[PLAVE - The 6th Summer （第六个夏天） ](https://www.bilibili.com/video/BV1xz421k71x/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)以及唱完from之后衔接Dear.PLLI的弦乐也超好听超感动，星星连成PLAVE的logo，又变成PLLI的logo，这太浪漫了，每次都能给我带来新的惊喜，感觉真的要爱你们十年二十年了…[ From和dear.plli现场 后排舞美特效 好感动](https://www.bilibili.com/video/BV13x421U7uH/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 
+
+还有五人的solo舞台也很震撼！斑比的翻唱甜甜的，可爱的少年音真的很适合这首，简直就是人间樱花！[Bamby个人舞台Cover IU《抓住我的手》](https://www.bilibili.com/video/BV1CT42127zv/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)虎子骑摩托车的出场方式真的很帅，摘下头盔后红眼直视镜头真的太帅了！和斑比的双人舞台next level改编的也很燃，yataz双人cover总算是在今天实现了！[Eunho自作曲《Lit》及和Bamby的合作舞台](https://www.bilibili.com/video/BV1xq421F7ia/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 河玟的solo舞台也很震撼，和机器人的对打动作很利落，不愧是教练级别的跆拳道选手！[Hamin个人舞台Cover NF《The Search》](https://www.bilibili.com/video/BV1iu4m1F7MS/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 诺亚的drowning终于出来了，穿着无袖配合动作真的是超高校级的摇滚乐队主唱！[Noah个人舞台Cover WOODZ《Drowning》](https://www.bilibili.com/video/BV1zC41137Qy/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 最后是艺俊的on the ground，穿着深蓝军装谈着钢琴的导入真的太像王子殿下了ww这个舞台的场景也很唯美，蓝紫色的月亮、云雾和水晶~[Yejun个人舞台Cover ROSÉ《On The Ground》](https://www.bilibili.com/video/BV12w4m1m7ff/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 五个solo舞台都很满意，整场演唱会从入场布置到舞台布置都很用心，不得不狠狠夸豆丝，而且整场演唱会的舞蹈设计都是舞line负责的，谢幕时看到只有舞line的名字真的很替你们骄傲呢！这是五小只和豆丝一起共同努力得出的成果呢，真的太值回票价了！果然演唱会还是要到现场才更有震撼的感觉，有生之年真希望能在现场看一场演唱会🤗
+
+还有两次安可，我们的电影和像素世界！原来安可是再来一次的意思，本来听他们说已经是最后一首了还有些小失落，但是看到噗姐们都没有离座，反而都是在整齐划一地喊着口号，这还是我第一次见这个场面，很有趣的安可环节！不过别人家都是喊安可，但我们是喊“恰干ki哒里干拖拉欧个寄~”哈哈哈哈哈，不得不说噗姐们真是太有sense了，我们有自己的安可词~[别家喊安可 我家喊恰干ki呆里妙头拉喔给叽](https://www.bilibili.com/video/BV1ui421f7CR/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7)据说豆丝还在演唱会里穿插了一些世界观的线索 [别人看演唱会:持续不断地找到线索分析补完世界观…](https://weibo.com/3251547692/5023741245919034) 不得不说不愧是技术公司，有人解读了开场动画的那一长串的代码，看得我头皮发麻...到底豆丝还藏了多少？感觉更期待下次回归了！
+
+<!-- endtimeline -->
 
 <!-- timeline 04-01 -->
 
@@ -56,7 +99,7 @@ aside: false
 
 <img src="Asterum/240325-2.jpg" alt="240325" style="zoom: 60%;" />
 
-线上票今天终于开放售卖了~立马下单了嘿嘿😆差不多花了260多块钱，真的很期待14号那天的演唱会live~
+线上票今天终于开放售卖了~立马下单了嘿嘿😆花了268.31元，真的很期待14号那天的演唱会live~
 
 这还是我第一次买演唱会的线上票，希望未来可以买到线下票去韩国看现场的舞台~😙
 
@@ -111,6 +154,8 @@ aside: false
 [【PLAVE】WAY 4 LUV 河玟个人直拍 | 音乐中心 | MBC240309](https://www.bilibili.com/video/BV1gr421n7Ei/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
 
 话说银虎那个流星的动作又在看眼色哈哈哈哈，虽然他本人在泡泡上说不是在看眼色kk以及艺俊那个弯着身子小碎步绕后的动作真的很有小偷的内味哈哈哈对不起，这是别的噗哩告诉我的😂今天的莓莓z直播九reation了舞台直拍，真是每次回归的固定环节呢，这次艺俊的截图技术依旧稳定发挥，截出来的斑比好漂亮啊~~还聊到了歌词behind[歌词创作Behind，我们之间双向奔赴的浪漫](https://www.bilibili.com/video/BV1fi421R7wH/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 真的是很美很有意境的歌词呢，在现在KPOP充斥着洗脑重复的环境下的一股清流呢😇“A to T，I'm driving now ”其中的A是指Asterum，T则是噗哩所在的terra，真的是要来terra的概念呢，这怎么不是双向奔赴呢~编舞也完美对应了歌词，舞line也很棒！那个流星向下坠落的动作真的很美~然后最近由河玟发起的关于怎么成为欧巴的话题，在五小漫里流传...[Plave难题之“如何成为欧巴”](https://www.bilibili.com/video/BV1qK421v7YV/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) / [河玟尼学废了吗|南艺俊的金牌欧巴讲座](https://www.bilibili.com/video/BV1W6421w7F7/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 要我说普雷五里面就没有欧巴，你们都是宝宝😃你们是小兔小鸡小仓鼠小狗小猫，普雷五里根本就没有欧巴！😄如果非要选一位欧巴出来的话，可能虎子有一点吧，毕竟调情帝王...
+
+[【PLAVE/全场中字】240315 莓莓s的合成大西瓜游戏&音中舞台reaction放送（艺俊/斑比）](https://www.bilibili.com/video/BV1yt421P7KF/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
 
 <!-- endtimeline -->
 
@@ -366,6 +411,8 @@ PLAVE的第一场演唱会官宣了！🤗🤗
 这次是五个单封mini+电子专😋但是没有pb和团封😶然后评论区就吵起来了，都在骂公司赶团粉纵唯粉...
 
 没有pb我还是有点失落的，因为我买专最看重的不是小卡而是pb来着...其实也能明白VLAST为什么这样做...想起上次线下快闪，一堆pb被遗弃在店里，粉丝们只取走了里面的小卡就溜之大吉了，还被人拍到了此幕引起了一些舆论，应该VLAST看到了这个新闻，所以认为大家都喜欢小卡不喜欢pb，且想到pb制作也需要很多成本，所以干脆这次就不做pb了，干脆把卡的数量直接变成十随一？？其实也能理解行为动机，一般的普通粉丝只会买一本专辑用来欣赏pb，但是对于喜欢收集小卡的富婆来说，买的大量专辑中的pb占据了很大的运费和空间反而是个巨大累赘，也能看到外网韩噗几乎没有指责没有pb和团封这件事的，但国内吵这个很多...国外骂的更多的是十随一的小卡太割韭菜了...感觉到VLAST真的很想卖个大的，或许公司现在资金运转很困难吗？的确，毕竟是技术公司，每一步都很烧钱...我挺赞同plq有些人的说法的，首先他们是一个团，即使没有单封也绝对不应该没有团封...我甚至还在想，难道VLAST是把电子专当做是团封吗？？
+
+💸¥237💸
 
 <!-- endtimeline -->
 
