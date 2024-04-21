@@ -75,8 +75,8 @@ class Musics {
         },
         {
             id: 8,
-            title: 'Why Can’t You Love Me',
-            singer: 'WENDY',
+            title: 'Thursday’s Child Has Far To Go',
+            singer: 'TXT',
             songUrl: './songs/Thursday’s Child Has Far To Go.mp3',
             imageUrl: './images/songs/Thursday’s Child Has Far To Go.jpg'
         },
