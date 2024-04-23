@@ -33,7 +33,7 @@ class Musics {
         },
         {
             id: 2,
-            title: 'RAIN',
+            title: 'Rain',
             singer: '泰妍',
             songUrl: './songs/《RAIN》-泰妍.mp3',
             imageUrl: './images/songs/《RAIN》-泰妍.jpg'
@@ -82,7 +82,7 @@ class Musics {
         },
         {
             id: 9,
-            title: 'someone like you',
+            title: 'Someone like you',
             singer: '瑞安Ryan feat.苍穹',
             songUrl: './songs/《someone like you》 瑞安Ryan feat.苍穹.mp3',
             imageUrl: './images/songs/《someone like you》 瑞安Ryan feat.苍穹.jpg'
