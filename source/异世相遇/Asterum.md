@@ -11,15 +11,19 @@ message: 艺俊家的门牌号是？
 
 <!-- timeline 04-24 -->
 
+<img src="Asterum/240424.jpg" alt="240418" style="zoom: 50%;" />
 
+<img src="Asterum/240424-2.jpg" alt="240418" style="zoom: 46%;" />
 
+恭喜第二个PPL，美迪惠尔的面膜~感谢金主爸爸让我能够看到五小漫的额头和新发型~😘五小只露出额头真的太好看了！猫狗豚的头套好可爱，漂亮line露额头真的好漂亮啊呜呜，诺亚更像公主了，斑比就像小女孩小蛋糕似的，我真的超爱🥰今天的下乡背景也好好看，故乡的樱花开了~🌸🌸今日主题是春天，所以当然要唱春天的歌了😘🌷 [【PLAVE现场LIVE】春季歌会（6首）U Who？/银河系咖啡厅的爱情/Say You Love Me/你是我的春天/丽水夜海/你觉得我怎样](https://www.bilibili.com/video/BV1Zm41127NU/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 歌词里面加入了PLLI和威廉kkkk河玟唱的时候哥哥们超捧场，就很像忙内鼓起勇气和PLLI告白，然后旁边哥哥们都在起哄吵吵闹闹的哈哈哈😂[天啊‼️（feat.哟呼](https://weibo.com/5499093017/5027152858711681) 可爱五只我一口吃掉😙然后斑比唱的超甜，宝宝和甜歌真的超级适配，唱得我母爱突然泛滥🤗真的是人间水蜜桃一只🍑虎子和诺亚唱到威廉的时候都绷不住了哈哈哈，原来明天是威廉的生日kk然后今天也嗑得很饱，诺亚给艺俊涂面膜这一幕也太老夫老妻既视感了吧！[【PLAVE/121】在家就这样](https://www.bilibili.com/video/BV1Qm421W7a8/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 这段狗靠在猫的肩膀也好好磕🥰 [【PLAVE 54】THE BOY IS MINE【猫猫狗狗】](https://www.bilibili.com/video/BV1Lp421S7o5/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)  而且今天的狗也超e，今天还老是说自己是intp哈哈哈，然而根本i不了一点😂
 
+<!-- endtimeline -->
 
+<!-- timeline 04-24 -->
 
+<img src="Asterum/240423.jpg" alt="240424" style="zoom: 50%;" />
 
-
-
-
+今天拿到了wvs线上演唱会的纪念徽章~🥰
 
 <!-- endtimeline -->
 

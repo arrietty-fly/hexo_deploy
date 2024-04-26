@@ -15,7 +15,6 @@ menu:
       异世映像馆: /异世相遇/异世映像馆.html || calendar || fas fa-book
       音流咏叹: /异世相遇/音流咏叹.html || calendar || fas fa-book
       私语札记: /异世相遇/私语札记.html || calendar || fas fa-book
-      Asterum: /异世相遇/Asterum.html || calendar || fas fa-book
   # Link: /link/ || fas fa-link
   # About: /about/ || fas fa-heart
 
@@ -44,7 +43,7 @@ social:
   Github: https://github.com/arrietty-fly || icon-GitHub || faa-tada
   Lofter: https://arrietty0124.lofter.com/ || icon-lofter || faa-tada
   BiliBili: https://space.bilibili.com/34952581?spm_id_from=333.1007.0.0 || icon-bilibili || faa-tada
-  wiki: https://arrietty-fly.github.io/wiki/ || icon-lianjie || faa-tada
+  Wiki: https://arrietty-fly.github.io/wiki/ || icon-lianjie || faa-tada
 
 # search (搜索)
 # see https://butterfly.js.org/posts/ceeb73f/#搜索系統
