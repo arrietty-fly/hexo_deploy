@@ -2,7 +2,7 @@
 title: ASTERUM with PLAVE
 date: 2023-10-7 12:30:51
 aside: false
-password: 等待着你
+password: wait for you
 abstract: Enter password to read. 
 message: 134-1的含义？
 ---
