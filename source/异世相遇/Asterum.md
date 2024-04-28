@@ -2,9 +2,9 @@
 title: ASTERUM with PLAVE
 date: 2023-10-7 12:30:51
 aside: false
-password: 134-1
+password: 等待着你
 abstract: Enter password to read. 
-message: 艺俊家的门牌号是？
+message: 134-1的含义？
 ---
 
 {% timeline 2024,orange %}
