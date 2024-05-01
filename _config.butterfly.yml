@@ -665,7 +665,7 @@ aside:
       enable: true
       icon: fab fa-github
       text: Follow Me
-      link: https://github.com/xxxxxx
+      link: https://github.com/arrietty-fly
   card_announcement:
     enable: true
     content: 欢迎来到世界图书馆~本馆创办于2022年10月03日
