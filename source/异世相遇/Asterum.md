@@ -7,15 +7,92 @@ abstract: Enter password to read.
 message: 134-1的含义？
 ---
 
+
+
+| [南艺俊_Yejun💙](https://arrietty-fly.github.io/私语札记/南艺俊_Yejun) | [韩诺亚_Noah💜](https://arrietty-fly.github.io/私语札记/韩诺亚_Noah) | [蔡丰玖_Bamby💗](https://arrietty-fly.github.io/私语札记/蔡丰玖_Bamby) | [都银虎_Eunho❤️](https://arrietty-fly.github.io/私语札记/都银虎_Eunho) | [柳河玟_Hamin🖤](https://arrietty-fly.github.io/私语札记/柳河玟_Hamin) |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+
+| [噗国大事纪🌠](https://arrietty-fly.github.io/私语札记/噗国大事纪) | [幸运便利签🔖](https://arrietty-fly.github.io/私语札记/幸运便利签) |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+
 {% timeline 2024,orange %}
+
+<!-- timeline 05-24 -->
+
+<img src="Asterum/0524.jpg" alt="240524" style="zoom: 50%;" />
+
+虎虎生日快乐~~🥳🥳🎂🎉🎉今天小狗唱了好多好多歌，真的是吃CD的天才，小狗唱得好请多唱🎤头上戴的不知道是小狗还是小狼的帽子尊嘟好可爱，耳朵一摇一摆的哎一古，眼睛上挑看的时候还颇有一种冷脸帅哥的感觉😇[PLAVE切片中字｜“好奇吗？才不告诉你！”“这不是我的风格～” ](https://www.bilibili.com/video/BV1cU411Z7N7/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) / [【PLAVE】都银虎入坑指南](https://www.bilibili.com/video/BV1LU411d7Kc/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) / [可爱大放送 银虎入坑点之4“做本职的时候很帅 但也有可爱的一面”](https://www.bilibili.com/video/BV1b1421B7A5/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 
+诺亚和河玟也来了！带着生草手绘的蛋糕，还演了一段双簧，无法抛弃的小品环节[银虎生日会表演节目之双簧](https://www.bilibili.com/video/BV1NM4m1r7pX/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) / [Plave银虎生日Noline合唱｜公主最宠的一集&神秘的祝福](https://www.bilibili.com/video/BV1js42137iz/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 诺亚和虎子的合唱真的好好听🥺虎子还准备了cover，rewrite the stars唱得真的好好听啊[rewrite the stars翻唱 来自银虎的生日礼物](https://www.bilibili.com/video/BV1Xm421K7Yv/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) / [【PLAVE现场LIVE】银虎生日会LIVE翻唱（共9首）](https://www.bilibili.com/video/BV1hJ4m1P7Gx/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 今晚我的耳朵真的享福了🥰后面虎子等斑比电话真的好好笑哈哈哈，电话打来之后的对话也好想两个小学生，甚至斑比妈妈也来祝福虎子生日快乐了哈哈，虎子一开始还以为斑比和妈妈告状自己说平语的事，你俩是小学生吗哈哈哈哈🤭[【PLAVE中字】Legend！銀虎生日蔡斑比直接帶媽媽慶祝](https://www.bilibili.com/video/BV1fJ4m1c7ZK/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 等斑比打电话也是说自己根本不期待，实则一直在等电话来哈哈笑死，有什么东西能比得过你小子的嘴硬啊？[一点都不期待斑比哥的电话☎️｜爱情来得太晚对不起🎵 ](https://www.bilibili.com/video/BV127421Z7G4/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) / [【PLAVE可爱小虎舞蹈切】我先盘他个500遍再说｜0524都银虎生日直播](https://www.bilibili.com/video/BV18D421G7ED/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+<img src="Asterum/240524.jpg" alt="240524" style="zoom: 50%;" />
+
+<!-- endtimeline -->
+
+<!-- timeline 05-20 -->
+
+<img src="Asterum/240520.jpg" alt="240520" style="zoom: 50%;" />
+
+首长line💙💜💗一开播就听见嗦面的声音，第一反应就知道肯定是虎子，这次喝面只花了53秒，真是...谁能给小狗买个慢食碗啊🤣[谁家小狗53秒一碗面？？主人快买个慢食碗吧！](https://www.bilibili.com/video/BV1PD421V797/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)哈哈听说最近斑比送给艺俊一盆植物，还说送这个植物的原因是因为和队长一样细长的又可爱哈哈，所以斑比没有给诺亚和虎子送的原因是什么，我很好奇，下回会揭晓吗😇诺亚说“我有点伤心啊”，看得出咱们漂亮line是真的熟了！[“丰玖送了我植物”“怎么不送我啊☹️” ](https://www.bilibili.com/video/BV17s42137gj/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+哥line提到W4L其实是一年前做的，六夏其实也是在出道曲之前，现在要重新制定计划和草案了，今天作曲line还开了会，期待新歌😇首长z的领导力比拼里聊到丧尸病毒爆发下，没有魔法也没有paca要怎么回到asterum呢？艺俊的答案直接就是选择变成丧尸和plli在Terra永远生活在一起哈哈哈哈，艺俊真的是噗哩脑吧，不知道丧尸吃这个脑子是什么味道的，会不会吃了一口就嫌弃地扔掉不吃了啊，估计丧尸还要骂街一句“卧槽真是服了这个噗哩脑！🤣后面诺亚和斑比的答案也是更加离谱的程度，最后兜兜转转大家还是选了艺俊哈哈哈哈😂后面诺亚和斑比的答案也是更加离谱的程度，最后兜兜转转大家还是选了艺俊哈哈哈哈😂话说艺俊说怕噗哩被咬会痛还要涂局部止痛膏，要把所有plli变成丧尸永远在一起，怎么颇有一种强制爱的赶脚？真的是red eyes啊哟罗本，想起诺亚那句“眼神清澈的疯子”了哈哈哈哈🤭
+最后哥几个还专门做了PPT，艺俊宣传恋综，斑比宣传面筋零食，其中一个理由是“吃面筋会变可爱”，虽然但是不是吃面筋会变可爱，而是斑比本来就很可爱啊哈哈哈，真是服了[比比啊是吃面筋会变可爱吗 是你可爱而已](https://www.bilibili.com/video/BV1gy411a7Vm/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) / [【PLAVE】吸溜吸溜吸溜吸溜嚼嚼嚼嚼嚼嚼嚼嚼嚼嚼](https://www.bilibili.com/video/BV1Gw4m1D7pN/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+[【PLAVE/全场中字】240520 胡说八道大会｜外星人拯救地球（艺俊/诺亚/斑比）](https://www.bilibili.com/video/BV1gM4m1k7U1/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+<!-- endtimeline -->
+
+<!-- timeline 05-16 -->
+
+<img src="Asterum/240516.jpg" alt="240516" style="zoom: 50%;" />
+
+家庭月特辑，收到了妈妈写的信，纷纷都流眼泪了哎一古，连银虎都有些哽咽了，斑比直接就是泪崩，和上次一周年直播一样...[YATAZ读(泪)信(崩)环节](https://www.bilibili.com/video/BV1Xs421c7Am/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) / [《妈妈》翻唱by诺艺虎 (原唱Ra.D) ](https://www.bilibili.com/video/BV1NZ42147FJ/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)/ [《父亲》翻唱by斑比&银虎](https://www.bilibili.com/video/BV17J4m1N7iM/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)前段是回顾了上半年获得的奖杯，真的好多好多啊，真为你们感到高兴🤗拍全家福的环节，yataz真的是纯正的43味，拍全家福还夹带私人恩怨哈哈哈哈笑死🤣[好刺激的合影battle｜全员受罚的夜晚｜虚拟男团直播切片](https://www.bilibili.com/video/BV14Z42147kH/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) / [谁家好人家族照这样照啊 ](https://www.bilibili.com/video/BV1uH4y137G9/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)尤其是斑比还说要做出一种体育老师的概念，所以斑比你也知道你这身衣服很像体育老师对吧哈哈🤣🤣今天也是豆丝极限职业的一天 [囱s：好像有一股神秘力量控制了我｜“囱s辛苦了”](https://www.bilibili.com/video/BV1QH4y1M7pa/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 豆丝你就宠他们吧...读信环节，豆丝跟成员说是粉丝的信，但是最后拿到信之后就立刻认出了妈妈的字，不过确实，父母本就是孩子最初最早的粉丝呢...斑比妈妈也好可爱啊，可爱的信纸还有充满爱的话语，看来斑比确实是在爱之中成长的孩子呢~[蔡丰玖妈妈才是斑比的背后制作人？银虎透露蔡家父母真实相处细节](https://www.bilibili.com/video/BV1Qx4y1i7op/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)最后唱了妈妈爸爸的歌，虽然但是斑比哭的真的好可爱啊，声音嘤嘤嘤的后接一句c语言也确实是斑比的作风了哈哈哈哈
+
+<!-- endtimeline -->
+
+<!-- timeline 05-13 -->
+
+<img src="Asterum/240513.jpg" alt="240513" style="zoom: 50%;" />
+
+今日直播的TMI：PLAVE成员健身出汗量：河玟＞银虎＝艺俊＞＞＞斑比＞诺亚[漂亮line的秘密|这就是公主体质啊|外星人出汗排行|240513 NOAH&YEJUN合播](https://www.bilibili.com/video/BV1MM4m1y77H/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) / [舞蹈line的柔韧度揭秘|惊现爷爷二号机](https://www.bilibili.com/video/BV1ct421M7QM/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 今天哥俩真的健身这个话题贯穿整场直播哈哈哈哈😂今天又是诺亚的健身教学，甚至还有健身相关Q&A，我真是服了😅看着诺亚一副津津有味的样子，艺俊则是一副无奈但配合的样子，真是笑死了...[南艺俊怎么演我健身办卡](https://www.bilibili.com/video/BV1Qx4y1p7xM/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) / [“我才没跳部长舞!!”｜编舞天才都银虎的编舞故事](https://www.bilibili.com/video/BV1Rs421A7ki/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 
+
+[【PLAVE/全场中字】240513 庆🌸艺俊光顾诺亚健身房🌸祝｜铁的味道我不想知道](https://www.bilibili.com/video/BV1iJ4m1N784/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+<!-- endtimeline -->
+
+<!-- timeline 05-09 -->
+
+<img src="Asterum/240509.jpg" alt="240509" style="zoom: 50%;" />
+
+今天穿了新衣服~虎子的黑色夹克搭配牛仔裤很帅气，但是艺俊的绿色POLO衫看起来就有点老气sorry...看起来艺俊很会打高尔夫的感觉，河玟的表述真的很高情商哈哈哈哈😂今天俩人一起直播作曲作词，主题是“微醺”，挑了一段涩涩的beat就开始作词作曲了，最后的成品挺好听的也挺涩涩的[PLAVE南艺俊&都银虎 自作曲“Love Story” ](https://www.bilibili.com/video/BV1pb421b7Nx/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)回头看了别人翻译的歌词是真的很涩涩啊喂...[“我觉得斑比很照顾你”“随便他”｜南队长又…](https://www.bilibili.com/video/BV1FM4m1C7d9/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) / [在线下战书?? 对舞蹈第四名是认真的!! ｜舞蹈第四第五互相取暖… ](https://www.bilibili.com/video/BV1e1421z7Nw/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) / [“怎么能对我们河玟尼板着脸呢 不像话”](https://www.bilibili.com/video/BV1mr421775h/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) / [全身都冒火的女主人公amber是银虎的远房亲戚？ 展示机车技术前洗车太累 演唱会担心噗哩才不打火的](https://www.bilibili.com/video/BV1EH4y1g7Be/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 
+
+<!-- endtimeline -->
+
+<!-- timeline 05-07 -->
+
+<img src="Asterum/240507.jpg" alt="240507" style="zoom: 50%;" />
+
+我发现只要每次诺亚和舞line在一起，诺亚就要一起跳舞，可把诺亚给累的哈哈哈哈😂看到有人劝银虎和艺俊别争舞蹈第三了还是争第四吧，因为第三太难太累了哈哈哈哈真的笑死了🤣🤣今晚翻跳了很多舞蹈挑战，那个MAESTRO很爱看，卡点甩腿真的很帅气~[plave｜1551就M字刘海发表重要讲话](https://www.bilibili.com/video/BV1Bz421U7bq/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) / [艺俊驾到 斑比吓到失忆（feat.唇膏）](https://www.bilibili.com/video/BV1RD421N75v/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) / [PLAVE柳河玟｜MAESTRO舞蹈挑战](https://www.bilibili.com/video/BV1VE421L7VK/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) / [【PLAVE*13】漂亮line是演唱会“接过吻”直播喝同一瓶水的关系💜💗_](https://www.bilibili.com/video/BV1fw4m1C7Yq/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) / [有妹妹的话会介绍给哪个成员？](https://www.bilibili.com/video/BV11z421U7gK/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) / [蔡斑比的双人舞台pick是？](https://www.bilibili.com/video/BV1ur421J7wg/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 
+
+[【全场中字】240507诺亚斑比河玟 吗喽舞蹈小课堂+tmi大放送之舞line跑火车技能学成](https://www.bilibili.com/video/BV1i1421q7ST/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+<!-- endtimeline -->
+
+<!-- timeline 05-02 -->
+
+<img src="Asterum/240502.jpg" alt="240502" style="zoom: 50%;" />
+
+韩国的儿童节原来在5月5日呢，今天五宝都戴上了可可爱爱的小黄毛，好像幼儿园的小孩纸啊哎一古🥰今天唱了很多童年动画回忆的歌曲，我宣布这是二次元浓度最高的一集哈哈😂什么美少女战士、火影忍者、蜡笔小新、海贼王都来了哈哈哈😆[【PLAVE现场LIVE】儿童歌会（共9首）美少女战士/蜡笔小新/海贼王/气球](https://www.bilibili.com/video/BV1EC411J7gD/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 后面五人一起玩马里奥赛车，noline真的是游戏黑洞，一直在最后两名哈哈哈，然后河玟和斑比争夺第一，每次斑比没拿第一就说再来亿局，笑死...最后ending曲，yataz一边背着哥line一边唱歌，太可爱了吧哈哈🤭[最后的惩罚 YATAZ背着大哥line唱歌跳舞｜5人5色 今天又是丰富的直播](https://www.bilibili.com/video/BV1tJ4m1E7iW/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 真的有种回到了小时候的感觉哎一古[小狗又惹斑比哥生氣了｜還是諾亞哥對我最好了｜本人反覆品味的片段](https://www.bilibili.com/video/BV1hb421a798/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) / [哪个小孩哥捣乱?!|柳MC遭遇职业生涯滑铁卢](https://www.bilibili.com/video/BV1eb421a7qg/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) / [“我不是真的狗狗啦!😡” ](https://www.bilibili.com/video/BV1sZ421J7YG/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+<!-- endtimeline -->
 
 <!-- timeline 04-24 -->
 
-<img src="Asterum/240424.jpg" alt="240418" style="zoom: 50%;" />
+<img src="Asterum/240424.jpg" alt="240424" style="zoom: 50%;" />
 
-<img src="Asterum/240424-2.jpg" alt="240418" style="zoom: 46%;" />
+<img src="Asterum/240424-2.jpg" alt="240424" style="zoom: 46%;" />
 
 恭喜第二个PPL，美迪惠尔的面膜~感谢金主爸爸让我能够看到五小漫的额头和新发型~😘五小只露出额头真的太好看了！猫狗豚的头套好可爱，漂亮line露额头真的好漂亮啊呜呜，诺亚更像公主了，斑比就像小女孩小蛋糕似的，我真的超爱🥰今天的下乡背景也好好看，故乡的樱花开了~🌸🌸今日主题是春天，所以当然要唱春天的歌了😘🌷 [【PLAVE现场LIVE】春季歌会（6首）U Who？/银河系咖啡厅的爱情/Say You Love Me/你是我的春天/丽水夜海/你觉得我怎样](https://www.bilibili.com/video/BV1Zm41127NU/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 歌词里面加入了PLLI和威廉kkkk河玟唱的时候哥哥们超捧场，就很像忙内鼓起勇气和PLLI告白，然后旁边哥哥们都在起哄吵吵闹闹的哈哈哈😂[天啊‼️（feat.哟呼](https://weibo.com/5499093017/5027152858711681) 可爱五只我一口吃掉😙然后斑比唱的超甜，宝宝和甜歌真的超级适配，唱得我母爱突然泛滥🤗真的是人间水蜜桃一只🍑虎子和诺亚唱到威廉的时候都绷不住了哈哈哈，原来明天是威廉的生日kk然后今天也嗑得很饱，诺亚给艺俊涂面膜这一幕也太老夫老妻既视感了吧！[【PLAVE/121】在家就这样](https://www.bilibili.com/video/BV1Qm421W7a8/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 这段狗靠在猫的肩膀也好好磕🥰 [【PLAVE 54】THE BOY IS MINE【猫猫狗狗】](https://www.bilibili.com/video/BV1Lp421S7o5/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)  而且今天的狗也超e，今天还老是说自己是intp哈哈哈，然而根本i不了一点😂
+
+[【PLAVE直播回放全场熟肉】开启春天序曲的春日KTV | 让拥有SUPER E 吸引力的PLAVE的脸蛋变得闪亮亮的办法是…? ](https://www.bilibili.com/video/BV1u1421X7fm/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 
 
 <!-- endtimeline -->
 
@@ -89,6 +166,8 @@ message: 134-1的含义？
 
 今天直播之前，虎子说自己拿着秒表计时自己吃完意大利面要多长时间，结果是47秒...弹幕里有人说“我们PLAVE有自己的秒表”真的笑不活我了哈哈哈哈哈🤣 [喝面达人都银虎!下次挑战炸酱面!](https://www.bilibili.com/video/BV1ix421Q7Pm/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 真的是在喝饭啊wuli小狗康阿几，必须得给小狗买一个慢食碗才行🤭[爆笑MV配音！这个程度完全是配音界丢失的人才吧](https://www.bilibili.com/video/BV1sp421m7bm/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 中间还给MV配音，河玟真的好有sense，模仿哥哥们真的很像！那个燃气费真的太好笑了吧，怎么感觉真的是诺亚能干得出来的事情...然后虎子配音斑比部分的时候，还被斑比发泡泡问为什么我的声音是那样哈哈哈哈🤣你小子现在是越来越不怕你哥打你了，估计是又皮痒了，话说今天的直播也是时不时起承转斑比的一天，你小子是真的超爱你斑比哥😊[【翻唱中字】银虎《摇篮曲》(原唱: IU) | 不会再有可怕的梦了 把你没有尽头漫长的悲伤 现在都送走吧 | 什么梦都不要做 好好睡一觉吧](https://www.bilibili.com/video/BV1T1421D7hv/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) / [银虎cover《Lullaby》《我的野蛮女友》](https://www.bilibili.com/video/BV1Aq421P74d/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) / [银虎河玟《上坡路》](https://www.bilibili.com/video/BV1WC411t7TJ/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 今天也唱了很多歌~感觉河玟真的在哥哥的指导下进步了很多~ [一起来上外语课｜“英语哈吉嘛！“SO SAD😆” ](https://www.bilibili.com/video/BV11A4m1A7vb/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 今天还聊到了外语课，听说英语老师经常点河玟回答问题哈哈哈，然后河玟回答不上来就用日语回答哈哈哈，sense有！虎子虽然说自己日语不好，但是发音也还是很标准呢，果然音感好的人学语言也很有优势呢😊今天忙内z还玩了合作游戏，这一刻我才明白，合作游戏才是忙内z的恐怖游戏😂而且猫猫狗狗一起直播的时候，感觉两个人都软软萌萌的，河玟会耐心教虎子，虎子也会很宠河玟，总之就是很可爱！
 
+[【PLAVE|直播全场中字熟肉】KTV|电影约会|外语课|MV配音|最后亿局海狸|艺俊出现|银虎河玟❤️🖤](https://www.bilibili.com/video/BV1ZD421N7TL/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+
 <!-- endtimeline -->
 
 <!-- timeline 03-27 -->
@@ -142,6 +221,8 @@ message: 134-1的含义？
 本来今天是三人直播的，但是因为艺俊声带小结需要少出声所以没有来...看到官方消息说艺俊将减少活动的消息，那一刻心里是很害怕紧张的，也是第一次听说这个病，评论区有人科普是声带过度劳累导致的，严重的情况甚至需要手术...看来他们最近回归加上临近演唱会真的有练习很多，但是还是希望他们五个能以身体健康放在第一位，毕竟留得青山在才有柴烧啊，回想起来这一年以来感冒的感冒，得新冠的，生病的生病，真的还是要注意身体健康啊切拜...😥😥
 
 [【PLAVE】WAY 4 LUV接力舞蹈](https://www.bilibili.com/video/BV1eu4m1T7sS/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 今天放出了舞蹈接力，斑比这次的小表情都好可爱！还磕到了好多CP，吃得好饱😙然后依然是欧巴的那个话题，你们真的很执着 [《欧巴三原则》｜“队内最欧巴的是谁” ](https://www.bilibili.com/video/BV1A2421P7Xb/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 反正斑比和河玟你俩就算是欧巴，那也是宝宝欧巴~然后今天还重现了河玟难以忘怀的吃平壤冷面撒娇的经典场面，原来斑比这小子平常私下里就是个喜欢撒娇的桃子精！[“哥哥太可爱了怎么办” ](https://www.bilibili.com/video/BV1xi421971s/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 谢谢河玟，今天也让我吃到了一口桃子🍑真的太可爱了ww然后今天舞line也跳了帅气的舞cha，斑比真的帅啊，超出建模的震感十分强烈，爱看请多来😘[《PLAVE 斑比》New School Bamby vs Old School Bamby](https://www.bilibili.com/video/BV1gt421G7mp/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 
+
+[【全场中字】PLAVE直播/斑比河玟💗🖤20240321应援棒介绍/音中接力Re/翻跳挑战/WFY自制应援法](https://www.bilibili.com/video/BV1cr421E7ne/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
 
 <!-- endtimeline -->
 
