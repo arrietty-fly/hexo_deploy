@@ -131,6 +131,21 @@ MBTI：INTP
 
 
 {% gallery %}
-[<img src="https://s21.ax1x.com/2024/05/26/pklaxBV.md.jpg" alt="pklaxBV.md.jpg" style="zoom:100%;" />](https://imgse.com/i/pklaxBV)[<img src="https://s21.ax1x.com/2024/05/26/pklwia8.md.jpg" alt="pklwia8.md.jpg" style="zoom: 43%;" />](https://imgse.com/i/pklwia8)[<img src="https://s21.ax1x.com/2024/05/26/pkldNE8.md.jpg" alt="pkldNE8.md.jpg" style="zoom: 53%;" />](https://imgse.com/i/pkldNE8)[<img src="https://s21.ax1x.com/2024/05/26/pkld6bV.md.jpg" alt="pkld6bV.md.jpg" style="zoom: 53%;" />](https://imgse.com/i/pkld6bV)[<img src="https://s21.ax1x.com/2024/05/26/pklwnrq.md.jpg" alt="pklwnrq.md.jpg" style="zoom:38%;" />](https://imgse.com/i/pklwnrq)[<img src="https://s21.ax1x.com/2024/05/26/pklwFIS.md.jpg" alt="pklwFIS.md.jpg" style="zoom:49%;" />](https://imgse.com/i/pklwFIS)[<img src="https://s21.ax1x.com/2024/05/26/pklwmMn.md.jpg" alt="pklwmMn.md.jpg" style="zoom: 65%;" />](https://imgse.com/i/pklwmMn)[<img src="https://s21.ax1x.com/2024/05/26/pklwAPg.md.jpg" alt="pklwAPg.md.jpg" style="zoom: 30%;" />](https://imgse.com/i/pklwAPg)<img src="https://img2.imgtp.com/2024/05/26/fBJ4pX8I.jpg" alt="26519d52c311375c47a41bcb462a3ce8.jpg" style="zoom:41%;" /><img src="https://img2.imgtp.com/2024/05/26/oZSmM9tr.jpg" alt="008xAxRXgy1hfwrgfm06zj30u00u04qp.jpg" style="zoom:41%;" /><img src="https://img2.imgtp.com/2024/05/26/yT9arVYP.jpg" alt="e836429e9a1690a68cc9182c681ff66a.jpg" style="zoom: 17%;" /><img src="https://img2.imgtp.com/2024/05/26/lEvVCCce.jpg" alt="b85078ebf0d8366a16d7e3dac1883090.jpg" style="zoom: 20%;" />
-
+<img src="https://img2.imgtp.com/2024/05/26/fBJ4pX8I.jpg" alt="💗" style="zoom:41%;" />
+<img src="https://img2.imgtp.com/2024/05/26/oZSmM9tr.jpg" alt="💗" style="zoom:41%;" />
+<img src="https://img2.imgtp.com/2024/05/26/yT9arVYP.jpg" alt="💗" style="zoom: 17%;" />
+<img src="https://img2.imgtp.com/2024/05/26/lEvVCCce.jpg" alt="💗" style="zoom: 20%;" />
+<img src="https://img2.imgtp.com/2024/05/27/U0u34kLw.jpg" alt="💗" style="zoom:25%;" />
+![💗](https://img2.imgtp.com/2024/05/27/I0jDleyb.jpg)
+![💗](https://img2.imgtp.com/2024/05/27/k68PxURI.jpg)
+![💗](https://img2.imgtp.com/2024/05/27/HlO0wNQf.jpg)
+![💗](https://img2.imgtp.com/2024/05/27/o1yU2MIZ.jpg)
+![💗](https://img2.imgtp.com/2024/05/27/DGQgmkcu.jpg)
+![💗](https://img2.imgtp.com/2024/05/27/4JYDHf5R.jpg)
+![💗](https://img2.imgtp.com/2024/05/27/yFXAwH9O.jpg)
+![💗](https://img2.imgtp.com/2024/05/27/Yd7Xbh3e.jpg)
+![💗](https://img2.imgtp.com/2024/05/27/doz1p6xv.jpg)
+![💗](https://img2.imgtp.com/2024/05/27/ZbKULcRD.jpg)
+![💗](https://img2.imgtp.com/2024/05/27/vKToZgW9.jpg)
 {% endgallery %}
+

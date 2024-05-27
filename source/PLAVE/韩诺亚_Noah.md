@@ -77,7 +77,15 @@ MBTI：ISTJ-A (22.09.29)➡️ISFJ-A（2 3.1 2.18）
 
 <!-- timeline 翻唱Cover -->
 
-
+1. [诺亚 - 《Seed》（原唱：TaeYang）_](https://www.bilibili.com/video/BV11e411Z7vx/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+2. [诺亚 & 河玟 - 《Love me or Leave me》（原唱：DAY6）_](https://www.bilibili.com/video/BV1oc411m7gz/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+3. [ 诺亚 -《Actually Pt.2》（原唱：PENOMECO）](https://www.bilibili.com/video/BV1Vp421y7SE/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+4. [诺亚 - 《Boong-Boong》 (原唱：Haon (Feat. Sik-K)(Prod. GroovyRoom))_](https://www.bilibili.com/video/BV1dF4m1A711/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+5. [ 诺亚 - 《Sugarcoat》 (NATTY Solo) (原唱：KISS OF LIFE)_](https://www.bilibili.com/video/BV1et421A7Zn/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+6. [诺亚 - 参宿四 (Betelgeuse) (原唱 : 優里 (Yuuri) (Covered by Noah)](https://www.bilibili.com/video/BV16P411k7zw/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+7. [Noah 诺亚 - Wherever you are (原唱：ONE OK ROCK) (Covered by Noah)](https://www.bilibili.com/video/BV1LM4y1d7kP/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+8. [Noah 诺亚 - Energetic (原唱：Wanna One) ｜#PLAVE 【2022.10.21弘大街头LIVE回放】](https://www.bilibili.com/video/BV1Dg4y1E7Pi/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+9. [Noah 诺亚 - 你的所有瞬间 (来自星星的你OST) (原唱：成始璄) ｜#PLAVE 【2022.10.21弘大街头LIVE回放】](https://www.bilibili.com/video/BV1Kx4y1T7fB/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
 
 <!-- endtimeline -->
 
@@ -92,49 +100,23 @@ MBTI：ISTJ-A (22.09.29)➡️ISFJ-A（2 3.1 2.18）
 
 
 {% gallery %}
-
-![008B8OaFgy1hkt0l8ynu5j31ls0wiaqm.jpg](https://img2.imgtp.com/2024/05/27/WEwLmzTj.jpg)
-
-![007jBCsNgy1hns0c2yfydj34eg3c0hdt.jpg](https://img2.imgtp.com/2024/05/27/B0fi2MTe.jpg)
-
-<img src="https://img2.imgtp.com/2024/05/27/HExU8RIG.jpg" alt="006r7Xe7ly1hi819tl5n8j327w3c0e81.jpg" style="zoom:25%;" />
-
-![006r7Xe7ly1hg3q1h0iauj35x03c0e83.jpg](https://img2.imgtp.com/2024/05/27/alUdlSo7.jpg)
-
-<img src="https://img2.imgtp.com/2024/05/27/1g4vmmbp.jpg" alt="006r7Xe7ly1hi81a1q8oyj327w3c0e81.jpg" style="zoom:25%;" />
-
-![006r7Xe7ly1hi819zwp60j327w3c0e81.jpg](https://img2.imgtp.com/2024/05/27/oUJqv2lt.jpg)
-
-![007u34YXgy1hmxe4w1wgzj317c0z4hbn.jpg](https://img2.imgtp.com/2024/05/27/oeStrK5j.jpg)
-
-<img src="https://img2.imgtp.com/2024/05/27/ezSW0FV4.jpg" alt="008B8OaFgy1hkt0vpazg8j33as3gw7wi.jpg" style="zoom:25%;" />
-
-![008xAxRXgy1hfit4346lzj30u00u01kx.jpg](https://img2.imgtp.com/2024/05/27/8nFOIxO7.jpg)
-
-![008B8OaFly1hldel60uo7j31p20ygduv.jpg](https://img2.imgtp.com/2024/05/27/n00UZACz.jpg)
-
-![008B8OaFgy1hnitvhnczsj32752xk1c4.jpg](https://img2.imgtp.com/2024/05/27/DXw4XyoU.jpg)
-
-![008B8OaFgy1hlq0rviktwj31q40ygk4z.jpg](https://img2.imgtp.com/2024/05/27/2fqYxHEL.jpg)
-
-![008B8OaFgy1hmou8t9kpuj30nc0ztty9.jpg](https://img2.imgtp.com/2024/05/27/Sat78MLr.jpg)
-
-![008B8OaFgy1hpox02o4a5j31ce1ceap3.jpg](https://img2.imgtp.com/2024/05/27/Aykn8X15.jpg)
-
-![008xAxRXgy1hdtchuiyjpj30u00u0trv.jpg](https://img2.imgtp.com/2024/05/27/86Mlhuf6.jpg)
-
-![008xAxRXgy1hmjujjljm4j31hc1hcnhc.jpg](https://img2.imgtp.com/2024/05/27/8vH5L1Ai.jpg)
-
-![008xAxRXgy1hmv8u8mx30j31hc1hcqj3.jpg](https://img2.imgtp.com/2024/05/27/VeIH49t2.jpg)
-
-![00729lLRly1hmnnqff44hj313o13o4iu.jpg](https://img2.imgtp.com/2024/05/27/uRA6wSVf.jpg)
-
-
-
-
-
-
-
-
+![💜](https://img2.imgtp.com/2024/05/27/WEwLmzTj.jpg)
+![💜](https://img2.imgtp.com/2024/05/27/B0fi2MTe.jpg)
+<img src="https://img2.imgtp.com/2024/05/27/HExU8RIG.jpg" alt="💜" style="zoom:25%;" />
+![💜](https://img2.imgtp.com/2024/05/27/alUdlSo7.jpg)
+<img src="https://img2.imgtp.com/2024/05/27/1g4vmmbp.jpg" alt="💜" style="zoom:25%;" />
+![💜](https://img2.imgtp.com/2024/05/27/oUJqv2lt.jpg)
+![💜](https://img2.imgtp.com/2024/05/27/oeStrK5j.jpg)
+<img src="https://img2.imgtp.com/2024/05/27/ezSW0FV4.jpg" alt="💜" style="zoom:25%;" />
+![💜](https://img2.imgtp.com/2024/05/27/8nFOIxO7.jpg)
+![💜](https://img2.imgtp.com/2024/05/27/n00UZACz.jpg)
+![💜](https://img2.imgtp.com/2024/05/27/DXw4XyoU.jpg)
+![💜](https://img2.imgtp.com/2024/05/27/2fqYxHEL.jpg)
+![💜](https://img2.imgtp.com/2024/05/27/Sat78MLr.jpg)
+![💜](https://img2.imgtp.com/2024/05/27/Aykn8X15.jpg)
+![💜](https://img2.imgtp.com/2024/05/27/86Mlhuf6.jpg)
+![💜](https://img2.imgtp.com/2024/05/27/8vH5L1Ai.jpg)
+![💜](https://img2.imgtp.com/2024/05/27/VeIH49t2.jpg)
+![💜](https://img2.imgtp.com/2024/05/27/uRA6wSVf.jpg)
 
 {% endgallery %}

@@ -69,10 +69,13 @@ MBTI：INFJ-A
 
 <!-- endtimeline -->
 
-<!-- timeline 翻唱Cover -->
+<!-- timeline 翻唱翻跳Cover -->
 
-1. 
-2. 
+1. [河玟 - 上坡路 (原唱 : 尹钟信)_](https://www.bilibili.com/video/BV1vy4y1w7HS/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+2. [诺亚 & 河玟 - 《Love me or Leave me》（原唱：DAY6）](https://www.bilibili.com/video/BV1oc411m7gz/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+3. [ 银虎 & 河玟 -《RINDAMAN》（原唱：PENOMECO Feat. ZICO）](https://www.bilibili.com/video/BV1R1421S7mR/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+4. [艺俊&河玟 - Your Ocean (原唱：Hoppipolla) | PLAVE](https://www.bilibili.com/video/BV1iQ4y147xe/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+5. [HAMIN - FIRE - BTS (Covered by Hamin)｜ PLAVE](https://www.bilibili.com/video/BV1xY4y1D76a/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
 
 <!-- endtimeline -->
 
@@ -88,5 +91,21 @@ MBTI：INFJ-A
 
 
 {% gallery %}
+![🖤](https://img2.imgtp.com/2024/05/27/3eUNzezP.jpg)
+![🖤](https://img2.imgtp.com/2024/05/27/IR1DBrJS.jpg)
+![🖤](https://img2.imgtp.com/2024/05/27/HtkUyqgs.jpg)
+![🖤](https://img2.imgtp.com/2024/05/27/J7wtTY5Z.jpg)
+![🖤](https://img2.imgtp.com/2024/05/27/Lc4Gyxts.jpg)
+![🖤](https://img2.imgtp.com/2024/05/27/oreZ5e5V.jpg)
+![🖤](https://img2.imgtp.com/2024/05/27/tfihOOJf.jpg)
+![🖤](https://img2.imgtp.com/2024/05/27/fBfqWvTC.jpg)
+![🖤](https://img2.imgtp.com/2024/05/27/itBk8kni.jpg)
+![🖤](https://img2.imgtp.com/2024/05/27/e6Ej5zxJ.jpg)
+![🖤](https://img2.imgtp.com/2024/05/27/dW5LMIEB.jpg)
+![🖤](https://img2.imgtp.com/2024/05/27/VsuMqq8u.jpg)
+![🖤](https://img2.imgtp.com/2024/05/27/QlnI2ro4.jpg)
+![🖤](https://img2.imgtp.com/2024/05/27/Q6BpRARR.jpg)
+![🖤](https://img2.imgtp.com/2024/05/27/EEAlOw8t.jpg)
+![🖤](https://img2.imgtp.com/2024/05/27/Au7jhvb0.jpg)
 
 {% endgallery %}

@@ -9,10 +9,10 @@ message: 134-1的含义？
 
 
 
-| [南艺俊_Yejun💙](https://arrietty-fly.github.io/私语札记/南艺俊_Yejun) | [韩诺亚_Noah💜](https://arrietty-fly.github.io/私语札记/韩诺亚_Noah) | [蔡丰玖_Bamby💗](https://arrietty-fly.github.io/私语札记/蔡丰玖_Bamby) | [都银虎_Eunho❤️](https://arrietty-fly.github.io/私语札记/都银虎_Eunho) | [柳河玟_Hamin🖤](https://arrietty-fly.github.io/私语札记/柳河玟_Hamin) |
+| [南艺俊_Yejun💙](https://arrietty-fly.github.io/PLAVE/南艺俊_Yejun) | [韩诺亚_Noah💜](https://arrietty-fly.github.io/PLAVE/韩诺亚_Noah) | [蔡丰玖_Bamby💗](https://arrietty-fly.github.io/PLAVE/蔡丰玖_Bamby) | [都银虎_Eunho❤️](https://arrietty-fly.github.io/PLAVE/都银虎_Eunho) | [柳河玟_Hamin🖤](https://arrietty-fly.github.io/PLAVE/柳河玟_Hamin) |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 
-| [噗国大事纪🌠](https://arrietty-fly.github.io/私语札记/噗国大事纪) | [幸运便利签🔖](https://arrietty-fly.github.io/私语札记/幸运便利签) |
+| [噗国大事纪🌠](https://arrietty-fly.github.io/PLAVE/噗国大事纪) | [幸运便利签🔖](https://arrietty-fly.github.io/PLAVE/幸运便利签) |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 
 {% timeline 2024,orange %}
