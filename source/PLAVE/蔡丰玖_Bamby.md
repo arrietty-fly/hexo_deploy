@@ -99,6 +99,8 @@ MBTI：INTP
 26. [S-CLASS challenge（qq炫舞特效版）](https://www.bilibili.com/video/BV1nj411X7g9/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
 27. [SUPER孙悟空challenge](https://www.bilibili.com/video/BV1o8411Z772/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
 28. [《JIKJIN》- TREASURE](https://www.bilibili.com/video/BV1Hg4y1W7zf/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+29. [三幕串联 故事响起/音乐剧之夜](https://www.bilibili.com/video/BV1GW4y1P7Vf/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+30. [舞蹈line连跳16首 莫非他们真的是身体记忆天才？！](https://www.bilibili.com/video/BV1xc411q7vy/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
 
 <!-- endtimeline -->
 
@@ -123,6 +125,10 @@ MBTI：INTP
 17. [艺俊斑比合作玩SUPER BUNNY MAN](https://www.bilibili.com/video/BV19M4y127Fs/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
 18. [广告主们看看小花花斑比吧/新特效我爱了](https://www.bilibili.com/video/BV12s4y1D7pU/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
 19. [甜心斑比还是金刚芭比？](https://www.bilibili.com/video/BV11L411f7Nv/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+19. [比比啊是吃面筋会变可爱吗 是你可爱而已](https://www.bilibili.com/video/BV1gy411a7Vm/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+19. [“我的花呐?!?!?!” ](https://www.bilibili.com/video/BV1xw4m1y7Bu/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+19. [“isolation不能停”|奇怪的舞蹈基本功接力第一名](https://www.bilibili.com/video/BV1kW4y1c7gg/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+19. [成员也不会的Asterum模拟考｜只有斑比受伤的世界｜论诺亚的羊驼有多少能力｜河玟加入PLAVE最棒的一点是？](https://www.bilibili.com/video/BV19F411U71q/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
 
 <!-- endtimeline -->
 
