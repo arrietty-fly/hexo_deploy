@@ -148,4 +148,3 @@ MBTI：INTP
 ![💗](https://img2.imgtp.com/2024/05/27/ZbKULcRD.jpg)
 ![💗](https://img2.imgtp.com/2024/05/27/vKToZgW9.jpg)
 {% endgallery %}
-
