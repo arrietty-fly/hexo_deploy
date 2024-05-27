@@ -14,14 +14,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: 检查分支
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           ref: main
 
       - name: 安装 Node
-        uses: actions/setup-node@v1
+        uses: actions/setup-node@v4
         with:
-          node-version: '12.x'
+          node-version: '20'
 
       - name: 安装 Hexo
         run: |
@@ -29,7 +29,7 @@ jobs:
           npm install hexo-cli -g
 
       - name: 缓存 Hexo
-        uses: actions/cache@v1
+        uses: actions/cache@v4
         id: cache
         with:
           path: node_modules

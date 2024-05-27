@@ -20,11 +20,17 @@ aside: false
 
 定位：Vocal
 
-MBTI：ISTJ-A
+MBTI：ISTJ-A (22.09.29)➡️ISFJ-A（2 3.1 2.18）
 
 标志：🦙💜🐈️✨️🐥🧀
 
 昵称：公主、芝士猫、驼驼
+
+爱好：唱歌、负重训练、看电影
+
+喜欢的东西：音乐、运动、咖啡、电影、YouTube
+
+讨厌的东西：虫子、嘈杂的地方、没有礼貌的人、隔应的感觉的东西或事情、水芹菜
 
 <!-- endtimeline -->
 
@@ -86,5 +92,49 @@ MBTI：ISTJ-A
 
 
 {% gallery %}
+
+![008B8OaFgy1hkt0l8ynu5j31ls0wiaqm.jpg](https://img2.imgtp.com/2024/05/27/WEwLmzTj.jpg)
+
+![007jBCsNgy1hns0c2yfydj34eg3c0hdt.jpg](https://img2.imgtp.com/2024/05/27/B0fi2MTe.jpg)
+
+<img src="https://img2.imgtp.com/2024/05/27/HExU8RIG.jpg" alt="006r7Xe7ly1hi819tl5n8j327w3c0e81.jpg" style="zoom:25%;" />
+
+![006r7Xe7ly1hg3q1h0iauj35x03c0e83.jpg](https://img2.imgtp.com/2024/05/27/alUdlSo7.jpg)
+
+<img src="https://img2.imgtp.com/2024/05/27/1g4vmmbp.jpg" alt="006r7Xe7ly1hi81a1q8oyj327w3c0e81.jpg" style="zoom:25%;" />
+
+![006r7Xe7ly1hi819zwp60j327w3c0e81.jpg](https://img2.imgtp.com/2024/05/27/oUJqv2lt.jpg)
+
+![007u34YXgy1hmxe4w1wgzj317c0z4hbn.jpg](https://img2.imgtp.com/2024/05/27/oeStrK5j.jpg)
+
+<img src="https://img2.imgtp.com/2024/05/27/ezSW0FV4.jpg" alt="008B8OaFgy1hkt0vpazg8j33as3gw7wi.jpg" style="zoom:25%;" />
+
+![008xAxRXgy1hfit4346lzj30u00u01kx.jpg](https://img2.imgtp.com/2024/05/27/8nFOIxO7.jpg)
+
+![008B8OaFly1hldel60uo7j31p20ygduv.jpg](https://img2.imgtp.com/2024/05/27/n00UZACz.jpg)
+
+![008B8OaFgy1hnitvhnczsj32752xk1c4.jpg](https://img2.imgtp.com/2024/05/27/DXw4XyoU.jpg)
+
+![008B8OaFgy1hlq0rviktwj31q40ygk4z.jpg](https://img2.imgtp.com/2024/05/27/2fqYxHEL.jpg)
+
+![008B8OaFgy1hmou8t9kpuj30nc0ztty9.jpg](https://img2.imgtp.com/2024/05/27/Sat78MLr.jpg)
+
+![008B8OaFgy1hpox02o4a5j31ce1ceap3.jpg](https://img2.imgtp.com/2024/05/27/Aykn8X15.jpg)
+
+![008xAxRXgy1hdtchuiyjpj30u00u0trv.jpg](https://img2.imgtp.com/2024/05/27/86Mlhuf6.jpg)
+
+![008xAxRXgy1hmjujjljm4j31hc1hcnhc.jpg](https://img2.imgtp.com/2024/05/27/8vH5L1Ai.jpg)
+
+![008xAxRXgy1hmv8u8mx30j31hc1hcqj3.jpg](https://img2.imgtp.com/2024/05/27/VeIH49t2.jpg)
+
+![00729lLRly1hmnnqff44hj313o13o4iu.jpg](https://img2.imgtp.com/2024/05/27/uRA6wSVf.jpg)
+
+
+
+
+
+
+
+
 
 {% endgallery %}
