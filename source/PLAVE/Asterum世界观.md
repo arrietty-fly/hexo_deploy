@@ -1,9 +1,9 @@
 ---
-title: Asterum世界观🌌
+title: From.Asterum🌌
 date: 2024-5-31 09:18:43
 aside: false
 ---
-
+{% timeline 2024,orange %}
 <!-- timeline 05-28 -->
 
 [2022年1月14日](https://weibo.com/7889250653/5038944020859880)
