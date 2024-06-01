@@ -30,7 +30,7 @@ MBTI：ENTP-T
 
 <!-- timeline TMI -->
 
-1. 
+1. [银虎从小就吃得很多，以至于妈妈一直频繁往返Costco（超市名）购入成捆大量的食物。小时候一人就能吃下半盘pizza，意大利面追加一平底锅量的切好的牛肉](https://weibo.com/3251547692/5040164067607047)
 2. 
 
 <!-- endtimeline -->
@@ -160,6 +160,13 @@ MBTI：ENTP-T
 ![❤️](https://img2.imgtp.com/2024/05/27/67aNTMCh.jpg)
 ![❤️](https://img2.imgtp.com/2024/05/27/q33N9k2b.jpg)
 ![❤️](https://img2.imgtp.com/2024/05/26/joVPJ8Ca.jpg)
+
+![8990062245a949c076ae8d3b79c66516.jpg](https://img.picui.cn/free/2024/06/01/665b134011272.jpg)
+
+![b3a9521969228dfc024694fbd56cacfe.jpg](https://img.picui.cn/free/2024/06/01/665b1344e7dfc.jpg)
+
+
+
 
 
 {% endgallery %}
