@@ -10,9 +10,8 @@ aside: false
 象征着四位成员和噗哩的鲸鱼推测为"长须鲸" 河玟独自为"[座头鲸](https://weibo.com/3251547692/5042634735222794)"
 听说座头鲸是除海豚外 在体型庞大的鲸类中 唯一能越出水面的鲸种
 穿行于水中和水之外的两个世界的座头鲸 可以象征着与电脑里外(两个世界)沟通的河玟
-
-[<img src="https://s21.ax1x.com/2024/06/08/pktWOJS.jpg" alt="💙💜💗❤️🖤" style="zoom:50%;" />](https://imgse.com/i/pktWOJS)
-[<img src="https://s21.ax1x.com/2024/06/08/pktWLi8.jpg" alt="💙💜💗❤️🖤" style="zoom:50%;" />](https://imgse.com/i/pktWLi8)
+<img src="https://i2.mjj.rip/2024/06/09/bbe124371fd821c3b12845439b256302.jpeg" alt="bbe124371fd821c3b12845439b256302.jpeg" style="zoom:50%;" />
+<img src="https://i2.mjj.rip/2024/06/09/cc08994decc881d6f86d6ccc53f0cc60.jpeg" alt="cc08994decc881d6f86d6ccc53f0cc60.jpeg" style="zoom:50%;" />
 
 <!-- endtimeline -->
 
