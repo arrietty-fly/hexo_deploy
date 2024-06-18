@@ -17,6 +17,36 @@ message: 134-1的含义？
 
 {% timeline 2024,orange %}
 
+<!-- timeline 06-10 -->
+
+![240610](https://img.picui.cn/free/2024/06/18/667129d095e24.jpg)
+
+今天是参加hybe演唱会的日子！很喜欢的舞台是翻唱jyp的《你住的那个家》😇本来第一次听的时候只知道是很性感的歌曲，但是看了歌词之后发现真的好涩好限制级啊哈哈😙斑比身高够不到话筒，但是斑比扔麦又用脚把麦勾回来真的好帅啊ww唯一不完美的地方就是切近景的时候摄像机带了一层灰色的滤镜似的很灰很糊，一时不知道该怪主办方还是骂vlast，拔剑四顾心茫然，还好B站有太太做了色彩修正版的，可以一直刷了~[【中韩双字】240616 PLAVE-Your House cover 开灯版](https://www.bilibili.com/video/BV1hT421a7Jf/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) / [【PLAVE】240616WVS CON现场全程｜超正大屏ver.｜五位大屏的神](https://www.bilibili.com/video/BV1Gdg7eREmq/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)  / [【Plave】240616 WVS CON online舞台合集（色彩校正版）](https://www.bilibili.com/video/BV1ss421T7VV/?spm_id_from=333.788.recommend_more_video.0&vd_source=683accdf4a366c372d15625bf59c99d7) / [【PLAVE】一分钟宣传片cut出10秒罚站普雷五｜wvscon DAY2](https://www.bilibili.com/video/BV1ay411z7YZ/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+<!-- endtimeline -->
+
+<!-- timeline 06-10 -->
+
+![240613](https://img.picui.cn/free/2024/06/18/667129caf213f.jpg)
+
+![240613](https://img.picui.cn/free/2024/06/18/667129d1f4018.jpg)
+
+今天玩了8号出口的前传，两大护法和怕得要死的斑比酱~斑比害怕的样子真是太可爱了哈哈哈哈[吓"盲"内哥是恐怖游戏的精髓](https://www.bilibili.com/video/BV1xD421u7k1/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) / [【蔡bamby】年轻真好 倒头就睡](https://www.bilibili.com/video/BV1vz421h77b/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) / [找到了抵抗恐惧的终极招式](https://www.bilibili.com/video/BV1W1421C7o6/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) / [【PLAVE熟切】谁家爱豆在恐游里开公演啊❓_](https://www.bilibili.com/video/BV1hT421e7g4/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)还和AI怼上了，斑比用上了毕生所学的英语哈哈哈，外星人大战AI [【PLAVE/中字】和AI吵架的外星人｜一款全自动道歉AI](https://www.bilibili.com/video/BV1H1421C7Qz/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+话说还是想吐槽一句，一进直播间就被斑比的新衣服改色吓死...本来之前那件体育老师运动服好不容易看顺眼了，结果vlast你给我整个更丑的...vlast的审美真的堪忧，拜托了快招到服装设计师吧切拜😅但是第二天我脑筋突然灵光一闪，突然醒悟了为什么vlast要让斑比又穿体育老师运动服又穿水管工工作服的原因了...其实这是vlast想要维持斑比的欠债人设不倒（）因为已知韩漫里面欠债受一般都是要为了还债而身兼数职的，所以可以得出斑比平常又要做体育老师又要去修水管，然后每周两天又要来直播一下再做一会儿爱豆，这样就是身兼三份工作！而且vlast此举的目的也是想要让大家不要忘记我们身边辛劳的劳动人民，要记住我们现在光鲜亮丽的生活背后是有劳动群众在为我们负重前行，为我们默默奉献汗水和辛劳...vlast可真谓是良苦用心啊...所以你是不是想念粉丝们的大卡车了？！
+
+<!-- endtimeline -->
+
+<!-- timeline 06-10 -->
+
+![240610](https://img.picui.cn/free/2024/06/18/667129d09ba8d.jpg)
+
+今天是公主D和水饺D~第二个部分是分享手机截图，艺俊分享的是直播前玩的象棋哈哈哈，诺亚分享的是哑铃(还得是你)...弹幕有人说艺俊和诺亚肯定是在公园认识的，一个下棋一个健身，笑死我了🤣不过艺俊居然玩象棋玩得还挺得心应手的，反观我一个中国本地人都不会，是不是得哪天学习一下了...还有可爱的猫猫狗狗~有一位噗哩的手机截图显示四百多条信息没看，然后诺亚说自己的kkt有571条未读...真是服了 [PL:RADIO 拿成员照片当手机背景？ 大哥s默契十足的手机画面背景居然都是？](https://www.bilibili.com/video/BV1bZ421g72K/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) / [“668条未读真的很了不起”“是我输啦!!”｜你有多少未读呢(◐‿◑)﻿ ](https://www.bilibili.com/video/BV1kS411K7Y7/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) / [《背着善宰跑》名场面复刻](https://www.bilibili.com/video/BV1eZ421u7WF/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) 
+
+<!-- endtimeline -->
+
+<!-- endtimeline -->
+
 <!-- timeline 06-05 -->
 
 ![Tingle Interview](https://img.picui.cn/free/2024/06/08/6663f862ea8ac.jpg)

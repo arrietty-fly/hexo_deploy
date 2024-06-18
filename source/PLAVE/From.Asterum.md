@@ -61,10 +61,6 @@ Terra程序员与hamin进行了对话，得知了Asterum和Caelum的存在，以
 
 {% endtimeline %}
 
-
-
-
-
 {% gallery %}
 
 ![💙💜💗❤️🖤](https://img2.imgtp.com/2024/05/31/1YpbszDC.jpg)
@@ -93,5 +89,6 @@ Terra程序员与hamin进行了对话，得知了Asterum和Caelum的存在，以
 ![💙💜💗❤️🖤](https://img2.imgtp.com/2024/05/31/unV2PUv9.png)
 ![💙💜💗❤️🖤](https://img2.imgtp.com/2024/05/31/po7BRKEJ.jpg)
 ![💙💜💗❤️🖤](https://img2.imgtp.com/2024/05/31/S92G8yDi.jpg)
+![💙💜💗❤️🖤](https://img.picui.cn/free/2024/06/18/667129d095e24.jpg)
 
 {% endgallery %}
