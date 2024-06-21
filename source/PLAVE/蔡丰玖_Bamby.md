@@ -32,6 +32,7 @@ MBTI：INTP
 
 1. ["我以前也有身体很沉的时候 就是特别沉感觉胳膊也抬不起来 腿也抬不起来 所以就在胳膊和腿上都绑着沙袋跳舞来着 虽然这样对关节很不好 但是真的把能试的方法全都试了一遍"](https://weibo.com/7562861850/5041266200674948)
 2. [粉小D：整個宇宙都在告訴我要跳舞](https://www.bilibili.com/video/BV1vn4y1d7im/?spm_id_from=333.788.top_right_bar_window_custom_collection.content.click&vd_source=683accdf4a366c372d15625bf59c99d7)
+2. [沉默着 更努力地扛着担子逼迫自己去达成目标去做到完美 让人心疼的比](https://weibo.com/7880262404/O4YfebCJG?pagetype=profilefeed)
 
 <!-- endtimeline -->
 

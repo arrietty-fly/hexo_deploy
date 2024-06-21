@@ -32,6 +32,7 @@ MBTI：ENTP-T
 
 1. [银虎从小就吃得很多，以至于妈妈一直频繁往返Costco（超市名）购入成捆大量的食物。小时候一人就能吃下半盘pizza，意大利面追加一平底锅量的切好的牛肉](https://weibo.com/3251547692/5040164067607047)
 2. [虎子意外地很擅长在水里wave  可是一上岸就...](https://weibo.com/3251547692/5046329631575484)
+2. [今后不要担心没有好吃的了...](https://weibo.com/5088701042/NveQf1mnm?pagetype=profilefeed)
 
 <!-- endtimeline -->
 
