@@ -91,4 +91,6 @@ Terra程序员与hamin进行了对话，得知了Asterum和Caelum的存在，以
 ![💙💜💗❤️🖤](https://img2.imgtp.com/2024/05/31/S92G8yDi.jpg)
 ![💙💜💗❤️🖤](https://img.picui.cn/free/2024/06/18/667129d095e24.jpg)
 
+![💙💜💗❤️🖤](https://pic.imge.cc/2024/07/01/66823f160def3.jpg)
+
 {% endgallery %}

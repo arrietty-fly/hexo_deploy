@@ -123,4 +123,5 @@ MBTI：INTP
 ![💗](https://img.picui.cn/free/2024/06/01/665b13453ed26.jpg)
 ![💗](https://img.picui.cn/free/2024/06/01/665b134547bcc.jpg)
 ![💗](https://img.picui.cn/free/2024/06/18/667129ac0d97c.jpg)
+![💗](https://pic.imge.cc/2024/07/01/66823f1c7097b.jpg)
 {% endgallery %}
