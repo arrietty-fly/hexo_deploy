@@ -66,23 +66,8 @@ MBTI：INFJ-A
 
 
 {% gallery %}
-![🖤](https://img2.imgtp.com/2024/05/27/3eUNzezP.jpg)
-![🖤](https://img2.imgtp.com/2024/05/27/IR1DBrJS.jpg)
-![🖤](https://img2.imgtp.com/2024/05/27/HtkUyqgs.jpg)
-![🖤](https://img2.imgtp.com/2024/05/27/J7wtTY5Z.jpg)
-![🖤](https://img2.imgtp.com/2024/05/27/Lc4Gyxts.jpg)
-![🖤](https://img2.imgtp.com/2024/05/27/oreZ5e5V.jpg)
-![🖤](https://img2.imgtp.com/2024/05/27/tfihOOJf.jpg)
-![🖤](https://img2.imgtp.com/2024/05/27/fBfqWvTC.jpg)
-![🖤](https://img2.imgtp.com/2024/05/27/itBk8kni.jpg)
-![🖤](https://img2.imgtp.com/2024/05/27/e6Ej5zxJ.jpg)
-![🖤](https://img2.imgtp.com/2024/05/27/dW5LMIEB.jpg)
-![🖤](https://img2.imgtp.com/2024/05/27/VsuMqq8u.jpg)
-![🖤](https://img2.imgtp.com/2024/05/27/QlnI2ro4.jpg)
-![🖤](https://img2.imgtp.com/2024/05/27/Q6BpRARR.jpg)
-![🖤](https://img2.imgtp.com/2024/05/27/EEAlOw8t.jpg)
-![🖤](https://img2.imgtp.com/2024/05/27/Au7jhvb0.jpg)
-![🖤](https://img.picui.cn/free/2024/06/01/665b13407728c.jpg)
+
+![🖤](https://pic.imgdb.cn/item/6687e831d9c307b7e92ae564.jpg)
 
 ![🖤](https://img.picui.cn/free/2024/06/18/667129abeb514.jpg)
 

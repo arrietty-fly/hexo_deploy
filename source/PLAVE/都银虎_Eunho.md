@@ -113,26 +113,16 @@ MBTI：ENTP-T
 
 
 {% gallery %}
-<img src="https://img2.imgtp.com/2024/05/26/nZ79k4DM.jpg" alt="❤️" style="zoom: 33%;" />
-<img src="https://img2.imgtp.com/2024/05/26/HpZegBLK.jpg" alt="❤️" style="zoom:26%;" />
-<img src="https://img2.imgtp.com/2024/05/26/NiuPop6k.jpg" alt="❤️" style="zoom:46%;" /><img src="https://img2.imgtp.com/2024/05/26/HCfYZv3M.jpg" alt="❤️" style="zoom:40%;" /><img src="https://img2.imgtp.com/2024/05/26/l5QglLAf.jpg" alt="❤️" style="zoom:14%;" /><img src="https://img2.imgtp.com/2024/05/26/8olJEKrN.jpg" alt="❤️" style="zoom:35%;" />
-<img src="https://img2.imgtp.com/2024/05/26/6paLtpnf.jpg" alt="❤️" style="zoom:8%;" /><img src="https://img2.imgtp.com/2024/05/26/7MkXZ7ge.jpg" alt="❤️" style="zoom: 35%;" />
-<img src="https://img2.imgtp.com/2024/05/26/VErZWb6R.jpg" alt="❤️" style="zoom:28%;" /><img src="https://img2.imgtp.com/2024/05/26/jhixl4iz.jpg" alt="❤️" style="zoom:28%;" /><img src="https://img2.imgtp.com/2024/05/26/iEB77DIJ.jpg" alt="❤️" style="zoom:28%;" /><img src="https://img2.imgtp.com/2024/05/26/l6rU950n.jpg" alt="❤️" style="zoom: 33%;" /><img src="https://img2.imgtp.com/2024/05/26/qtoDUYO5.jpg" alt="❤️" style="zoom: 9%;" />
-![❤️](https://img2.imgtp.com/2024/05/27/pDUg3MYb.jpg)
-![❤️](https://img2.imgtp.com/2024/05/27/HTOD9VzF.jpg)
-![❤️](https://img2.imgtp.com/2024/05/27/6uoVujod.jpg)
-![❤️](https://img2.imgtp.com/2024/05/27/1RCgTyJX.jpg)
-![❤️](https://img2.imgtp.com/2024/05/27/r99UAjuH.jpg)
-![❤️](https://img2.imgtp.com/2024/05/27/UlerRb6H.jpg)
-![❤️](https://img2.imgtp.com/2024/05/27/67aNTMCh.jpg)
-![❤️](https://img2.imgtp.com/2024/05/27/q33N9k2b.jpg)
-![❤️](https://img2.imgtp.com/2024/05/26/joVPJ8Ca.jpg)
-![❤️](https://img.picui.cn/free/2024/06/01/665b134011272.jpg)
+
+![❤️](https://pic.imgdb.cn/item/6687e832d9c307b7e92ae5b7.jpg)
+
 ![❤️](https://img.picui.cn/free/2024/06/01/665b1344e7dfc.jpg)
 ![❤️](https://img.picui.cn/free/2024/06/18/667129ac0ef08.jpg)
 
+![❤️](https://pic.imgdb.cn/item/6687e832d9c307b7e92ae65e.jpg)
 
+![❤️](https://pic.imgdb.cn/item/6687e8e4d9c307b7e92c3b1a.jpg)
 
-
+![❤️](https://pic.imgdb.cn/item/6687e8e5d9c307b7e92c3bf9.jpg)
 
 {% endgallery %}

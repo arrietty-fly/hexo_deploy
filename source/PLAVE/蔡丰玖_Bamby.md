@@ -33,6 +33,7 @@ MBTI：INTP
 1. ["我以前也有身体很沉的时候 就是特别沉感觉胳膊也抬不起来 腿也抬不起来 所以就在胳膊和腿上都绑着沙袋跳舞来着 虽然这样对关节很不好 但是真的把能试的方法全都试了一遍"](https://weibo.com/7562861850/5041266200674948)
 2. [粉小D：整個宇宙都在告訴我要跳舞](https://www.bilibili.com/video/BV1vn4y1d7im/?spm_id_from=333.788.top_right_bar_window_custom_collection.content.click&vd_source=683accdf4a366c372d15625bf59c99d7)
 2. [沉默着 更努力地扛着担子逼迫自己去达成目标去做到完美 让人心疼的比](https://weibo.com/7880262404/O4YfebCJG?pagetype=profilefeed)
+2. [小比的喜好list🍑](https://weibo.com/6591628792/5052402539694208)
 
 <!-- endtimeline -->
 
@@ -104,24 +105,13 @@ MBTI：INTP
 
 
 {% gallery %}
-<img src="https://img2.imgtp.com/2024/05/26/fBJ4pX8I.jpg" alt="💗" style="zoom:41%;" />
-<img src="https://img2.imgtp.com/2024/05/26/oZSmM9tr.jpg" alt="💗" style="zoom:41%;" />
-<img src="https://img2.imgtp.com/2024/05/26/yT9arVYP.jpg" alt="💗" style="zoom: 17%;" />
-<img src="https://img2.imgtp.com/2024/05/26/lEvVCCce.jpg" alt="💗" style="zoom: 20%;" />
-<img src="https://img2.imgtp.com/2024/05/27/U0u34kLw.jpg" alt="💗" style="zoom:25%;" />
-![💗](https://img2.imgtp.com/2024/05/27/I0jDleyb.jpg)
-![💗](https://img2.imgtp.com/2024/05/27/k68PxURI.jpg)
-![💗](https://img2.imgtp.com/2024/05/27/HlO0wNQf.jpg)
-![💗](https://img2.imgtp.com/2024/05/27/o1yU2MIZ.jpg)
-![💗](https://img2.imgtp.com/2024/05/27/DGQgmkcu.jpg)
-![💗](https://img2.imgtp.com/2024/05/27/4JYDHf5R.jpg)
-![💗](https://img2.imgtp.com/2024/05/27/yFXAwH9O.jpg)
-![💗](https://img2.imgtp.com/2024/05/27/Yd7Xbh3e.jpg)
-![💗](https://img2.imgtp.com/2024/05/27/doz1p6xv.jpg)
-![💗](https://img2.imgtp.com/2024/05/27/ZbKULcRD.jpg)
-![💗](https://img2.imgtp.com/2024/05/27/vKToZgW9.jpg)
-![💗](https://img.picui.cn/free/2024/06/01/665b13453ed26.jpg)
-![💗](https://img.picui.cn/free/2024/06/01/665b134547bcc.jpg)
 ![💗](https://img.picui.cn/free/2024/06/18/667129ac0d97c.jpg)
 ![💗](https://pic.imge.cc/2024/07/01/66823f1c7097b.jpg)
+
+![💗](https://pic.imgdb.cn/item/6687e831d9c307b7e92ae535.jpg)
+
+![💗](https://pic.imgdb.cn/item/6687e832d9c307b7e92ae614.jpg)
+
+![💗](https://pic.imgdb.cn/item/6687e9afd9c307b7e92e363c.jpg)
+
 {% endgallery %}

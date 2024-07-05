@@ -102,25 +102,8 @@ MBTI：ISTJ-A (22.09.29)➡️ISFJ-A（2 3.1 2.18）
 
 
 {% gallery %}
-![💜](https://img2.imgtp.com/2024/05/27/WEwLmzTj.jpg)
-![💜](https://img2.imgtp.com/2024/05/27/B0fi2MTe.jpg)
-<img src="https://img2.imgtp.com/2024/05/27/HExU8RIG.jpg" alt="💜" style="zoom:25%;" />
-![💜](https://img2.imgtp.com/2024/05/27/alUdlSo7.jpg)
-<img src="https://img2.imgtp.com/2024/05/27/1g4vmmbp.jpg" alt="💜" style="zoom:25%;" />
-![💜](https://img2.imgtp.com/2024/05/27/oUJqv2lt.jpg)
-![💜](https://img2.imgtp.com/2024/05/27/oeStrK5j.jpg)
-<img src="https://img2.imgtp.com/2024/05/27/ezSW0FV4.jpg" alt="💜" style="zoom:25%;" />
-![💜](https://img2.imgtp.com/2024/05/27/8nFOIxO7.jpg)
-![💜](https://img2.imgtp.com/2024/05/27/n00UZACz.jpg)
-![💜](https://img2.imgtp.com/2024/05/27/DXw4XyoU.jpg)
-![💜](https://img2.imgtp.com/2024/05/27/2fqYxHEL.jpg)
-![💜](https://img2.imgtp.com/2024/05/27/Sat78MLr.jpg)
-![💜](https://img2.imgtp.com/2024/05/27/Aykn8X15.jpg)
-![💜](https://img2.imgtp.com/2024/05/27/86Mlhuf6.jpg)
-![💜](https://img2.imgtp.com/2024/05/27/8vH5L1Ai.jpg)
-![💜](https://img2.imgtp.com/2024/05/27/VeIH49t2.jpg)
-![💜](https://img2.imgtp.com/2024/05/27/uRA6wSVf.jpg)
-![💜](https://img.picui.cn/free/2024/06/01/665b133f290d2.jpg)
+![💜](https://pic.imgdb.cn/item/6687e8e5d9c307b7e92c3c97.jpg)
+![💜](https://pic.imgdb.cn/item/6687e770d9c307b7e92952b7.jpg)
 ![💜](https://img.picui.cn/free/2024/06/18/667129abf2ad0.jpg)
 
 
