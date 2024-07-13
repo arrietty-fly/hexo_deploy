@@ -34,6 +34,8 @@ MBTI：INTP
 2. [粉小D：整個宇宙都在告訴我要跳舞](https://www.bilibili.com/video/BV1vn4y1d7im/?spm_id_from=333.788.top_right_bar_window_custom_collection.content.click&vd_source=683accdf4a366c372d15625bf59c99d7)
 2. [沉默着 更努力地扛着担子逼迫自己去达成目标去做到完美 让人心疼的比](https://weibo.com/7880262404/O4YfebCJG?pagetype=profilefeed)
 2. [小比的喜好list🍑](https://weibo.com/6591628792/5052402539694208)
+2. [斑比的生日kit](https://weibo.com/7923508334/5054634326492462)
+2. [彩版笔个人技：闭眼辨别成员屁股](https://weibo.com/1952207525/5053943042278929)
 
 <!-- endtimeline -->
 
@@ -107,11 +109,42 @@ MBTI：INTP
 {% gallery %}
 ![💗](https://img.picui.cn/free/2024/06/18/667129ac0d97c.jpg)
 ![💗](https://pic.imge.cc/2024/07/01/66823f1c7097b.jpg)
-
 ![💗](https://pic.imgdb.cn/item/6687e831d9c307b7e92ae535.jpg)
-
 ![💗](https://pic.imgdb.cn/item/6687e832d9c307b7e92ae614.jpg)
-
 ![💗](https://pic.imgdb.cn/item/6687e9afd9c307b7e92e363c.jpg)
+![💗](https://pic.imgdb.cn/item/6692436dd9c307b7e90fcdcc.jpg)
+![💗](https://pic.imgdb.cn/item/6692436dd9c307b7e90fce0c.jpg)
+![💗](https://pic.imgdb.cn/item/6692436ed9c307b7e90fce8a.jpg)
+![💗](https://pic.imgdb.cn/item/6692436ed9c307b7e90fced0.jpg)
+![💗](https://pic.imgdb.cn/item/6692436ed9c307b7e90fcfa8.jpg)
+![💗](https://pic.imgdb.cn/item/669243cad9c307b7e910404a.jpg)
+![💗](https://pic.imgdb.cn/item/669243cad9c307b7e91040c5.jpg)
+![💗](https://pic.imgdb.cn/item/669243cbd9c307b7e9104120.jpg)
+![💗](https://pic.imgdb.cn/item/669243cbd9c307b7e91041c3.jpg)
+![💗](https://pic.imgdb.cn/item/669243ccd9c307b7e9104213.jpg)
+![💗](https://pic.imgdb.cn/item/6692440cd9c307b7e910942d.jpg)
+![💗](https://pic.imgdb.cn/item/6692440dd9c307b7e910947b.jpg)
+![💗](https://pic.imgdb.cn/item/6692440dd9c307b7e91094fc.jpg)
+![💗](https://pic.imgdb.cn/item/6692440ed9c307b7e91095f5.jpg)
+![💗](https://pic.imgdb.cn/item/6692440ed9c307b7e910962b.jpg)
+![💗](https://pic.imgdb.cn/item/669244c5d9c307b7e9118830.jpg)
+![💗](https://pic.imgdb.cn/item/669244c5d9c307b7e911886a.jpg)
+![💗](https://pic.imgdb.cn/item/669244c6d9c307b7e91188e6.jpg)
+![💗](https://pic.imgdb.cn/item/669244c6d9c307b7e9118955.jpg)
+![💗](https://pic.imgdb.cn/item/669244c6d9c307b7e91189a2.jpg)
+![💗](https://pic.imgdb.cn/item/669245b5d9c307b7e912d0fa.jpg)
+![💗](https://pic.imgdb.cn/item/669245b5d9c307b7e912d153.jpg)
+![💗](https://pic.imgdb.cn/item/669245b6d9c307b7e912d1e6.jpg)
+![💗](https://pic.imgdb.cn/item/669245b6d9c307b7e912d28a.jpg)
+![💗](https://pic.imgdb.cn/item/669245b6d9c307b7e912d344.jpg)
+![💗](https://pic.imgdb.cn/item/66924609d9c307b7e91344ea.jpg)
+![💗](https://pic.imgdb.cn/item/6692460ad9c307b7e9134593.jpg)
+![💗](https://pic.imgdb.cn/item/6692460ad9c307b7e91345c7.jpg)
+![💗](https://pic.imgdb.cn/item/6692460ad9c307b7e913463e.jpg)
+![💗](https://pic.imgdb.cn/item/6692460bd9c307b7e9134680.jpg)
+![💗](https://pic.imgdb.cn/item/6692468dd9c307b7e913e664.jpg)
+![💗](https://pic.imgdb.cn/item/6692468dd9c307b7e913e6a7.jpg)
+![💗](https://pic.imgdb.cn/item/6692468fd9c307b7e913e946.jpg)
+![💗](https://pic.imgdb.cn/item/669246aad9c307b7e9140c62.jpg)
 
 {% endgallery %}

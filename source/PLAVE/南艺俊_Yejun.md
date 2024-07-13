@@ -74,8 +74,19 @@ MBTI：ISFJ-T
 
 {% gallery %}
 ![💙](https://img.picui.cn/free/2024/06/18/667129ac0ecb1.jpg)
-
-
+![💙](https://pic.imgdb.cn/item/66924b03d9c307b7e9195fde.jpg)
+![💙](https://pic.imgdb.cn/item/66924b03d9c307b7e9196074.jpg)
+![💙](https://pic.imgdb.cn/item/66924b04d9c307b7e91960f8.jpg)
+![💙](https://pic.imgdb.cn/item/66924b04d9c307b7e919614e.jpg)
+![💙](https://pic.imgdb.cn/item/66924b04d9c307b7e919621a.jpg)
+![💙](https://pic.imgdb.cn/item/66924b8fd9c307b7e91a0233.jpg)
+![💙](https://pic.imgdb.cn/item/66924b90d9c307b7e91a02da.jpg)
+![💙](https://pic.imgdb.cn/item/66924b90d9c307b7e91a030c.jpg)
+![💙](https://pic.imgdb.cn/item/66924b90d9c307b7e91a0367.jpg)
+![💙](https://pic.imgdb.cn/item/66924b91d9c307b7e91a0486.jpg)
+![💙](https://pic.imgdb.cn/item/66924bc1d9c307b7e91a3e99.jpg)
+![💙](https://pic.imgdb.cn/item/66924bc5d9c307b7e91a426a.jpg)
+![💙](https://pic.imgdb.cn/item/66924bc5d9c307b7e91a426a.jpg)
 
 
 {% endgallery %}

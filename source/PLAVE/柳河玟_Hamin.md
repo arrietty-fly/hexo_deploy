@@ -68,11 +68,10 @@ MBTI：INFJ-A
 {% gallery %}
 
 ![🖤](https://pic.imgdb.cn/item/6687e831d9c307b7e92ae564.jpg)
-
 ![🖤](https://img.picui.cn/free/2024/06/18/667129abeb514.jpg)
-
-
-
-
-
+![🖤](https://pic.imgdb.cn/item/66924ac1d9c307b7e9191513.jpg)
+![🖤](https://pic.imgdb.cn/item/66924ac2d9c307b7e9191579.jpg)
+![🖤](https://pic.imgdb.cn/item/66924ac2d9c307b7e91915af.jpg)
+![🖤](https://pic.imgdb.cn/item/66924ac2d9c307b7e91915ff.jpg)
+![🖤](https://pic.imgdb.cn/item/66924ac2d9c307b7e919162f.jpg)
 {% endgallery %}

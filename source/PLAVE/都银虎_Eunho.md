@@ -115,14 +115,27 @@ MBTI：ENTP-T
 {% gallery %}
 
 ![❤️](https://pic.imgdb.cn/item/6687e832d9c307b7e92ae5b7.jpg)
-
 ![❤️](https://img.picui.cn/free/2024/06/01/665b1344e7dfc.jpg)
 ![❤️](https://img.picui.cn/free/2024/06/18/667129ac0ef08.jpg)
-
 ![❤️](https://pic.imgdb.cn/item/6687e832d9c307b7e92ae65e.jpg)
-
 ![❤️](https://pic.imgdb.cn/item/6687e8e4d9c307b7e92c3b1a.jpg)
-
 ![❤️](https://pic.imgdb.cn/item/6687e8e5d9c307b7e92c3bf9.jpg)
+![❤️](https://pic.imgdb.cn/item/66924711d9c307b7e91490da.jpg)
+![❤️](https://pic.imgdb.cn/item/66924711d9c307b7e914911e.jpg)
+![❤️](https://pic.imgdb.cn/item/66924711d9c307b7e9149145.jpg)
+![❤️](https://pic.imgdb.cn/item/66924712d9c307b7e91491ab.jpg)
+![❤️](https://pic.imgdb.cn/item/66924712d9c307b7e91491fe.jpg)
+![❤️](https://pic.imgdb.cn/item/66924758d9c307b7e914f091.jpg)
+![❤️](https://pic.imgdb.cn/item/66924758d9c307b7e914f0f6.jpg)
+![❤️](https://pic.imgdb.cn/item/66924759d9c307b7e914f15b.jpg)
+![❤️](https://pic.imgdb.cn/item/66924759d9c307b7e914f1a9.jpg)
+
+
+
+
+
+
+
+
 
 {% endgallery %}
