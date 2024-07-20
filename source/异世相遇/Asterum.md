@@ -15,6 +15,22 @@ message: 134-1的含义？
 
 {% timeline 2024,orange %}
 
+<!-- timeline 07-18 -->
+
+![](https://pic.imgdb.cn/item/669b0555d9c307b7e9bf9354.jpg)
+
+久违的五人直播！今天是在学校天台，感觉vlast的技术革新了，很明显感觉到今天天台的风好喧嚣哈哈哈，诺亚的那撇刘海总是盖住眼睛，有点像我的发对不起🤣风把头发微微吹起来很有氛围感哈哈不错不错~[欧巴](https://weibo.com/5499093017/5057583857534093) 虎子的这个风真是恰到好处！今天的白t也是看得赏心悦目很清爽，久违的感觉（）[什么画面？？？？](https://weibo.com/3251547692/5057566520379599) 话说这正直播呢，怎么还摸起胸来了？？兄弟摸一下（）[我们雾](https://weibo.com/3251547692/5057571312371108) 这段感觉好温馨啊呼呼，五个人真好~[睡美人公主](https://weibo.com/3251547692/5057573986239550) 这段好好笑，诺亚是真的睡神，到哪里都是睡哈哈哈哈，真.睡美人😂先是选了一下新任mc，最终是诺亚，笑死了诺亚应该是我见过最松弛笑点最低的MC了，还老是忘记自己是MC的一位MC笑死🤣最后的重磅节目是摇滚音乐节，首先每个人自己设计的旗帜很有趣哈哈，各有各的风格哈哈，猫猫还是那么有sense，斑比怎么还加了四个中文字“娱乐加乐”为啥有些看不懂啥意思，还有诺亚还是那么喜欢他那肌肉，虎子还是那么爱吃炸酱面...[五人旗帜](https://weibo.com/3251547692/5057578055502766) 然后每人都唱了一首摇滚歌曲，后面还有双人合唱和团体接力唱，真的听的很满足很满足~[【2024PLAVE夏日摇滚节】11首歌不要钱免费听](https://www.bilibili.com/video/BV1ZE421w7US/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+<!-- endtimeline -->
+
+<!-- timeline 07-15 -->
+
+![](https://pic.imgdb.cn/item/669b0555d9c307b7e9bf932f.jpg)
+
+今天是比比的生日~今天戴的桃子头套真的好大哈哈，弹幕都在说吃一口，桃子一人一口不要抢！有人说这才是真正的三头身哈哈哈真的笑死😂前半个小时都是接成员们的电话[💜💙🖤三人的来电对话内容](https://weibo.com/3251547692/5056519554467525) 没想到第一个居然是诺亚哈哈哈🤗然后是虎子，说了一半突然给挂了哈哈 [都银虎的电话☎️](https://www.bilibili.com/video/BV1hT421Y7vP/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7)这种荒诞的无厘头感，果然还得是yataz（）之后果然还是提着蛋糕来了哈哈，甚至是骑摩托车来的，突然一道摩托车的声音哈哈🤣[小桃子生日 虎子突然出现！](https://www.bilibili.com/video/BV1tw4m1Y7YU/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7)然后艺俊还是没忘记他那三行诗，河玟也是三行诗，最后那个哔哔哔之后挂电话真的太有sense了笑死【笑哭】斑比直接愣在原地[用"斑比"二行诗挂掉斑比哥电话|哈米尼](https://www.bilibili.com/video/BV1QGb9evEVm/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7)话说我就知道vlast一直不给yataz双播就是为了今天生日嘿嘿，虎子来了之后感觉真的ei分明，感觉斑比要被虎子这个狂e给榨干了哈哈哈哈🤣虎子给斑比唱歌改词还以为要官宣了哈哈哈哈 [斑比生日银虎献唱《I Think I Did》](https://www.bilibili.com/video/BV1TE421P71g/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7)还突然公主抱一下，抱完之后斑比立马立正在原地真的笑死我了，有人说虎子是去生咖偷立牌了笑死哈哈哈哈哈😂[都銀虎假·動作跳舞但真·想公主抱他哥](https://www.bilibili.com/video/BV14b421E7rs/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7)还一起跳了咒文[银虎斑比《咒文》舞蹈Cover](https://www.bilibili.com/video/BV1ii421Y7YT/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7)这个虎子画的蛋糕也是真的生草，弹幕都说那俩天线像齐木楠雄笑死 [希望嘣咕宝宝的愿望都实现！](https://weibo.com/1952207525/5056510402763651) 然后后半段就是比的主唱了，还请来了AI老兄弟，斑比还说本来想请八号站台的阿加西的（？斑比你真的好爱大叔...和斑比变亲近的方法，第一肯定得要是平冷，我就知道，不管是平冷还是甜嚼片都淡淡的，我还是更喜欢吃辣的抱歉了宝（）然后跳了supernatural和boom boom bass，很帅气~[史上最会跳舞的桃子](https://www.bilibili.com/video/BV1TE421P76m/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7)然后还唱了歌，最后走的时候也揭晓了新cover，是一首日语歌呢，感觉斑比的音色真的很适配这首歌~很有动漫op的感觉呢【超爱】期待周三的视频cover🥰[【翻唱】【PLAVE生日礼】 斑比 - 《Pretender》原唱: Official髭男dism](https://www.bilibili.com/video/BV1fE421c7hq/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7)最后拍照时间的比真的好可爱啊这个角度，真的是很甜很萌的桃子🤤[小寿星的拍照时间！](https://www.bilibili.com/video/BV1pJ4m1M78X/?spm_id_from=333.337.search-card.all.click&vd_source=683accdf4a366c372d15625bf59c99d7)/ [斑比生日直播截修](https://weibo.com/6702646201/5056496176465090)
+
+<!-- endtimeline -->
+
 <!-- timeline 07-08 -->
 
 ![](https://pic.imgdb.cn/item/66924e36d9c307b7e91d831d.jpg)

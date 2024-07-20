@@ -129,7 +129,7 @@ MBTI：ENTP-T
 ![❤️](https://pic.imgdb.cn/item/66924758d9c307b7e914f0f6.jpg)
 ![❤️](https://pic.imgdb.cn/item/66924759d9c307b7e914f15b.jpg)
 ![❤️](https://pic.imgdb.cn/item/66924759d9c307b7e914f1a9.jpg)
-
+![❤️](https://pic.imgdb.cn/item/669b065cd9c307b7e9c0ab0a.jpg)
 
 
 
