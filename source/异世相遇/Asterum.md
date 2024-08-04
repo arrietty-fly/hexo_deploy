@@ -15,6 +15,16 @@ message: 134-1的含义？
 
 {% timeline 2024,orange %}
 
+<!-- timeline 08-01 -->
+
+![](https://pic.imgdb.cn/item/66aef3d5d9c307b7e9fe8122.jpg)
+
+今天有联动的小游戏！提前一个小时开播开放游戏链接，但是服务器最后还是崩了...刚开始是一直卡在30%，最后终于进去了开始捏脸换装，然后又是一阵好等...等到终于进入游戏厅了，进入第一个关卡又卡住了，感觉不是在卡就是在卡的路上。第二个关卡我倒是挤进来了，结果哥几个挤不进来了，最后尬聊了好久下播了，vlast你看你这活动办的，提前那么多天发预告，还以为你信心满满呢...不过游戏倒是做的很精致，像素风地图和像素小人都很可爱~有很多小细节做得很好~就是可惜服务器不给力，本来可以玩得很开心的。看着他们五个看到噗哩蹦蹦跳跳的时候笑得那么开心，噗哩也很听话乖巧地排成长队和做人潮[和plave进行游戏互动cut 我愿意当一辈子噗哩](https://www.bilibili.com/video/BV1dHiueKEp7/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)突然觉得平时他们很难和粉丝这样近距离互动交流，虽然都是隔着一块屏幕，但是这种小游戏的方式反而更加贴近了，这难道就是赛博见面会？[状况百出但依旧超强生唱的PLAVE现场 (feat. 诺亚光脚板&绿幕滤镜…](https://www.bilibili.com/video/BV1wKvveJESu/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+[小猫家五人聚餐趣事](https://www.bilibili.com/video/BV1T9i7e7Ef2/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7) / [二选一平衡游戏｜诞生名场面“你会生病的！”｜我们是爱豆啊！](https://www.bilibili.com/video/BV1oaiLe9ERL/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+
+<!-- endtimeline -->
+
 <!-- timeline 07-18 -->
 
 ![](https://pic.imgdb.cn/item/669b0555d9c307b7e9bf9354.jpg)

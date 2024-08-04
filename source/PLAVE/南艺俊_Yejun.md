@@ -87,6 +87,10 @@ MBTI：ISFJ-T
 ![💙](https://pic.imgdb.cn/item/66924bc1d9c307b7e91a3e99.jpg)
 ![💙](https://pic.imgdb.cn/item/66924bc5d9c307b7e91a426a.jpg)
 ![💙](https://pic.imgdb.cn/item/66924bc5d9c307b7e91a426a.jpg)
+![💙](https://pic.imgdb.cn/item/66aeefc8d9c307b7e9f6d6df.jpg)
+![💙](https://pic.imgdb.cn/item/66aef0d7d9c307b7e9fa6373.jpg)
+![💙](https://pic.imgdb.cn/item/66aef0d8d9c307b7e9fa64e8.jpg)
+
 
 
 {% endgallery %}

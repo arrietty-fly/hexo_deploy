@@ -36,6 +36,9 @@ MBTI：INTP
 2. [小比的喜好list🍑](https://weibo.com/6591628792/5052402539694208)
 2. [斑比的生日kit](https://weibo.com/7923508334/5054634326492462)
 2. [彩版笔个人技：闭眼辨别成员屁股](https://weibo.com/1952207525/5053943042278929)
+2. [一直相信着对植物说美言就会长得很好！](https://weibo.com/7486683991/5061586308304745)
+2. [蔡斑比平衡游戏：](https://weibo.com/7486683991/5062683032552550)
+2. [小小努力家比](https://weibo.com/7524962274/5062314087157134)
 
 <!-- endtimeline -->
 
@@ -149,6 +152,11 @@ MBTI：INTP
 ![💗](https://pic.imgdb.cn/item/669b065cd9c307b7e9c0aae4.jpg)
 ![💗](https://pic.imgdb.cn/item/669b065cd9c307b7e9c0ab2f.jpg)
 ![💗](https://pic.imgdb.cn/item/669b065dd9c307b7e9c0ab9f.jpg)
+![💗](https://pic.imgdb.cn/item/66aef03ed9c307b7e9f861ce.jpg)
+![💗](https://pic.imgdb.cn/item/66aef03ed9c307b7e9f8624f.jpg)
+![💗](https://pic.imgdb.cn/item/66aef03ed9c307b7e9f86320.jpg)
+![💗](https://pic.imgdb.cn/item/66aef03ed9c307b7e9f8643d.jpg)
+
 
 
 

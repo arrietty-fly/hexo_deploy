@@ -125,5 +125,16 @@ MBTI：ISTJ-A (22.09.29)➡️ISFJ-A（2 3.1 2.18）
 ![💜](https://pic.imgdb.cn/item/66924a40d9c307b7e91882b4.jpg)
 ![💜](https://pic.imgdb.cn/item/66924a43d9c307b7e9188679.jpg)
 ![💜](https://pic.imgdb.cn/item/66924a45d9c307b7e9188873.jpg)
+![💜](https://pic.imgdb.cn/item/66aeefc8d9c307b7e9f6d646.jpg)
+![💜](https://pic.imgdb.cn/item/66aeefc8d9c307b7e9f6d809.jpg)
+![💜](https://pic.imgdb.cn/item/66aef090d9c307b7e9f985c6.jpg)
+![💜](https://pic.imgdb.cn/item/66aef091d9c307b7e9f9868c.jpg)
+
+
+
+
+
+
+
 
 {% endgallery %}
