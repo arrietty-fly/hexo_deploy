@@ -43,7 +43,7 @@ MBTI：ENTP-T
 2. [银虎 - 依然喜欢(Even Now) （原唱：梁耀燮）_](https://www.bilibili.com/video/BV1Zg4y1R7Lw/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
 3. [银虎 - 《Borrow Your Night》（原唱：10cm）_](https://www.bilibili.com/video/BV1hN411T7bk/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
 4. [银虎 - 《UNDERSTAND》（原唱：keshi）_](https://www.bilibili.com/video/BV1Wc41127eu/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
-5. [银虎 - 《Like We Turn The Pages》（原唱：homezone）_](https://www.bilibili.com/video/BV1pN4y147uq/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
+5. [银虎 - 《Like We Turn The Pages》（原唱：homezone）](https://www.bilibili.com/video/BV1pN4y147uq/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
 6. [银虎 -《Love Again》（原唱：伯贤）_](https://www.bilibili.com/video/BV1Bi4y1H7ix/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
 7. [艺俊&银虎 -《Your Dog Loves You》（原唱：Colde feat. Crush）_](https://www.bilibili.com/video/BV1dm411Z7F6/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
 8. [ 银虎 -《Killing Summer》（原曲：《Drop》+《No You Can't》）_](https://www.bilibili.com/video/BV1Wf421Z7sL/?spm_id_from=333.999.0.0&vd_source=683accdf4a366c372d15625bf59c99d7)
@@ -134,8 +134,10 @@ MBTI：ENTP-T
 ![❤️](https://pic.imgdb.cn/item/66aeefc8d9c307b7e9f6d79b.jpg)
 ![❤️](https://pic.imgdb.cn/item/66aef06dd9c307b7e9f90649.jpg)
 ![❤️](https://pic.imgdb.cn/item/66aef06dd9c307b7e9f906ee.jpg)
-
-
+![❤️](https://pic.imgdb.cn/item/66bff0e6d9c307b7e97c2a03.jpg)
+![❤️](https://pic.imgdb.cn/item/66bff0e6d9c307b7e97c2a5b.jpg)
+![❤️](https://pic.imgdb.cn/item/66bff0e6d9c307b7e97c2a21.jpg)
+![❤️](https://pic.imgdb.cn/item/66bff0e6d9c307b7e97c2a40.jpg)
 
 
 

@@ -131,5 +131,8 @@ Terra程序员与hamin进行了对话，得知了Asterum和Caelum的存在，以
 ![💙💜💗❤️🖤](https://pic.imgdb.cn/item/66aeeff4d9c307b7e9f770d6.jpg)
 ![💙💜💗❤️🖤](https://pic.imgdb.cn/item/66aeeff4d9c307b7e9f771ba.jpg)
 ![💙💜💗❤️🖤](https://pic.imgdb.cn/item/66aef01cd9c307b7e9f7f987.jpg)
+![💙💜💗❤️🖤](https://pic.imgdb.cn/item/66bff169d9c307b7e97c6ca4.jpg)
+![💙💜💗❤️🖤](https://pic.imgdb.cn/item/66bff2a2d9c307b7e97d4334.jpg)
+![💙💜💗❤️🖤](https://pic.imgdb.cn/item/66bff2a2d9c307b7e97d4315.jpg)
 
 {% endgallery %}
