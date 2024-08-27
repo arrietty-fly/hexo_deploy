@@ -162,6 +162,19 @@ MBTI：INTP
 ![💗](https://pic.imgdb.cn/item/66bff053d9c307b7e97bdd2d.jpg)
 ![💗](https://pic.imgdb.cn/item/66bff053d9c307b7e97bdd06.jpg)
 ![💗](https://pic.imgdb.cn/item/66bff206d9c307b7e97ce195.jpg)
+![💗](https://pic.imgdb.cn/item/66cda3c6d9c307b7e9fb4db9.jpg)
+![💗](https://pic.imgdb.cn/item/66cda3c6d9c307b7e9fb4f3e.jpg)
+![💗](https://pic.imgdb.cn/item/66cda3c7d9c307b7e9fb50c5.jpg)
+![💗](https://pic.imgdb.cn/item/66cda3c7d9c307b7e9fb5249.jpg)
+![💗](https://pic.imgdb.cn/item/66cda3c7d9c307b7e9fb529c.jpg)
+![💗](https://pic.imgdb.cn/item/66cda40cd9c307b7e9fc1808.jpg)
+
+
+
+
+
+
+
 
 
 {% endgallery %}
