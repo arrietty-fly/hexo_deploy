@@ -31,7 +31,7 @@ MBTI：INFJ-A
 <!-- timeline TMI -->
 
 1. [河玟日常的心率是56 像运动员一样的身体素质](https://weibo.com/7834063349/5046724194731226)
-2. 
+2. [论中话问Vol.1 杂志 内页 小卡翻面及翻译](https://weibo.com/7834398661/5072636279526933)
 
 <!-- endtimeline -->
 
@@ -81,9 +81,9 @@ MBTI：INFJ-A
 ![🖤](https://pic.imgdb.cn/item/66cda543d9c307b7e9fe6386.jpg)
 ![🖤](https://pic.imgdb.cn/item/66cda544d9c307b7e9fe6418.jpg)
 ![🖤](https://pic.imgdb.cn/item/66cda545d9c307b7e9fe64c7.jpg)
-
-
-
+![🖤](https://pic.imgdb.cn/item/66dcf73ed9c307b7e92c69c3.jpg)
+![🖤](https://pic.imgdb.cn/item/66dcf73fd9c307b7e92c6a7c.jpg)
+![🖤](https://pic.imgdb.cn/item/66dcf76cd9c307b7e92d0bca.jpg)
 
 
 
