@@ -77,8 +77,8 @@ class Musics {
             id: 8,
             title: '初夏',
             singer: '刘瑞琦',
-            songUrl: './songs/刘瑞琦 .mp3',
-            imageUrl: './images/songs/刘瑞琦 .jpg'
+            songUrl: './songs/刘瑞琦 初夏.mp3',
+            imageUrl: './images/songs/刘瑞琦 初夏.jpg'
         },
         {
             id: 9,
