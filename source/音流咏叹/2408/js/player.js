@@ -75,10 +75,10 @@ class Musics {
         },
         {
             id: 8,
-            title: 'Summer Ghost',
-            singer: '小瀬村晶',
-            songUrl: './songs/小瀬村晶--《Summer Ghost (夏日幽灵)》.mp3',
-            imageUrl: './images/songs/小瀬村晶--《Summer Ghost (夏日幽灵)》.jpg'
+            title: '初夏',
+            singer: '刘瑞琦',
+            songUrl: './songs/刘瑞琦 .mp3',
+            imageUrl: './images/songs/刘瑞琦 .jpg'
         },
         {
             id: 9,
