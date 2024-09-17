@@ -42,7 +42,7 @@ class Musics {
             id: 3,
             title: 'Cookie',
             singer: 'NewJeans',
-            songUrl: './songs/NewJeansCookie.mp3',
+            songUrl: './songs/Cookie.mp3',
             imageUrl: './images/songs/1.jpg'
         },
         {
