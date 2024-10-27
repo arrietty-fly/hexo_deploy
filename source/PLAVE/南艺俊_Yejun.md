@@ -31,7 +31,7 @@ MBTI：ISFJ-T
 <!-- timeline TMI -->
 
 1. [今后不要担心没有好吃的了](https://weibo.com/5088701042/NveQf1mnm?pagetype=profilefeed)
-2. 
+2. [241021 Weverse magazine](https://weibo.com/6591628792/5091887163116848)
 
 <!-- endtimeline -->
 
