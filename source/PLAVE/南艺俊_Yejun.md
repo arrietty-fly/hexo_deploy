@@ -32,6 +32,7 @@ MBTI：ISFJ-T
 
 1. [今后不要担心没有好吃的了](https://weibo.com/5088701042/NveQf1mnm?pagetype=profilefeed)
 2. [241021 Weverse magazine](https://weibo.com/6591628792/5091887163116848)
+2. [艺俊爱噗哩的十个理由 ](https://weibo.com/6591628792/5099630710756524)
 
 <!-- endtimeline -->
 
