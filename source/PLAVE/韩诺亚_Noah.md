@@ -34,6 +34,7 @@ MBTI：ISTJ-A (22.09.29)➡️ISFJ-A（2 3.1 2.18）
 2. [拥有能包容全世界的环绕式魅力的韩诺亚](https://weibo.com/6856954043/N0neO87X1?pagetype=profilefeed)
 2. [小斑比和小诺亚小时候的轶事三两件](https://weibo.com/3251547692/5112307861947096)
 2. [谁知道正式挑战作曲的契机居然是因为这个呢……ㅠ](https://weibo.com/3251547692/5112301019464449)
+2. [👸🏻的石头床受难记](https://weibo.com/3251547692/5115934300178731)
 
 <!-- endtimeline -->
 
@@ -141,9 +142,9 @@ MBTI：ISTJ-A (22.09.29)➡️ISFJ-A（2 3.1 2.18）
 ![💜](https://pic.imgdb.cn/item/66dcf6b0d9c307b7e92b4f84.jpg)
 ![💜](https://pic.imgdb.cn/item/66dcf6b0d9c307b7e92b5017.jpg)
 ![💜](https://pic.imgdb.cn/item/66dcf6f6d9c307b7e92b9e67.jpg)
-
-
-
-
-
+![💜](https://pic1.imgdb.cn/item/677a6632d0e0a243d4ef2a66.jpg)
+![💜](https://pic1.imgdb.cn/item/677a6633d0e0a243d4ef2a67.jpg)
+![💜](https://pic1.imgdb.cn/item/677a6634d0e0a243d4ef2a68.jpg)
+![💜](https://pic1.imgdb.cn/item/677a6634d0e0a243d4ef2a69.jpg)
+![💜](https://pic1.imgdb.cn/item/677a6635d0e0a243d4ef2a6a.jpg)
 {% endgallery %}

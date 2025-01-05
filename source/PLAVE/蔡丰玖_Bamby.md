@@ -176,10 +176,14 @@ MBTI：INTP
 ![💗](https://pic.imgdb.cn/item/66dcf6f4d9c307b7e92b99e8.jpg)
 ![💗](https://pic.imgdb.cn/item/66dcf6f5d9c307b7e92b9ac5.jpg)
 ![💗](https://pic.imgdb.cn/item/66dcf6f7d9c307b7e92ba12a.jpg)
-
-
-
-
-
-
+![💗](https://pic1.imgdb.cn/item/677a6683d0e0a243d4ef2a7d.jpg)
+![💗](https://pic1.imgdb.cn/item/677a6683d0e0a243d4ef2a7e.jpg)
+![💗](https://pic1.imgdb.cn/item/677a6684d0e0a243d4ef2a7f.jpg)
+![💗](https://pic1.imgdb.cn/item/677a6685d0e0a243d4ef2a80.jpg)
+![💗](https://pic1.imgdb.cn/item/677a6685d0e0a243d4ef2a81.jpg)
+![💗](https://pic1.imgdb.cn/item/677a66b8d0e0a243d4ef2a8f.jpg)
+![💗](https://pic1.imgdb.cn/item/677a66b9d0e0a243d4ef2a90.jpg)
+![💗](https://pic1.imgdb.cn/item/677a66b9d0e0a243d4ef2a91.jpg)
+![💗](https://pic1.imgdb.cn/item/677a66b9d0e0a243d4ef2a92.jpg)
+![💗](https://pic1.imgdb.cn/item/677a66bad0e0a243d4ef2a93.jpg)
 {% endgallery %}

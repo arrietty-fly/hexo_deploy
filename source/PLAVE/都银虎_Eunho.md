@@ -145,6 +145,19 @@ MBTI：ENTP-T
 ![❤️](https://pic.imgdb.cn/item/66dcf73ed9c307b7e92c67a8.jpg)
 ![❤️](https://pic.imgdb.cn/item/66dcf73ed9c307b7e92c68d2.jpg)
 ![❤️](https://pic.imgdb.cn/item/66dcf73fd9c307b7e92c6c6c.jpg)
+![❤️](https://pic1.imgdb.cn/item/677a66e4d0e0a243d4ef2aa6.jpg)
+![❤️](https://pic1.imgdb.cn/item/677a66e5d0e0a243d4ef2aa7.jpg)
+![❤️](https://pic1.imgdb.cn/item/677a66e5d0e0a243d4ef2aa8.jpg)
+![❤️](https://pic1.imgdb.cn/item/677a66e6d0e0a243d4ef2aa9.jpg)
+![❤️](https://pic1.imgdb.cn/item/677a66e6d0e0a243d4ef2aaa.jpg)
+![❤️](https://pic1.imgdb.cn/item/677a670cd0e0a243d4ef2ab6.jpg)
+![❤️](https://pic1.imgdb.cn/item/677a670dd0e0a243d4ef2ab7.jpg)
+![❤️](https://pic1.imgdb.cn/item/677a670ed0e0a243d4ef2ab8.jpg)
+
+
+
+
+
 
 
 {% endgallery %}
